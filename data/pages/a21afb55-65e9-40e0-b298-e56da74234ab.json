@@ -13,8 +13,7 @@
       "uuid": "0f970661-1b55-4a4b-b593-0ccb2fe438e8",
       "includes": [
         "media",
-        "annotations",
-        "description"
+        "annotations"
       ],
       "children": [
         {
@@ -35,7 +34,7 @@
   "created_by": "artyella",
   "title": "Art and literature joint review session: Plastic arts topics- Part 1",
   "slug": "art-and-literature-joint-review-session-plas",
-  "updated_at": "2025-07-22T21:34:32.006Z",
+  "updated_at": "2025-07-22T21:34:54.551Z",
   "updated_by": "artyella",
   "parent": "30cee196-f789-4dda-8803-cbacf1eb1f5f",
   "autogenerate": {
