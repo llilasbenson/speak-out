@@ -1,1 +1,2464 @@
-{"annotations":[],"set":"Default","event_id":"20d2201e-bec4-41f7-82a7-b9167b4d707f","source_id":"3d239af2-8ee6-4aaf-b64c-1c25a77e4955"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[pause]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        }
+      ],
+      "uuid": "19018baf-6ed1-4a2f-9dd2-db29b9772c8e"
+    },
+    {
+      "start_time": 11,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Carlos, can I ask you to intervene?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        }
+      ],
+      "uuid": "25ab7a7f-3b4a-48c4-b3a7-b6f3c8410609"
+    },
+    {
+      "start_time": 18,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Actually, I had to ask a question in relation to Juan Acha's proposal. This is, is the proposal for the construction of conceptual models supposed or not? In this case, in my opinion, it is inadmissible. A previous theoretical task prior to the creation of the works of art and related to them, that is, the construction of the conceptual model as a work program dictated to the artists. I would like to make a clarification."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Rodríguez Saavedra, Carlos (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Acha, Juan, 1916-1995"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "57e568bc-6e43-457b-b94b-a6bf953f11b2"
+    },
+    {
+      "start_time": 70,
+      "end_time": 100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That is to say, I am referring to the fact that there is no doubt that we are, that is to say, we have an identity, because we are neither French, nor Chinese, nor Japanese. Even in this panel we have been talking about expression, that is, expression of what we are. Undoubtedly we are. We are not satisfied with what we are just like any other human being, it is a whole process."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Acha, Juan, 1916-1995 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "49e353d0-085c-4a5f-b586-52ce755022d5"
+    },
+    {
+      "start_time": 101,
+      "end_time": 148,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In my opinion, there is no stable and permanent, fixed national identity pattern. That is to say, this identity evolves according to the generations, according to the historical moment. Undoubtedly, I insist, we are, we exist, in a very particular way, in a very Latin American way, what we lack is to find the concepts, the ways to grasp these ways of being Latin American and of wanting to be others."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Acha, Juan, 1916-1995 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Identity (Philosophical concept) in art"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "64162b02-ba04-4f26-a2d0-7739ed9ba97a"
+    },
+    {
+      "start_time": 152,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Szyszlo asks for the floor and I will gladly give it to him."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Szyszlo, Fernando de, 1925-2017"
+        }
+      ],
+      "uuid": "62fe69f7-90f7-44b3-8583-344b35e30ace"
+    },
+    {
+      "start_time": 156,
+      "end_time": 187,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I believe that here I insist on what I said, or rather should insist on what I said, I believe that this discussion on these points of identity is slightly out of date, isn't it? That is to say, in Latin American painting, or let us transfer it to Latin American literature to make my point of view more evident, this problem of identity remained in the 30's, with the novel by Ciro Alegría, and Casa, etcetera."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Szyszlo, Fernando de, 1925-2017 (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Alegría, Ciro, 1909-1967"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Casa"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Painting, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and Literature"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Latin American literature"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Combination of art and literature"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Painting"
+        }
+      ],
+      "uuid": "8df96943-6243-4e8b-930c-aa61b699409b"
+    },
+    {
+      "start_time": 188,
+      "end_time": 223,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This problem no longer arises for García Márquez, Vargas Llosa or Cortázar. That is to say, it is a mature literature and there is no need to investigate whether it exists. That is to say, it seems to me an unnecessary modesty to investigate whether there is a way to respond to the circumstance of having been born with a certain tradition or with a certain lack of tradition, and in a certain historical and political circumstance. I believe that this problem is now nonexistent in Latin America."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Szyszlo, Fernando de, 1925-2017 (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "García Márquez, Gabriel, 1927-2014"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vargas Llosa, Mario, 1936-2025"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cortázar, Julio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "afe2d195-8735-4161-9e73-7aa7dd970d8b"
+    },
+    {
+      "start_time": 226,
+      "end_time": 227,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Damian?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Traba, Marta, 1930-1983 (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Bayón, Damián"
+        }
+      ],
+      "uuid": "90957293-960d-417c-ad32-696d5247d324"
+    },
+    {
+      "start_time": 228,
+      "end_time": 229,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marta Traba?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Traba, Marta, 1930-1983"
+        }
+      ],
+      "uuid": "d453cbca-e2b2-454f-9dc6-d5865fdf56ff"
+    },
+    {
+      "start_time": 231,
+      "end_time": 256,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I agree with Fernando de Szyszlo completely. I think we should perhaps change the topic of identity for something else. What is happening in the contemporary world with the visual arts and what is it that artists are expected to do? Artists, or the work of artists, have been stripped of all danger and, as far as possible, of all meaning, and have been prevented as far as possible from saying anything."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Traba, Marta, 1930-1983 (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Szyszlo, Fernando de, 1925-2017"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Identity (Philosophical concept) in art"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Contemporary art"
+        }
+      ],
+      "uuid": "8a23ffe2-de06-49bf-9c34-1411443659b5"
+    },
+    {
+      "start_time": 257,
+      "end_time": 281,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The work of artists says less and less, lacks the possibility of language and therefore lacks the possibility of influencing society. The idea is for him to be the jester, the juggler, the one who amuses society and entertains it. It seems to me that this is the problem to raise and to see if Latin Americans agree with this general project or if Latin Americans are largely against this general project."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Traba, Marta, 1930-1983 (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Semiotics and art"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Substance and form in contemporary art"
+        }
+      ],
+      "uuid": "15c4389f-7898-47a5-b7fc-273006735e4e"
+    },
+    {
+      "start_time": 282,
+      "end_time": 297,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If they are against it, then in what way do they insurrect, insubordinate themselves against that general project of liquidation of art or transformation of art into something perfectly useless for the adornment of the houses of the well-to-do? It seems to me that the problem is more centered on that than on anything else."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Traba, Marta, 1930-1983 (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Substance and form in contemporary art"
+        }
+      ],
+      "uuid": "289bdba2-e0f9-4847-9d5f-dbee7a14729c"
+    },
+    {
+      "start_time": 298,
+      "end_time": 330,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With regard to what Acha and also Dore Ashton said, I would like to clarify or say that it also seems obvious to me to insist that the critic does not invent the models and that the critic does not give guidelines to follow. The critic limits himself to point out, to group, as Dore Ashton does with the North American artists, a series of artistic expressions to which he finds some sense or some value within the society in which they are located."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Traba, Marta, 1930-1983 (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Acha, Juan, 1916-1995"
+        },
+        {
+          "category": "People",
+          "tag": "Ashton, Dore, 1928-2017"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        }
+      ],
+      "uuid": "067a6431-f9bf-4eaa-b0e7-6de6c61658dd"
+    },
+    {
+      "start_time": 330,
+      "end_time": 348,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So the critic goes after the artist, who is the one who provides the models. What matters here is the creator of the model and the creator of the model is the artist. Now he has already created them, not that we are going to create them from this symposium onwards. There is already a perfectly clear Latin American art for us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Traba, Marta, 1930-1983 (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        }
+      ],
+      "uuid": "8dd1fcbc-3eb4-4889-9759-113f69aafaf4"
+    },
+    {
+      "start_time": 349,
+      "end_time": 362,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What I am saying is that others don't give a damn about it, but we do. Does it serve us? Yes, it serves to a large extent for us, but to the extent that it is language, to the extent that it has an impact, to the extent that it provides a function and a service within society."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Traba, Marta, 1930-1983 (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art and society"
+        }
+      ],
+      "uuid": "72aca3ba-7b4e-4a60-aa98-f93075e15790"
+    },
+    {
+      "start_time": 363,
+      "end_time": 369,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[applause]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Traba, Marta, 1930-1983 (woman)"
+        }
+      ],
+      "uuid": "6724e742-8df0-49a2-a03f-b516e19758b4"
+    },
+    {
+      "start_time": 370,
+      "end_time": 405,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I thank Marta Traba, now I don't agree that conceptual art, for example, is a lot of fun. What it is for me is profoundly boring, but you can see that I have the same basic idea as she does. I would like, going back a little to what Szyszlo was saying about this obsession of ours to meet, to read you a paragraph by Umberto Eco, which I put in my book, Aventura plástica, because it seems to me quite revealing, as a man, an intelligent Italian intellectual who travels a lot to South America, sees us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Traba, Marta, 1930-1983"
+        },
+        {
+          "category": "People",
+          "tag": "Szyszlo, Fernando de, 1925-2017"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Eco, Umberto"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art and literature"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Combination of art and literature"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Conceptual art"
+        }
+      ],
+      "uuid": "8f9ae93d-2978-4661-bba5-e103188beb9e"
+    },
+    {
+      "start_time": 406,
+      "end_time": 442,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He refers specifically to Argentines, but it can be generalized. He says, \"The Argentine intellectual follows with an exemplary voracity and actuality, what happens in France, Germany, Italy or the United States. And as he is aware of this form of dependence on other cultures, he continually lives in the doubt of not producing anything original and despises himself while using foreign products. In doing so, it does not realize how many original contributions he is making or is capable of making to various disciplines\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        },
+        {
+          "category": "Places",
+          "tag": "France"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Germany"
+        },
+        {
+          "category": "Places",
+          "tag": "Italy"
+        },
+        {
+          "category": "Places",
+          "tag": "United States"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art and literature"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Combination of art and literature"
+        }
+      ],
+      "uuid": "d72223ed-94ce-44bb-83de-17bd87de43d8"
+    },
+    {
+      "start_time": 443,
+      "end_time": 499,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He ends by saying, “The elementary form of provincialism does not consist then in maintaining relations of dependence with other cultures, but in always elaborating the neurotic sensation of being dependent”. I find this quote from Humberto Eco very important, because I think that, as Szyszlo says, the problem, in a way, is past. We are discussing here things of 30 years ago, since I am absolutely persuaded, to give a short list, that since ancient times, what Torres García achieved, the Brazilian architecture of the 1940s, the work of Tamayo and Matta, the work of the Venezuelan and Argentinean kineticists, is perfectly original anywhere in the world. It didn't exist before."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Szyszlo, Fernando de, 1925-2017"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Eco, Umberto"
+        },
+        {
+          "category": "People",
+          "tag": "Matta, 1912-2002"
+        },
+        {
+          "category": "People",
+          "tag": "Tamayo, Rufino, 1899-1991"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art and literature"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Kinetic art"
+        }
+      ],
+      "uuid": "ee175aa1-d7ab-41ce-9482-5738b046c7ca"
+    },
+    {
+      "start_time": 500,
+      "end_time": 518,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Europeans or North Americans who want to see that kind of works and who sometimes imitate them, Europeans are imitating Venezuelans and Argentines a lot lately, have to refer to those models. We are already creators of models, but I am invading and I am becoming a panelist when I am only chairman."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Combination of art and literature"
+        }
+      ],
+      "uuid": "531acc0e-1bab-444b-94d9-ce8b4ac5e0ac"
+    },
+    {
+      "start_time": 519,
+      "end_time": 520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "May I take the floor?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Acha, Juan, 1916-1995 (man)"
+        }
+      ],
+      "uuid": "9e1423cc-25e7-4176-b4c6-bfcde510631c"
+    },
+    {
+      "start_time": 521,
+      "end_time": 521,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        }
+      ],
+      "uuid": "59a530c0-784d-40ae-8ef7-da8889dcc513"
+    },
+    {
+      "start_time": 522,
+      "end_time": 561,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I didn't want to specify insidiousness, in the end I agree with Szyszlo, the question has been overcome, that's precisely why I insist that we have an identity and that we lack the concepts to grasp it. But I say it in a sense not a priori, but a posteriori as it corresponds to art criticism, inasmuch as the artist gives us a new image of our identity and criticism lacks concepts to be able to establish to what extent a Soto or a Leparc is Latin American."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Acha, Juan, 1916-1995 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Szyszlo, Fernando de, 1925-2017"
+        },
+        {
+          "category": "People",
+          "tag": "Soto, Jesús Rafael, 1923-2005"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Le Parc, Julio, 1928-"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Identity (Philosophical concept) in art"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Kinetic sculpture"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        }
+      ],
+      "uuid": "ad612b0a-2808-4e95-af73-89e70383323e"
+    },
+    {
+      "start_time": 568,
+      "end_time": 623,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I give the floor to whoever asks for it if they continue with this plan. If not, I will add some element to relaunch the discussion. It also seems to me that we exaggerate a lot in our search for those roots. What are, finally, our roots? We are cultural mestizos and there is no remedy for that. I am very happy that we are. A person as civilized, apparently, as Julio Cortázar is a cultural mestizo. Severo Sarduy, the Cuban from Paris, is a cultural mestizo too. I say that without any pejorative sense. In English he may have it, in Spanish he does not. Why? Precisely, because in the case of Sarduy, for example, he arrives very young in Paris, practically half-formed, just beginning to transform."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cortázar, Julio"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sarduy, Severo"
+        },
+        {
+          "category": "Places",
+          "tag": "France"
+        },
+        {
+          "category": "Places",
+          "tag": "France--Paris"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Combination of art and literature"
+        }
+      ],
+      "uuid": "d537b165-bec5-4871-9738-8a3cfd97b16a"
+    },
+    {
+      "start_time": 624,
+      "end_time": 651,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A fervent disciple of Lezama Lima, who suddenly finds himself in a sophisticated milieu like Paris, he gets in touch with the people at TelQuel. He starts to publish and produce, to really grow. He begins to publish and produce, to really grow. What is Severo Sarduy today? He is a pure Latin American writer. We treat him as such, because it suits us, because he is important. The French can consider him as well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lezama Lima, José"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sarduy, Severo"
+        },
+        {
+          "category": "Places",
+          "tag": "France"
+        },
+        {
+          "category": "Places",
+          "tag": "France--Paris"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "TelQuel"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "c238da78-f744-46ac-87c4-ba9fcf5b5079"
+    },
+    {
+      "start_time": 652,
+      "end_time": 686,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We are in a world, today's world, and it is going to be more and more in the younger generations, decidedly mixed. Where are we going to get our roots from, if not from the traditional western culture mixed in the countries that have it with indigenous or pre-Columbian cultures? So this neurotic obsession, as Eco said, of believing that we are always imitating. It turns out that we have not been imitating for many years, that our great artists do not imitate, they are themselves models, Borges is a model."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Eco, Umberto"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Borges, Jorge Luis, 1899-1986"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Latin American literature"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art and literature"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Combination of art and literature"
+        }
+      ],
+      "uuid": "150506f5-24b5-42e6-8700-c69df059752d"
+    },
+    {
+      "start_time": 687,
+      "end_time": 709,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No one can imagine the importance. The day I was opening a book by Michel Foucault, I saw the first page that began like this. Borges says in one line, “Now we are admitted, because when a sophisticated intellectual also like Michel Foucault quotes directly as if he said Kierkegaard or says Nietzsche”."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Foucault, Michel, 1926-1984"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Borges, Jorge Luis, 1899-1986"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Latin American literature"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Combination of art and literature"
+        }
+      ],
+      "uuid": "6148be3b-38f7-409b-b08a-83bbb630f288"
+    },
+    {
+      "start_time": 710,
+      "end_time": 738,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Borges says, \"I understood that we were in that sense, we had passed that waiting time. I do not know why the plastic arts are not going to gain the same recognition as the Latin American avant-garde literature and that I return perhaps polarizing more with Marta Traba, who finally is the most unredeemed, the most dissatisfied. The others of us already seem to be a way of self-satisfaction to answer me again\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Borges, Jorge Luis, 1899-1986"
+        },
+        {
+          "category": "People",
+          "tag": "Traba, Marta, 1930-1983"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art and literature"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Latin American literature"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Plastic arts"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Combination of art and literature"
+        }
+      ],
+      "uuid": "772a1b85-ec8c-41bd-b50f-41a5b69704c3"
+    },
+    {
+      "start_time": 739,
+      "end_time": 781,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " With pleasure. I think that the discussion on identity is a little bit desultory, as I believe that we have almost all agreed on this, assuming that we do have it, and that being Mestizo is an identity without any doubt. I believe that the discussion of the dependence that one subject is different from the other, the recognition that we have a series of peculiarities, behavioral patterns and different cultural traditions, seems already the obvious and it is on that that I believe that we should not insist, because it would be a little ridiculous and neurotic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Traba, Marta, 1930-1983 (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Identity (Philosophical concept) in art"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "95328860-0494-4c2e-a3fe-566a5e681c31"
+    },
+    {
+      "start_time": 782,
+      "end_time": 815,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is not at all ridiculous and neurotic to talk about dependency, because we are still in dependency. How are we not? Of course we are still in dependency. The dependence I am not only referring to political and economic systems, I am referring to cultural dependencies. I insist that if there is a whole series of projects that can be globally aligned in the avant-gardes, in the works of the avant-gardes, that I also know many opinions that I have read in plural by Damian, about how boring, how dreadful and how idiotic the avant-gardes are."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Traba, Marta, 1930-1983 (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Bayón, Damián"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "a68bac8d-9461-42e0-aac0-5b5a927ddc0c"
+    },
+    {
+      "start_time": 816,
+      "end_time": 832,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If all that is true and the avant-gardes are the ones that more or less dominate today a general art project, we have to see what we do about it. If the majority of artists are not still crazy about following the avant-garde in order to be recognized, and that is where I totally disagree with Damian."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Traba, Marta, 1930-1983 (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Bayón, Damián"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "7c54a16b-1ab7-4bee-8e67-8f79713c45ce"
+    },
+    {
+      "start_time": 833,
+      "end_time": 871,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't care at all that we are recognized in Europe and the United States. I think the fact that Borges is recognized does not make Borges. Borges is there long before being recognized by Michel Foucault, Borges exists. I think the interesting thing about Borges is exactly that, in spite of the fact that he has come here a lot to the conversation and what Dore Ashton said at the beginning, is that what we remember about Borges, what defines Borges for us is much more the stories of the cutlers, the man on the pink corner and what he can give of the neighborhood of Buenos Aires, and all that he transmits to us, all the original and new experience he transmits to us, than other more critical things, such as The Library of Babel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Traba, Marta, 1930-1983 (woman)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Borges, Jorge Luis, 1899-1986"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Foucault, Michel, 1926-1984"
+        },
+        {
+          "category": "People",
+          "tag": "Ashton, Dore, 1928-2017"
+        },
+        {
+          "category": "Places",
+          "tag": "Argentina--Buenos Aires"
+        },
+        {
+          "category": "Places",
+          "tag": "Argentina"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Latin American Literature"
+        }
+      ],
+      "uuid": "73af26a0-a319-4ca9-af9a-d6eb3081e93f"
+    },
+    {
+      "start_time": 872,
+      "end_time": 900,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That is to say, I am much more interested in the Buenos Aires, the Argentinean, the Buenairense, the porteño that identifies Borges, than in other things. I think that when we are very happy to be recognized, there is also a neurotic thing of assumption of dependence. When we are very happy to be invited to a symposium in the United States or to a symposium in France, because they realized that we exist. There is also a neurotic process of dependence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Traba, Marta, 1930-1983 (woman)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Borges, Jorge Luis, 1899-1986"
+        },
+        {
+          "category": "Places",
+          "tag": "Argentina--Buenos Aires"
+        },
+        {
+          "category": "Places",
+          "tag": "United States"
+        },
+        {
+          "category": "Places",
+          "tag": "France"
+        },
+        {
+          "category": "Places",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Places",
+          "tag": "United States"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Latin American Literature"
+        }
+      ],
+      "uuid": "5d02560c-293c-4f73-8aa5-6a8f3f8d6739"
+    },
+    {
+      "start_time": 901,
+      "end_time": 935,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I believe that we are by no means free of that and that most of our artists are totally involved in that history. Unless they renounce that history and resolve to work for their public, for their societies, for their environment that needs them like nobody else. The artist among us does fulfill a social function and our means are so impoverished, they are so lacking in everything that of the means in which the artists consider themselves apart without any obligation, with respect to the place where they are working."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Traba, Marta, 1930-1983 (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art and society"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "c5e941b5-09c5-4c0c-a13b-03464647ce59"
+    },
+    {
+      "start_time": 936,
+      "end_time": 952,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I believe that the function of the artist is extremely important and his function is to reestablish the linguistic and communicative values of language. Not to work in these kind of idiotic games that most of contemporary art has become."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Traba, Marta, 1930-1983 (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art and society"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Contemporary art"
+        }
+      ],
+      "uuid": "47b75eb3-e0c0-45c7-8620-de62526b6e04"
+    },
+    {
+      "start_time": 953,
+      "end_time": 961,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[applause]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Traba, Marta, 1930-1983 (woman)"
+        }
+      ],
+      "uuid": "98893d14-6d6b-4e82-babd-0f2cb1fc1d6d"
+    },
+    {
+      "start_time": 962,
+      "end_time": 973,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I see in the group of the discussants that many people who would have things-- Well, then I am going to address the discussants. José Luis Cuevas has the floor."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Cuevas, José Luis, 1934-2017"
+        }
+      ],
+      "uuid": "078dae33-ebb6-401b-893b-da05bf70d8ce"
+    },
+    {
+      "start_time": 974,
+      "end_time": 1023,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Actually, I was a little surprised that Dr. Bayón was in the self-satisfied group, because I am actually with the non-conforming minority, of course. I believe, I absolutely agree with what Marta Traba said. I think she is a very brilliant person, a truly extraordinary person. Just as she has spoken of de-privolizing art, just as she has been against such repugnant artistic frivolity of recent times, I believe I also have the right to try to de-privolize Latin American art criticism."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Cuevas, José Luis, 1934-2017 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Bayón, Damián"
+        },
+        {
+          "category": "People",
+          "tag": "Traba, Marta, 1930-1983"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        }
+      ],
+      "uuid": "fc1b5bb2-92d5-4e0b-96d3-fd0b5cb369f9"
+    },
+    {
+      "start_time": 1024,
+      "end_time": 1079,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The fact that some Latin American critics, in the last few months, we could say, are taking an interest in Latin American art, is almost an elegant attitude as they had when they only let themselves be surprised by what came from Paris. I think Latin America has definitely had two important critics, two critics who with the utmost seriousness, without any frivolity in between, have believed in Latin American art: Jose Gomez Sicre and Marta Traba. On the other hand, the frivolous critics have fallen into a series of truly terrible contradictions."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Cuevas, José Luis, 1934-2017 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Gómez Sicre, José"
+        },
+        {
+          "category": "People",
+          "tag": "Traba, Marta, 1930-1983"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        }
+      ],
+      "uuid": "67f4e9af-5525-446b-bc6c-bf22cf7293f9"
+    },
+    {
+      "start_time": 1080,
+      "end_time": 1124,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They effectively speak of a Latin American art that has made contributions, such as Venezuelan kinetic art. I absolutely agree, above all in the great contribution made by Alejandro Otero to kinetic art, because we must not fail to recognize that Venezuelan kinetic art began with Alejandro Otero and not with Soto and Cruz Diez, as Denise Rene's gallery in New York has led us to believe. Alejandro Otero has remained in Venezuela all the time and has not gone to seek Denise René's backing in Paris, far from it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Cuevas, José Luis, 1934-2017 (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Otero, Alejandro, 1921-1990"
+        },
+        {
+          "category": "People",
+          "tag": "Soto, Jesús Rafael, 1923-2005"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cruz Diez, Carlos, 1923-2019"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "René, Denise"
+        },
+        {
+          "category": "Places",
+          "tag": "France--Paris"
+        },
+        {
+          "category": "Places",
+          "tag": "United States--New York"
+        },
+        {
+          "category": "Places",
+          "tag": "United States"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Kinetic art"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Kinetic sculpture"
+        }
+      ],
+      "uuid": "00eb1397-9443-4755-bb99-5705bb3e7a81"
+    },
+    {
+      "start_time": 1125,
+      "end_time": 1171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So in this case I definitely believe that we can speak of a Latin American contribution to the art of the world. At the same time, I see a series of contradictions here, because I would also like to ask Dr. Bayon, with a very deep interest in his answer, if he sincerely believes that there are contributions in any of the artists he has selected to be presented in the exhibition that is here. I believe that the exhibition selected, with very few exceptions, among which I would count Fernando de Szyszlo, Vicente Rojo, Toledo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Cuevas, José Luis, 1934-2017 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Bayón, Damián"
+        },
+        {
+          "category": "People",
+          "tag": "Szyszlo, Fernando de, 1925-2017"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rojo, Vicente, 1932-"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Toledo, Francisco, 1940-2019"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Breakway Generation"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art exhibition"
+        }
+      ],
+      "uuid": "4c26442c-3ceb-4546-bf7c-e371d126181d"
+    },
+    {
+      "start_time": 1172,
+      "end_time": 1201,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The other artists are absolutely clumsy imitations in most cases of what is being done in New York or what is being done in Europe. So I frankly feel that these artists in underdeveloped countries, so full of deficiencies, talk about establishing bridges between art and science, are completely inadmissible in a symposium and in a place where an art with its own seats is being discussed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Cuevas, José Luis, 1934-2017 (man)"
+        },
+        {
+          "category": "Places",
+          "tag": "United States--New York"
+        },
+        {
+          "category": "Places",
+          "tag": "United States"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "59f745ab-7f94-4c24-a880-677629cde0bf"
+    },
+    {
+      "start_time": 1202,
+      "end_time": 1208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[applause]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Cuevas, José Luis, 1934-2017 (man)"
+        }
+      ],
+      "uuid": "4bca2c83-834c-49f9-b78f-16f451d06e1a"
+    },
+    {
+      "start_time": 1209,
+      "end_time": 1229,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I thank José Luis Cuevas for his intervention, but I am not going to respond to him. It is not up to me as chairman of this panel to justify, nor do I have to justify my choice when I was given complete freedom to do so. On the other hand, I see among the discussants a number of people who could have something interesting to say."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Cuevas, José Luis, 1934-2017"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art exhibition"
+        }
+      ],
+      "uuid": "ca6c3f66-66ae-46fd-9394-481ff0eea1e4"
+    },
+    {
+      "start_time": 1230,
+      "end_time": 1270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We are approaching the end of the hour, I would invite you to come to the podium if you want to continue in this line or to put something that has been said here or to establish a criticism. Think this is actually the first act, we have the second part tomorrow, but it could be that somebody might want to speak. Jacqueline Barnett [unintelligible 00:20:50]. Why don't you come there to--? I'm going to give the opportunity to Jacqueline Barnett to-- Yes? Please."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Barnett, Jacqueline"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "d4e66584-c765-4b60-a868-86963c2e925b"
+    },
+    {
+      "start_time": 1272,
+      "end_time": 1301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think that, at this point, instead of trying to find an identity, I'm going to recognize that many Latin American artists have actually contributed as much as they have anywhere else. For instance, Cuevas just mentioned Otero, and Otero began to work towards certain things in the 40s when many people were still struggling with the early periods of abstraction."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Barnett, Jacqueline (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Cuevas, José Luis, 1934-2017"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Otero, Alejandro, 1921-1990"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Identity (Philosophical concept) in art"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Abstract expressionism"
+        }
+      ],
+      "uuid": "aeee44a5-4bcb-4286-8cdc-979096567258"
+    },
+    {
+      "start_time": 1302,
+      "end_time": 1331,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Consequently, I would recognize him too as a source for kineticism. He was in Paris at the time when Soto went over, so consequently, all of this developed. When Vasarely began working on these terms, when Agam began working on these terms, and Burri, the Venezuelans were already doing it. I think it's time we recognize that a lot of things did come from Latin American artists."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Barnett, Jacqueline (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Soto, Jesús Rafael, 1923-2005"
+        },
+        {
+          "category": "People",
+          "tag": "Vasarely, Victor, 1906-1997"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Agam, Yaacov, 1928-"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Burri, Alberto, 1915-1995"
+        },
+        {
+          "category": "Places",
+          "tag": "France--Paris"
+        },
+        {
+          "category": "Places",
+          "tag": "France"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Kinetic Art"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Kinetic Sculpture"
+        }
+      ],
+      "uuid": "d234fff7-9f2a-49a0-b9e3-9141c1d64acb"
+    },
+    {
+      "start_time": 1333,
+      "end_time": 1368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another thing I'd like to say is that, for instance, when talks about resistance to cultural forces, and mostly I think that one of the problems has been a lot of resistance towards the importation in Latin America of abstract expressionism. It's very difficult to avoid foreign influences because they always come from everywhere. One of the things that I think is important to realize is not so much what the artists are doing as resistance, but when they're doing it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Barnett, Jacqueline (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Abstract expressionism"
+        }
+      ],
+      "uuid": "bedcf4cd-b5bb-4230-b6df-bd31ce2c591c"
+    },
+    {
+      "start_time": 1369,
+      "end_time": 1349,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For instance, people like Negret and Ramirez were working in New York at a time when abstract expressionism was high, pop art and optical art. What they did was something that, of course, had taken from many sources. But they consequently went back to Colombia and whatever they did was against the current and we must take into consideration the chronology, the time when they were developing these things. Consequently, I don't think we can really talk in terms of, say, cultural imperialism, because they have to get their sources from somewhere."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Barnett, Jacqueline (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Negret, Edgar, 1920-2012"
+        },
+        {
+          "category": "Places",
+          "tag": "United States--New York"
+        },
+        {
+          "category": "Places",
+          "tag": "Colombia"
+        },
+        {
+          "category": "Places",
+          "tag": "United States"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pop art"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Abstract expressionism"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Optical art"
+        }
+      ],
+      "uuid": "8ec8c2f8-865d-4c3b-9c78-78d92b215bf0"
+    },
+    {
+      "start_time": 1350,
+      "end_time": 1439,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You might take somebody like, what's his name? Santiago Cárdenas, for instance, who worked in the United States for eight years. Of course, he had the influences of the people with whom he came into contact, Alex Katz and several others. But what he's doing now has nothing to do with pop art, has nothing to do with what the North Americans were doing. He actually did manage to develop his own work and I think this exists much more than one realizes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Barnett, Jacqueline (woman)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cárdenas, Santiago, 1937-"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Katz, Alex, 1927-"
+        },
+        {
+          "category": "Places",
+          "tag": "United States"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pop art"
+        }
+      ],
+      "uuid": "8944c55e-c356-45ac-b924-e96ffbb80be1"
+    },
+    {
+      "start_time": 1440,
+      "end_time": 1441,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you, Jacqueline Barnett."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Barnett, Jacqueline"
+        }
+      ],
+      "uuid": "6027271e-41ca-4a24-9541-1688e6b23786"
+    },
+    {
+      "start_time": 1441,
+      "end_time": 1445,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[aplausos]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        }
+      ],
+      "uuid": "5c7f6253-5aaf-4e61-a09d-3ccc8431506c"
+    },
+    {
+      "start_time": 1446,
+      "end_time": 1456,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I would like to give Emir Rodríguez Monegal, that is actually in other panels of literature, speak, and I invite him to come to the podium."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rodríguez Monegal, Emir"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "281f513c-e4b6-4b09-bc11-acc71d5e863b"
+    },
+    {
+      "start_time": 1472,
+      "end_time": 1497,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I am going to take advantage of the fact that Szyszlo spoke about literature to sneak into this art panel. My total ignorance of the subject justifies me. Since I fear that the conversations that follow this afternoon and tomorrow will continue with a certain kind of confusion, I would almost say of vocabulary, it seems appropriate to clarify a problem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rodríguez Monegal, Emir (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Szyszlo, Fernando de, 1925-2017"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Latin American literature"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Combination of art and literature"
+        }
+      ],
+      "uuid": "8673d90a-fbc3-4389-b4d8-0902c12a8dc3"
+    },
+    {
+      "start_time": 1498,
+      "end_time": 1540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think what the Uruguayan master Carlos Vazquez Ferreira called taking the complementary for contradictory is happening here. That is to say, we talk on the one hand about the recognition of Hispanic American art in the great metropolises, Paris or New York. We talk as if it were the same thing about the authenticity of Hispano-American art, we talk as if it were the same thing about the search for the identity of the Latin American creator or artist, and we talk about the same thing, about organizing cultural fronts to unify the activity of Hispano-American artists."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rodríguez Monegal, Emir (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vaz Ferreira, Carlos, 1872-1958"
+        },
+        {
+          "category": "Places",
+          "tag": "France--Paris"
+        },
+        {
+          "category": "Places",
+          "tag": "United States--New York"
+        },
+        {
+          "category": "Places",
+          "tag": "United States"
+        },
+        {
+          "category": "Places",
+          "tag": "France"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Hispanic American art"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Identity (Philosophical concept) in art"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Combination of art and literature"
+        }
+      ],
+      "uuid": "0a4444a8-0db2-40f7-8d50-629fbc7cba95"
+    },
+    {
+      "start_time": 1541,
+      "end_time": 1570,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Each of these things is a radically different approach to a problem that may be unique, but is plural. When we talk about recognition we can naturally be in the attitude of colonized people who need the approval of the metropolis, but we can also simply be, as Borges was for many years, laughing his head off at being recognized or not recognized."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rodríguez Monegal, Emir (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Borges, Jorge Luis, 1899-1986"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "6871610c-31be-40e8-93eb-1b3722388ef7"
+    },
+    {
+      "start_time": 1571,
+      "end_time": 1611,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There is an anecdote about Borges that he has told many times. Referring to the publication of our first essays, he said that 33 copies had been sold over several years. 33 copies, he was very happy. He says, “Why I can imagine 33 readers, but now that 100,000 are sold, I have lost all interest”. Because how can I imagine 100,000 readers? So from a strictly individual point of view, the artist who creates or who paints, who writes or who composes music for recognition is a man who has a fairly advanced degree of the neurosis known as narcissism."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rodríguez Monegal, Emir (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Borges, Jorge Luis, 1899-1986"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Latin American literature"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Painting"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Combination of art and literature"
+        }
+      ],
+      "uuid": "6e29c64d-cfc2-495e-905d-4fc06a4f43b4"
+    },
+    {
+      "start_time": 1612,
+      "end_time": 1642,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is a very interesting clinical case for his family who have to put up with him and for his friends who have to entertain him, but it has absolutely nothing to do with the production of the work of art or the text, or whatever, in a strict sense. We can be interested in these phenomena. I know some writers, for example, that you have to constantly give them a great massage to make them feel real. That has nothing to do with their texts, which are good or bad, regardless of their narcissism."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rodríguez Monegal, Emir (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "173292c9-4926-4049-81e0-2a1cdce5ccd5"
+    },
+    {
+      "start_time": 1643,
+      "end_time": 1662,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With respect to the problem of identity, the problem of identity is also a personal problem. Whether or not people are or do not identify themselves is also a problem that can border on schizophrenia. There are people who need to see themselves in the mirror to be sure that they are alive. Others just need to pinch themselves on the thigh from time to time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rodríguez Monegal, Emir (man)"
+        }
+      ],
+      "uuid": "a792f307-3ee1-4d87-8e11-681c9576e9db"
+    },
+    {
+      "start_time": 1663,
+      "end_time": 1693,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All these problems, which are very interesting from the pathological point of view, have nothing to do with art criticism or criticism of anything. I say again, they have to do with the problems one has at a cocktail party when one meets one of these big super-inflated egos. There are also people who are so modest that they insist all the time that one should not read their books, that when they find one of their books in one's house they throw them away, that they refuse to sign autographs and that naturally they never attend one of these congresses."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rodríguez Monegal, Emir (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Latin American literature"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Combination of art and literature"
+        }
+      ],
+      "uuid": "3b426df0-f0df-46de-9b95-5add29090390"
+    },
+    {
+      "start_time": 1694,
+      "end_time": 1716,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why are we wasting time with these things that are more appropriate for a psychiatrist gathering? The problem of this type of meeting is the problem of the work, of the text, that is to say, of what we can discuss. It seems to me that a very terrible confusion has crept into this problem, which refers to the term “Original”."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rodríguez Monegal, Emir (man)"
+        }
+      ],
+      "uuid": "76ebdf2d-b0d6-4fa8-8de4-0a3ca67ac0b4"
+    },
+    {
+      "start_time": 1717,
+      "end_time": 1743,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Borges once said that one should not insist so much on trying to be Argentine, because if one was Argentine, it was already a fatality. There was nothing else to do. If being Argentine meant that one was no longer even Uruguayan, nor Chilean, nor Brazilian, imagine, etc. Why insist so much on being Argentine? Or, if one thought it was necessary to insist on being Argentine, then it was an affectation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rodríguez Monegal, Emir (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Borges, Jorge Luis, 1899-1986"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "085b20f8-9034-4440-96c4-1c0b3c9872e1"
+    },
+    {
+      "start_time": 1744,
+      "end_time": 1765,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why insist on being, that one was Argentine if one was not? That is exhibitionism, isn't it? So the person says, “I am very Argentine, Argentine to death”, and things like that. Again we fall into pathology. What is the problem? I think Marta Traba put it very well. That is to say, it is a problem of cultural diffusion, of cultural areas, of cultural domains."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rodríguez Monegal, Emir (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Traba, Marta, 1930-1983"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "93b821bb-4611-4569-b288-23d88c7ed8bc"
+    },
+    {
+      "start_time": 1766,
+      "end_time": 1817,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, I think that her presentation, perhaps for reasons of eloquence, it is much easier to be eloquent if one has only one idea. Perhaps for reasons of eloquence, she forgot that there are many other cultural areas that are trying to impose certain types of cultural products. So we live in the western area. We are concerned and bothered by having to go through customs in Paris or having to go through customs in New York to be recognized. We must resist, yes, but in our resistance we must not forget that there are other customs through which we have not yet passed, for example, Moscow or Peking, but who knows if tomorrow or the day after or this afternoon, I have not read the newspaper, one of those marvelous blows in the world has not occurred, and now we have to pass through Moscow customs or Peking customs, or perhaps, why not, through Tehran customs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rodríguez Monegal, Emir (man)"
+        },
+        {
+          "category": "Places",
+          "tag": "France--Paris"
+        },
+        {
+          "category": "Places",
+          "tag": "United States--New York"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Russia--Moscow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "China--Beijing"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Iran--Tehran"
+        },
+        {
+          "category": "Places",
+          "tag": "France"
+        },
+        {
+          "category": "Places",
+          "tag": "United States"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Russia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "China"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Iran"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "2b14f038-8d60-4a9c-b2cd-1dab08fdf87e"
+    },
+    {
+      "start_time": 1818,
+      "end_time": 1841,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, to summarize, it seems to me that problems such as being original, having repercussions, being read or edited, are problems that have more to do with mechanics than anything else. Borges was discovered by the Europeans in the year 61, he was 62 years old. But Françoise Sagan, who was much younger, was already being sold as a kind of deodorant, everywhere."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rodríguez Monegal, Emir (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Borges, Jorge Luis, 1899-1986"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sagan, Françoise, 1935-2004"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "574a7b9b-407a-4a4a-81b2-190a5f1163b9"
+    },
+    {
+      "start_time": 1842,
+      "end_time": 1851,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, what has that got to do with quality? I've been told now that poor Françoise Sagan is not selling. What a pity, because she was so nice. Love Brahms with her, don't you? Well--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rodríguez Monegal, Emir (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sagan, Françoise, 1935-2004"
+        }
+      ],
+      "uuid": "389d9916-e0b4-49e9-9e2a-da93d11666c5"
+    },
+    {
+      "start_time": 1852,
+      "end_time": 1853,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Emir Rodríguez Vanegas I must interrupt."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rodríguez Monegal, Emir"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "6893e00d-d81e-4b26-9c84-aab4eea91e2c"
+    },
+    {
+      "start_time": 1854,
+      "end_time": 1855,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How dare you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Rodríguez Monegal, Emir (man)"
+        }
+      ],
+      "uuid": "7b4a1714-a0c6-4799-8166-87695522f40d"
+    },
+    {
+      "start_time": 1856,
+      "end_time": 1857,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        }
+      ],
+      "uuid": "2adf670d-0ffa-492e-a0dc-a4dbfd4fcfcb"
+    },
+    {
+      "start_time": 1857,
+      "end_time": 1858,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[laughs] [applause]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        }
+      ],
+      "uuid": "1d28b19f-d81d-40ff-9d2c-20cd942da506"
+    },
+    {
+      "start_time": 1858,
+      "end_time": 1859,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you so much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        }
+      ],
+      "uuid": "b3ad9205-0f26-4de4-be1b-eb75b11cc64d"
+    },
+    {
+      "start_time": 1860,
+      "end_time": 1865,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[applause]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        }
+      ],
+      "uuid": "5adb9fd0-9ecd-4a55-bfd9-4bacb4fea34d"
+    }
+  ],
+  "set": "Default",
+  "event_id": "20d2201e-bec4-41f7-82a7-b9167b4d707f",
+  "source_id": "3d239af2-8ee6-4aaf-b64c-1c25a77e4955"
+}
