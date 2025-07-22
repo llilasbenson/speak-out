@@ -1,14 +1,45 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "20d2201e-bec4-41f7-82a7-b9167b4d707f",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-07-22T17:38:20.459Z",
   "created_by": "rpr88",
   "title": "Does present-day Latin American art exist as a distinct expression- Part 4",
   "slug": "does-present-day-latin-american-art-exist-a---4",
-  "updated_at": "2025-07-22T17:38:20.459Z",
-  "updated_by": "rpr88",
+  "updated_at": "2025-07-22T21:24:48.595Z",
+  "updated_by": "artyella",
   "parent": "30cee196-f789-4dda-8803-cbacf1eb1f5f",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "20d2201e-bec4-41f7-82a7-b9167b4d707f"
   }
