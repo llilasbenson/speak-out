@@ -1316,10 +1316,6 @@
           "tag": "Duncan, Barbara, 1921-"
         },
         {
-          "category": "Places",
-          "tag": "United States--New York--New York CIty"
-        },
-        {
           "category": "Organizations",
           "tag": "Museum of Modern Art (Mexico City)"
         },
@@ -1470,7 +1466,7 @@
       ]
     },
     "created_at": "2025-07-21T17:39:57.261Z",
-    "updated_at": "2025-07-22T21:43:39.771Z",
+    "updated_at": "2025-07-22T21:45:09.737Z",
     "generate_pages_site": true
   },
   "annotations": {},
