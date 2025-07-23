@@ -1409,10 +1409,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Art, Latin Americn"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Gudolf"
         },
         {
@@ -1470,7 +1466,7 @@
       ]
     },
     "created_at": "2025-07-21T17:39:57.261Z",
-    "updated_at": "2025-07-23T21:57:06.539Z",
+    "updated_at": "2025-07-23T21:57:09.059Z",
     "generate_pages_site": true
   },
   "annotations": {},
