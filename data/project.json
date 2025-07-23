@@ -948,10 +948,6 @@
           "tag": "Aztec art"
         },
         {
-          "category": "Art Topics",
-          "tag": "Art and philoshopy"
-        },
-        {
           "category": "Speakers",
           "tag": "Cardona, Rodolfo, 1924- (man)"
         },
@@ -1410,7 +1406,7 @@
       ]
     },
     "created_at": "2025-07-21T17:39:57.261Z",
-    "updated_at": "2025-07-23T15:54:56.931Z",
+    "updated_at": "2025-07-23T16:15:09.074Z",
     "generate_pages_site": true
   },
   "annotations": {},
