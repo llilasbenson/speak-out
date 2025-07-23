@@ -1406,15 +1406,11 @@
         {
           "category": "Art Topics",
           "tag": "Art, Modern"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Art Museums"
         }
       ]
     },
     "created_at": "2025-07-21T17:39:57.261Z",
-    "updated_at": "2025-07-23T15:54:53.311Z",
+    "updated_at": "2025-07-23T15:54:56.931Z",
     "generate_pages_site": true
   },
   "annotations": {},
