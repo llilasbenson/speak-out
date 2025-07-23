@@ -1409,10 +1409,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Art Museums"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "ACCION"
         },
         {
@@ -1422,7 +1418,7 @@
       ]
     },
     "created_at": "2025-07-21T17:39:57.261Z",
-    "updated_at": "2025-07-23T21:25:44.931Z",
+    "updated_at": "2025-07-23T21:25:47.950Z",
     "generate_pages_site": true
   },
   "annotations": {},
