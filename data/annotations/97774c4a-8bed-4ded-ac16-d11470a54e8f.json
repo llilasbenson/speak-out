@@ -1,5 +1,2197 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[silence]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ac0b182b-d361-4f17-8768-96f1d035146b"
+    },
+    {
+      "start_time": 7,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thirdly, it's quite apparent, and I don't think this is limited to Latin American artists, that social turbulence everywhere has forced us all into a position of malaise. I think it's very important that that malaise be recognized, its components identified. In the plastic arts, certainly, we must recognize that there are tensions everywhere."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Plastic arts"
+        }
+      ],
+      "uuid": "ae2ffc55-3d07-4f94-91ed-83a71f8f6dda"
+    },
+    {
+      "start_time": 34,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I come from a large city, and we all seem to agree that art movements as such, seem to have a cosmopolitan source, and that large cities, large centers seem to sponsor definition, that these socially turbulent problems affect the plastic artist as it affects the literary artist, and they must be dealt with, as I think Marta Traba has attempted to throw off the old mannerisms and to take a position to which one can respond."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Plastic arts"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Combination of art and literature"
+        }
+      ],
+      "uuid": "2536ec72-79d4-437f-9f64-af771d48fe27"
+    },
+    {
+      "start_time": 76,
+      "end_time": 109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Finally, I want to say that there are more parallels than I feel have been drawn with other experiences, that if you are an artist working in New York City, you're subject to exactly the same kinds of problems that you are in Latin America, fundamentally, because the world certainly is interchanging its worst traits, unfortunately, and those things must be identified apart from the individual problems of identity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "United States--New York City"
+        },
+        {
+          "category": "Places",
+          "tag": "United States"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "eebc3427-fb66-4724-9ec0-d39f1a03d60c"
+    },
+    {
+      "start_time": 110,
+      "end_time": 133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You all know that the North American artist still suffers from his colonial psyche, and he responds variously, either by becoming what someone called a jet-set artist, moving around a great deal, or by practicing the kind of psychological resistance that Marta Traba recommends. There are many people right in New York City doing that very thing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Traba, Marta, 1930-1983"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "United States--New York City"
+        },
+        {
+          "category": "Places",
+          "tag": "United States"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "f4d89b5e-204d-4958-985c-e27f620f40c3"
+    },
+    {
+      "start_time": 134,
+      "end_time": 162,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think we should look to Europe for a parallel also, and to recognize the force of accidental history, or the appearance of, I'm going to use the great man theory, that in Europe, you are speaking here about Latin American art, and what seems to be the cement, is the fact that Latin languages, Portuguese and Spanish, are used in this continent called Latin America."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art and history"
+        }
+      ],
+      "uuid": "07eee152-b136-436c-9aff-69f5bdf39df4"
+    },
+    {
+      "start_time": 163,
+      "end_time": 185,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "However, in Europe, we have many different languages in many different countries, sharing certain Latin traditions, ancient Greek traditions, Aristotle, etc. All the same, in Holland, to this day, there exists a very strong movement, which art historians are wont to think exists because there was a Mondrian."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Aristotle"
+        },
+        {
+          "category": "People",
+          "tag": "Mondrian, Piet, 1872-1944"
+        },
+        {
+          "category": "Places",
+          "tag": "Holland"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art and history"
+        }
+      ],
+      "uuid": "d9eb8233-2456-46d6-bc57-21afbec5e853"
+    },
+    {
+      "start_time": 186,
+      "end_time": 222,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There are also the opposite, and that frequently happens in cities. The fact that very small European countries do have artists who identify themselves with their country to some degree, but not totally. I think Fernando performed a service in pointing out that all of the artists testifying here, first defended their artistic liberty. I think any artist that I ever knew would do the same, it's mainly theoreticians and critics who get involved with those other questions."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Gamboa, Fernando, 1909-1990"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "47ebcb52-d00c-4719-b4ab-c4a80cf09c2c"
+    },
+    {
+      "start_time": 223,
+      "end_time": 245,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, I would like to ask the panelists if they wish to speak now, the panelists from both panels, and after that, we will turn to the questions from the other people gathered here. Carlos Rodríguez?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Rodríguez Saavedra, Carlos"
+        }
+      ],
+      "uuid": "f4953617-cfca-4c82-ae4d-ad51b13084ca"
+    },
+    {
+      "start_time": 255,
+      "end_time": 296,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I wanted, as my final intervention, to refer to two points. One, perhaps a little particular, the other, I believe, much more general. The first derives from the statements made yesterday by Maestro Rufino Tamayo. The importance of master Tamayo's work for me is so extraordinary that he is the only painter I have cited as the creator of the basis for the authentication of Latin American painting, which I mentioned in my first intervention. I believe that the statements of a man like him are extremely important."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "Tamayo, Rufino, 1899-1991"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Painting"
+        },
+        {
+          "category": "Speakers",
+          "tag": "Rodríguez Saavedra, Carlos (man)"
+        }
+      ],
+      "uuid": "8ce00ef7-4710-4606-8555-04f47630f468"
+    },
+    {
+      "start_time": 297,
+      "end_time": 346,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yesterday I learned that the American continent is divided, not only as I thought, into an Anglo-Saxon part and a Latin American part, but that Latin America is divided into two parts. Mexico, on the one hand, and the rest of the other countries, on the other. Maestro Tamayo has also said that in my country the population is divided into Indians and Creoles, and that is true. What happens is that in Peru we criollos are mestizos, cholos and zambos, and that we ignore the definition of criollo given by the dictionary of the Royal Academy of the Spanish Language."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Rodríguez Saavedra, Carlos (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Tamayo, Rufino, 1899-1991"
+        },
+        {
+          "category": "Places",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Places",
+          "tag": "Peru"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Communities",
+          "tag": "Indigenous peoples"
+        }
+      ],
+      "uuid": "285aefc5-7f56-46f1-8a9e-40805d8e4bac"
+    },
+    {
+      "start_time": 347,
+      "end_time": 372,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is also true that there is a sculpture of the Spanish conquistador Francisco Pizarro. Incidentally that sculpture was given by its author, an American sculpture, to a complacent mayor, during the dictatorship of Marshal Benavides. Peruvians who care little about art do not take it into account and never go to see it. Only tourists go to see it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Rodríguez Saavedra, Carlos (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Pizarro, Francisco, ca. 1475-1541"
+        },
+        {
+          "category": "People",
+          "tag": "Benavides, Óscar R. (Óscar Raimundo), 1876-1945"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "86189ac0-4a47-42dc-b3b4-824d77ae3a58"
+    },
+    {
+      "start_time": 373,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The second point refers more to what was dealt with in the art symposium. I believe that, unlike, for example, what happened in the literature symposium, where it is evident what Professor Rodriguez Monegal said, that literary criticism is a genre of literature. In the art symposium it is evident that art criticism is not a genre of painting or sculpture. This is a very special situation to which I would like to draw the attention, by way of conclusion, of my fellow critics."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Rodríguez Saavedra, Carlos (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Rodríguez Monegal, Emir"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art crticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art and literature"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Painting"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Sculptors"
+        }
+      ],
+      "uuid": "0c1c614c-3333-45da-9a9e-a205986a1695"
+    },
+    {
+      "start_time": 421,
+      "end_time": 468,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On the one hand, and I think this is very good, the painters, the artists, have said that they are only interested in the criticism that comes from themselves, self-criticism. I think this is very good. This should lead us to reflect on the limits and possibilities of our craft. Instead of coming out of this symposium with conclusions, which are always dangerous, I propose that we leave with concerns and worries about our craft, which could perhaps polarize into an alternative."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Rodríguez Saavedra, Carlos (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "a110fefd-3492-4610-a930-1e728040679e"
+    },
+    {
+      "start_time": 469,
+      "end_time": 482,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is possible, everything is possible, that there is a terrorist escalation of the avant-garde, but it is also possible, I suspect evidently, that there is a terrorist escalation of criticism. Thank you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Rodríguez Saavedra, Carlos (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        }
+      ],
+      "uuid": "75ff4896-8352-4e0e-92ad-ba0e9234e707"
+    },
+    {
+      "start_time": 483,
+      "end_time": 490,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[applause]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Rodríguez Saavedra, Carlos (man)"
+        }
+      ],
+      "uuid": "dbf05adc-959c-441d-9c17-f2c2e40eb4da"
+    },
+    {
+      "start_time": 498,
+      "end_time": 538,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I would like to refer to one of the remarks made by Mrs. Duncan, which I find very interesting. Her reference to the poor economic situation of Latin American countries and the way in which this affects, in one way or another, artistic creation. Perhaps it is related to the specifically economic problem, but it is not exactly the same, another one, which is the one that refers to education."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Gamboa, Fernando, 1909-1990 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Duncan, Barbara, 1921-"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "3cbb08d5-a971-4f77-9d8e-59589fc51f2a"
+    },
+    {
+      "start_time": 539,
+      "end_time": 563,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Perhaps, to a greater extent, it affects, and generally for the worse, the more coherent or freer, in some cases, or easier development of artistic creation, the lack of education in a receiving public."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Gamboa, Fernando, 1909-1990 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "6f6748cc-f6d6-4cfd-b5ba-6e7003a619d3"
+    },
+    {
+      "start_time": 564,
+      "end_time": 614,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When I speak of education, I am not referring so much, at this moment, although it is certainly of the utmost importance, to school education at primary levels, and to the possibility of an appreciation of the work by very broad strata of the population, but something that is primary, that necessarily precedes that situation of a more general acceptance, such as the poor education of the upper and wealthy classes and the lack of education of people in power, of people in government positions."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Gamboa, Fernando, 1909-1990 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "bcbda216-6d7c-4d92-9bbc-d00500696a57"
+    },
+    {
+      "start_time": 615,
+      "end_time": 650,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Certainly, the wealth accumulated in a city like Mexico or even Caracas is much less than that accumulated in cities in the United States, but not only that, but people who have money don't buy. People who have money don't donate, people who have money don't help museums. Not only is this the problem of course, but people in positions of command and government are not interested in these aspects either, but only to a very limited extent."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Gamboa, Fernando, 1909-1990 (man)"
+        },
+        {
+          "category": "Places",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Places",
+          "tag": "Venezuela--Caracas"
+        },
+        {
+          "category": "Places",
+          "tag": "United States"
+        },
+        {
+          "category": "Places",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "c802b6f9-59b6-41bf-84f7-2e83b2a32485"
+    },
+    {
+      "start_time": 651,
+      "end_time": 689,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I believe that Fernando Gamboa, what he has of ghost because he travels so much, and of magician on the other hand, comes from being able to stretch a ridiculous budget to make a peculiar alchemy and to be able with a few cents to do something worthwhile at the Museum of Modern Art in Mexico City. The problem is not that the country is so poor, which it is, but that being so poor, it allocates a truly ridiculous percentage of its budget to this type of activities."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Gamboa, Fernando, 1909-1990 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Gamboa, Fernando, 1909-1990"
+        },
+        {
+          "category": "Places",
+          "tag": "Mexico--Mexico City"
+        },
+        {
+          "category": "Organizations",
+          "tag": "Museum of Modern Art (Mexico City)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art museums"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art, Modern"
+        }
+      ],
+      "uuid": "6814a989-92ba-4ce7-b633-395bf016b219"
+    },
+    {
+      "start_time": 690,
+      "end_time": 694,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I would also like to, if I have a half minute or wait?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Gamboa, Fernando, 1909-1990 (man)"
+        }
+      ],
+      "uuid": "f9f41bb3-dd73-48b0-8d3c-67504c557dfe"
+    },
+    {
+      "start_time": 694,
+      "end_time": 694,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One minute."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        }
+      ],
+      "uuid": "6f9e5126-e446-4265-94be-0620268cdc4a"
+    },
+    {
+      "start_time": 695,
+      "end_time": 736,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I would like to make a reference to the criticism, something that was a little bit on paper yesterday. What Mrs. Duncan has said has also incited me a little, and finally, what Carlos Rodriguez Saavedra has said. To insist on the fact that it is for me too, by the way, what was said yesterday by Dore Ashton, the critic, and by many painters. The critic is not so much that bridge between art and the public. It is already a step. It is worse to say that the critic is the judge or that the critic is the one who dictates the rules to follow."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Gamboa, Fernando, 1909-1990 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Duncan, Barbara, 1921-"
+        },
+        {
+          "category": "People",
+          "tag": "Rodríguez Saavedra, Carlos"
+        },
+        {
+          "category": "People",
+          "tag": "Ashton, Dore, 1928-2017"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art, Latin Americn"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "39bf620c-f567-4da1-a0df-ed336caec82d"
+    },
+    {
+      "start_time": 737,
+      "end_time": 774,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The bridging attitude is also an attitude that I find very suspicious, and in which I do not really believe. The critic is the extreme point, the critic in the end is just another receiver. Perhaps a receiver of excellence because of what is supposed to be his preparation, but he is a receiver and his attitude is fundamental. Not for the artist as creator. I do believe that for the work as such, because that is how I understand the work, it is not fulfilled, but insofar as it is perceived by someone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Gamboa, Fernando, 1909-1990 (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art, Latin Americn"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "9bd309cd-a05d-4f7e-bdad-e98538b24f46"
+    },
+    {
+      "start_time": 775,
+      "end_time": 787,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, the critic is only one of the perceivers who expresses his perception, who reflects on the work. Thank you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Gamboa, Fernando, 1909-1990 (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art, Latin Americn"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "596a888a-1215-4bb2-ad6d-b0d1212e6aec"
+    },
+    {
+      "start_time": 788,
+      "end_time": 789,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you. Ms. Traba."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Traba, Marta, 1930-1983"
+        }
+      ],
+      "uuid": "715d208e-2cda-4657-8245-e9093e5f3a5e"
+    },
+    {
+      "start_time": 790,
+      "end_time": 792,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[applause]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        }
+      ],
+      "uuid": "ae8d12ac-292e-40f9-a514-d79a685d76dc"
+    },
+    {
+      "start_time": 793,
+      "end_time": 813,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I would like to ask a special favor of the person in charge of this meeting. I don't know if Mr. Gudolf is in the room at the moment, or someone who is in his place. Can it be you, Doll? I don't know who. Who is in charge of this meeting?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Traba, Marta, 1930-1983 (woman)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gudolf"
+        }
+      ],
+      "uuid": "35978b78-ca5b-4160-8ba8-38375cbbe48e"
+    },
+    {
+      "start_time": 814,
+      "end_time": 819,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[background conversation]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f68e95ff-ebb4-4b13-92e3-b32e506d5838"
+    },
+    {
+      "start_time": 820,
+      "end_time": 822,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Professor Gudolf, I want to ask you for a favor."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Traba, Marta, 1930-1983 (woman)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gudolf"
+        }
+      ],
+      "uuid": "1a964519-6868-43d6-8dc4-710f0413a587"
+    },
+    {
+      "start_time": 823,
+      "end_time": 830,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[background conversation]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "abcdfb56-6271-47ec-9480-e16a2ce44a59"
+    },
+    {
+      "start_time": 831,
+      "end_time": 841,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[pause 00:13:51]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0b3d1f00-59cb-44cb-aa37-a2fe6e1e79a0"
+    },
+    {
+      "start_time": 842,
+      "end_time": 875,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The favor is this. In view of the miracle you were able to perform, getting the authorities of your country to allow me to enter the United States for exactly 14 days, from October 26 to November 10. In view of the fact that I came from Caracas and that I have been able to make four speeches, one of three minutes and three of two minutes, what I would like to ask you to give as a final point to my speeches, is if you grant me, exceptionally, five minutes, otherwise, I prefer not to speak."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Traba, Marta, 1930-1983 (woman)"
+        },
+        {
+          "category": "Places",
+          "tag": "Venezuela--Caracas"
+        },
+        {
+          "category": "Places",
+          "tag": "Venezuela"
+        }
+      ],
+      "uuid": "0265748e-fe10-4929-9674-85c4c60887aa"
+    },
+    {
+      "start_time": 877,
+      "end_time": 878,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[applause]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2a4703bb-956d-48f7-a81e-0953976d4451"
+    },
+    {
+      "start_time": 879,
+      "end_time": 888,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Two minutes. [laugh] Where is this central authority?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        }
+      ],
+      "uuid": "1096699a-b3e7-4fb6-bc0f-dabd7cfca576"
+    },
+    {
+      "start_time": 889,
+      "end_time": 894,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[pause 00:14:54]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1c5edd04-08b2-440a-9b7c-a0a02c53ce30"
+    },
+    {
+      "start_time": 895,
+      "end_time": 901,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[background conversation]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "71c04baf-8b86-4694-8871-dc183634f50c"
+    },
+    {
+      "start_time": 902,
+      "end_time": 903,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Five minutes. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant 2"
+        }
+      ],
+      "uuid": "cde5e1ad-4b6d-4572-82ad-dd770be6e81e"
+    },
+    {
+      "start_time": 904,
+      "end_time": 905,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "75b317c2-a1a3-4335-9cd8-4210b7804267"
+    },
+    {
+      "start_time": 906,
+      "end_time": 907,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[applause]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "381daaa7-c86e-46b5-b3fc-e3a176cbf7b8"
+    },
+    {
+      "start_time": 908,
+      "end_time": 911,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you. Sorry, Dore, I didn't know who to ask. I didn't know if it was you or Professor Gudolf."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Traba, Marta, 1930-1983 (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Ashton, Dore, 1928-2017"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gudolf"
+        }
+      ],
+      "uuid": "3e2e515e-75c2-4e5f-b5a9-719ac0a059cf"
+    },
+    {
+      "start_time": 915,
+      "end_time": 944,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In these meetings, it is customary to reach a conciliation of the opposites in the final session, out of politeness. I ask, on the other hand, that a clarification be reached in the definition of these opposites. When Aracy Amaral, in his intelligent and lucid intervention, describes us as an occupied continent."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Traba, Marta, 1930-1983 (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Amaral, Aracy A."
+        }
+      ],
+      "uuid": "393ac278-cedf-4afe-a67f-23f9a3b564d6"
+    },
+    {
+      "start_time": 945,
+      "end_time": 993,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When Jose Luis Cuevas, in a tight struggle that has been going on for almost 20 years now, through his admirable work and his human behavior, saves an artistic space from being confused with the extraterritorial activities of party politics, nor with the frivolities of the pseudo-avant-garde. When Gomez Sicre, who inexplicably was not invited to chair the art panel as was his right for having been the pioneer in the conception of a different Latin American art, dares to point out the originality of the Morales Botero generation, as opposed to the American or European models."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Traba, Marta, 1930-1983 (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Cuevas, José Luis, 1934-2017"
+        },
+        {
+          "category": "People",
+          "tag": "Gómez Sicre, José"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Botero, Morales"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "efe6f8e8-64a1-45c8-9caa-967b19ee1fb7"
+    },
+    {
+      "start_time": 994,
+      "end_time": 1028,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When other colleagues at this meeting, despite their frank minority, raise a frontal conflict with the dominant tone that I think I recognized in the colloquium, with their panic to pronounce the word “regional”, the socialist way or with their continuous accountability to Western culture, I believe that we must not be docile or condescending, but confront that tone with convincing arguments."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Traba, Marta, 1930-1983 (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "844551a3-6abf-4131-a018-b94faa45fbd5"
+    },
+    {
+      "start_time": 1029,
+      "end_time": 1077,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think that what has been clarified in the reunion, is that artists and critics move with relative freedom between two options, to recognize that dependence does exist, and subsequently reject it as a pressure of culture, mass media and an evidently ideological technology on the part of the emitting centers, Europe or the United States. Or to ignore it, the dependence, and therefore, to accept it and integrate with it, camouflaging it with the theory several times stated in this meeting that we are an economically underdeveloped continent, but culturally developed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Traba, Marta, 1930-1983 (woman)"
+        },
+        {
+          "category": "Places",
+          "tag": "United States"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "925e132b-8e2d-4422-b9f4-baeb7322a8c1"
+    },
+    {
+      "start_time": 1078,
+      "end_time": 1107,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Which is tantamount to saying that we have peoples idiotized by hunger and ignorance, and intellectuals enlightened by French food and American pragmatism. Or accept the defeat of art, as a system or language capable of transmitting meanings that enrich the increasingly impoverished codes that are read to the public, or fight against this pessimism, affirming art's capacity to transmit meanings."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Traba, Marta, 1930-1983 (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "1466fa9e-a91d-4c9c-8a40-0938da24d4a5"
+    },
+    {
+      "start_time": 1108,
+      "end_time": 1138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Affirming its spiritual value and its poetic dimension, however old these words may seem, operating a resacralization of art in a sick society, by what Adorno calls, “The passion of the palpable”. Such responsibility of the artist and the critic can only be measured by his work, by the coherence of its internal structure and the will of that structure to be both history and sedimented social content."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Traba, Marta, 1930-1983 (woman)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Adorno, Theodor W., 1903-1969"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art and literature"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Combination of art and literature"
+        }
+      ],
+      "uuid": "a7e0d88e-603d-4a03-9d52-fc6cb016d393"
+    },
+    {
+      "start_time": 1139,
+      "end_time": 1167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I quote Adorno again, “Instead of being decoration or entertainment of small groups”, I don't mind that Monegal accuses me again of having only one idea. The best literature and the most splendid art have been made by maniacs, by writers of a single theme, like Onetti, of a single book. As for example, that immense Juan Rulfo, who has not even received a mention in this Latin American Literature Encounter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Traba, Marta, 1930-1983 (woman)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Adorno, Theodor W., 1903-1969"
+        },
+        {
+          "category": "People",
+          "tag": "Rodríguez Monegal, Emir"
+        },
+        {
+          "category": "People",
+          "tag": "Onetti, Juan Carlos, 1909-1994"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rulfo Vizcaíno, Juan, 1917-1986"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art and literature"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Combination of art and literature"
+        }
+      ],
+      "uuid": "90b1eb86-f7b4-4f2b-85db-05bf852914a4"
+    },
+    {
+      "start_time": 1168,
+      "end_time": 1169,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[applause]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Traba, Marta, 1930-1983 (woman)"
+        }
+      ],
+      "uuid": "3b8f6ed9-117f-4321-a6d5-e35ce3c95146"
+    },
+    {
+      "start_time": 1170,
+      "end_time": 1220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Or single-image artists, such as Mexico's Ricardo Martinez. Insisting one last time on that single idea, I will say that the revaluation of the region as the natural context of the plastic space, the systematic study of the structure of the work in order to dismantle it and make it understand as fully as possible to the public, the definitive incidence that art and criticism can have on our confused, ambiguous societies, as has been said here, and in need of any enlightening contribution, are specific forms of a general fight that converges, in my opinion, on the same point, the change of a reality that covers us day by day with opprobrium. Thank you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Traba, Marta, 1930-1983 (woman)"
+        }
+      ],
+      "uuid": "e4750aac-0115-449a-a2ed-704c60354d0e"
+    },
+    {
+      "start_time": 1221,
+      "end_time": 1226,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[applause]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "21b391eb-7ed5-4a82-a551-162071b55ac2"
+    },
+    {
+      "start_time": 1227,
+      "end_time": 1228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mr. Bayon."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        }
+      ],
+      "uuid": "1232de08-54fd-4b94-8c91-e52fec04c884"
+    },
+    {
+      "start_time": 1233,
+      "end_time": 1259,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I wanted to add something that I think has not been said. Someone yesterday, as if in passing, I think it was an artist, mentioned that criticism also has a creative function, and I applauded, but nobody heard me, because I am absolutely convinced that we critics have a creative function, as creative as that of the artists, our friends, let nobody misunderstand."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "74b5a4f0-761c-49d8-9075-ab1fc8341c20"
+    },
+    {
+      "start_time": 1260,
+      "end_time": 1300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That creative function of ours, parallel to that of the artists and as respectable as theirs, even though it is based on their work, I received that lesson many years ago when I read Octavio Paz's The Bow and the Lyre. When he made me understand, in an advanced chapter of the book, something that I, perhaps due to modesty, had never thought of, and that was that in contemporary art there is no advanced or avant-garde contemporary art that does not run parallel to criticism, which neither dictates it nor makes it totally explicit, but which is parallel to it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Paz, Octavio, 1914-1998"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Contemporary art"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Combination of art and literature"
+        }
+      ],
+      "uuid": "391d303c-ed0c-40bc-af69-e40a8223ef8c"
+    },
+    {
+      "start_time": 1301,
+      "end_time": 1320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Octavio Paz says, since Apollinaire, or Apollinaire commenting on the cubists, the artist and critic, we march together, sometimes in a bad way, because we are not allowed to hold hands, but not to guide them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Paz, Octavio, 1914-1998"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Apollinaire, Guillaume, 1880-1918"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "1325e389-6fd0-480b-81ad-06698d2bd8fa"
+    },
+    {
+      "start_time": 1321,
+      "end_time": 1336,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When I write, I never write for the artists, I write for the people, because it seems to me that I am an intermediary and that is why I write simply, but at the same time I have the secret hope that the artist will read me or read us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "851d2420-9ae4-45e1-9ef5-66dcb8baaf7f"
+    },
+    {
+      "start_time": 1337,
+      "end_time": 1362,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As the artist functions at all levels by intuition, the artist also has to know, when in the criticism he reads in the newspaper or in the magazine, there are elements that can be useful to him, as when one looks in the mirror to know if he has the right tie, or there are elements that are not useful to the artist at all. At that moment he leaves us, he puts us in a drawer, and he has every reason to do so."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "b1eb6997-dde8-48ee-a592-a0cf9549a7cb"
+    },
+    {
+      "start_time": 1363,
+      "end_time": 1378,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let us come almost to the end of these meetings, remembering that, indeed, good or bad, we art critics have a creative function, and that we can live and justify ourselves, nothing more."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "9e11e269-a418-4478-9733-d6e21464c0e1"
+    },
+    {
+      "start_time": 1379,
+      "end_time": 1384,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[applause]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Bayón, Damián (man)"
+        }
+      ],
+      "uuid": "72879185-dbf9-4cb0-bc0b-f0a7ae2e64da"
+    },
+    {
+      "start_time": 1385,
+      "end_time": 1402,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There is a question from el señor Janis Palma Castroman, and then José Luis Cuevas wishes to speak, and then, after that, we'll keep going. Mr. Castroman? Miss, perdón."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Castroman, Janis Palma"
+        },
+        {
+          "category": "People",
+          "tag": "Cuevas, José Luis, 1934-2017"
+        }
+      ],
+      "uuid": "2add1f8c-7dbe-4c13-9bec-45fb5294c869"
+    },
+    {
+      "start_time": 1405,
+      "end_time": 1438,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think there is a difference between artists living in New York or in Tucumán or Maracaibo. Because of a comment made by Mr. Manrique yesterday, I have this question, in the case of a young Latin American artist, who for some reason is producing his work outside Latin America, let's say the United States, how valid is that expression that is born within an environment that offers different conflicts than those that exist in his country?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Castroman, Janis Palma (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016"
+        },
+        {
+          "category": "Places",
+          "tag": "United States"
+        },
+        {
+          "category": "Places",
+          "tag": "United States--New York"
+        },
+        {
+          "category": "Places",
+          "tag": "Argentina"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Argentina--\nTucuman"
+        },
+        {
+          "category": "Places",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Venezuela--Maracaibo"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "368e5f84-90fd-4189-a861-05567907aae6"
+    },
+    {
+      "start_time": 1439,
+      "end_time": 1455,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is it possible for this artist to avoid the degeneration of his message in relation to his country of origin by being physically distant from it? In other words, can this work be considered essentially Latin American in its totality?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Castroman, Janis Palma (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "01b667f1-cd76-402a-9148-2f241a7ad208"
+    },
+    {
+      "start_time": 1459,
+      "end_time": 1469,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "José Luis Cuevas? Is there anyone? You want to answer that question?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        }
+      ],
+      "uuid": "d74b3a19-a228-430f-bef9-61fec45562cf"
+    },
+    {
+      "start_time": 1476,
+      "end_time": 1522,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Very briefly, because a number of these young artists come through my office in New York and I talk with them, I think the answer is yes. Because, as I said, I feel that they come with their inner formation from their own country. They've come, really, in search of the type of cosmopolitan inquiry into the art of the modern world. I feel, as of this point, that they have not lost the sense of identity, if I've understood your question correctly. Now, we all face that what Marta speaks of repeatedly, the danger of a global culture."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Duncan, Barbara, 1921- (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Traba, Marta, 1930-1983"
+        },
+        {
+          "category": "Places",
+          "tag": "United States"
+        },
+        {
+          "category": "Places",
+          "tag": "United States--New York"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Identity (Philosophical concept) in art"
+        }
+      ],
+      "uuid": "3fd4dc3f-e5c2-46fd-a4cc-a3035b2c5454"
+    },
+    {
+      "start_time": 1523,
+      "end_time": 1537,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm very much in agreement with her, that the world will lose many elements of personality if this happens. I think, as of this moment, it is not happening."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Duncan, Barbara, 1921- (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Traba, Marta, 1930-1983"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "efcc486d-a04d-46d9-95fd-1f1eedb89c54"
+    },
+    {
+      "start_time": 1538,
+      "end_time": 1557,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I would like to request that the other panelists who wish to speak will speak at the beginning of this afternoon's session and that we allow the questions from the students now. Is that all right? That's how we planned it. Señor Manrique."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "9e4abdb9-9cb6-4c09-8213-3f32c5ec6066"
+    },
+    {
+      "start_time": 1558,
+      "end_time": 1575,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I agree in part with what Mrs. Duncan said, but not entirely. Basically, I understand that belonging to a medium is partly a given, but partly a decision."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manrique, Jorge Alberto, 1936-2016 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "8a8af915-4b4a-4a50-8d77-788ef25710cb"
+    },
+    {
+      "start_time": 1576,
+      "end_time": 1621,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The artist that you propose, out of his environment, working in New York, can, obviously depending on his age and the time he has left his place of origin and arrived in the other city, but he can choose to be a kind of Creole in Paris or New York, where there will remain perhaps certain localist residues that do not fundamentally affect him, but he can, as is perhaps the most general case, continue to feel intimately linked to his point of origin, and feel that concern, it is almost a will to be, more than anything else. Even if he works in New York, he will do so."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manrique, Jorge Alberto, 1936-2016 (man)"
+        },
+        {
+          "category": "Places",
+          "tag": "United States"
+        },
+        {
+          "category": "Places",
+          "tag": "United States--New York"
+        },
+        {
+          "category": "Places",
+          "tag": "France"
+        },
+        {
+          "category": "Places",
+          "tag": "France--Paris"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Identity (Philosophical concept) in art"
+        }
+      ],
+      "uuid": "bc17e45f-2059-4839-ac29-9442504d722e"
+    },
+    {
+      "start_time": 1621,
+      "end_time": 1636,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tamayo's case, working for many years in New York, undoubtedly did not take away any of his belonging to the world he came from, because it continued to be his constant concern, at least that is how I understand it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Manrique, Jorge Alberto, 1936-2016 (man)"
+        }
+      ],
+      "uuid": "2a2ea5ea-8294-42f0-82c5-acd0770426ac"
+    },
+    {
+      "start_time": 1640,
+      "end_time": 1656,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Are there other questions from students and visitors this morning? If not, then we can start by asking José Luis Cuevas to make his statement now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        }
+      ],
+      "uuid": "84c6ae37-669a-47e1-913f-c55bc2f14564"
+    },
+    {
+      "start_time": 1660,
+      "end_time": 1706,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I must admit that during my stay here in this symposium I have been too sparing in my interventions, mostly due to my state of health and medical recommendations. I am not allowed certain emotional outbursts, and these outbursts, of course, I prefer to reserve them for my pictorial work. However, I cannot help but be irritated with Marta Traba in the face of this intentional happy ending she is trying to draw, in which we are all going to leave very happy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Cuevas, José Luis, 1934-2017 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Traba, Marta, 1930-1983"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "55aa7880-1aa3-444e-8809-078463b6a2f1"
+    },
+    {
+      "start_time": 1707,
+      "end_time": 1715,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have seen the eagerness of some of my colleagues, especially Mexicans, to establish profitable relationships."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Cuevas, José Luis, 1934-2017 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "d6aae37e-e42d-4673-bea4-71bee00e9788"
+    },
+    {
+      "start_time": 1716,
+      "end_time": 1753,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I must say that I have always distinguished myself, besides having distinguished myself in other fields, for being an anti-conformist. There has been an attempt to create a kind of image that both Marta and I, or also the stupendous intervention of Miss Amaral, have been marked by a somewhat retrograde attitude in the face of avant-garde and very advanced attitudes of the Mexican representation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Cuevas, José Luis, 1934-2017 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Traba, Marta, 1930-1983"
+        },
+        {
+          "category": "People",
+          "tag": "Amaral, Aracy A."
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "7a8f80f1-fea5-4c8c-9af2-624668cf2cfa"
+    },
+    {
+      "start_time": 1755,
+      "end_time": 1780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I must therefore say, for those who are not informed, that in my country I have always represented an anti-conformist attitude, a fighting attitude, in the 50's, in the face of a Mexican painting that was in a dead end and that did not allow other paths for the artists of my country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Cuevas, José Luis, 1934-2017 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art, Mexican"
+        }
+      ],
+      "uuid": "ebbd5e3f-b26e-476d-8ebb-52d7ff0643cd"
+    },
+    {
+      "start_time": 1781,
+      "end_time": 1825,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At that time I began a series of articles in a newspaper edited by Fernando Benitez. Later, already in New York, exhibiting in New York City, I also expressed in an interview with Time Magazine, that I did not arrive in New York with a servile attitude of submitting myself to the fashions that were being imposed on me by the New York museums and galleries. I was coming to New York to exhibit my work, to try to bring a different language to a medium that at that time was dominated by abstract expressionism."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Cuevas, José Luis, 1934-2017 (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Benítez, Fernando, 1912-2000"
+        },
+        {
+          "category": "Places",
+          "tag": "United States"
+        },
+        {
+          "category": "Places",
+          "tag": "United States--New York"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Arts, Mexican"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art museums"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art exhibition"
+        }
+      ],
+      "uuid": "f64d316e-7fb5-4184-bf88-a956acc22115"
+    },
+    {
+      "start_time": 1826,
+      "end_time": 1840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[sound cut]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Cuevas, José Luis, 1934-2017 (man)"
+        }
+      ],
+      "uuid": "d31b7c94-149c-4098-933b-656521f60f94"
+    }
+  ],
   "set": "Default",
   "event_id": "cc4a4809-5dfd-4211-9a84-ee3b117f144e",
   "source_id": "2addf1bb-61fe-41d4-a8c1-ef8e6b8b35a1"
