@@ -1409,10 +1409,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Art, Mexican"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Brazi"
         },
         {
@@ -1430,7 +1426,7 @@
       ]
     },
     "created_at": "2025-07-21T17:39:57.261Z",
-    "updated_at": "2025-07-23T21:24:43.570Z",
+    "updated_at": "2025-07-23T21:25:41.499Z",
     "generate_pages_site": true
   },
   "annotations": {},
