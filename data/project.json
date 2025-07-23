@@ -1409,10 +1409,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "United States--New York City"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Art, Latin Americn"
         },
         {
@@ -1474,7 +1470,7 @@
       ]
     },
     "created_at": "2025-07-21T17:39:57.261Z",
-    "updated_at": "2025-07-23T21:57:00.684Z",
+    "updated_at": "2025-07-23T21:57:06.539Z",
     "generate_pages_site": true
   },
   "annotations": {},
