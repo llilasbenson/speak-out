@@ -1,7 +1,7 @@
 {
   "audiovisual_files": {
     "47645e8d-5a7a-4fac-baf7-3da909c4bdae": {
-      "label": "2018_0852_002",
+      "label": "2018_0852_0021",
       "is_offline": false,
       "file_type": "Audio",
       "file_url": "https://utexas.box.com/shared/static/uqjnx67qc0h457eyv69e9o1x60t2x2m8.mp3",
@@ -25,6 +25,9 @@
   "label": "Art and literature joint review session: Plastic arts topics- Part 1",
   "created_at": "2025-07-23T21:21:23.147Z",
   "created_by": "artyella",
-  "updated_at": "2025-07-23T21:21:23.148Z",
-  "updated_by": "artyella"
+  "updated_at": "2025-07-23T21:23:28.819Z",
+  "updated_by": "artyella",
+  "av_file_order": [
+    "47645e8d-5a7a-4fac-baf7-3da909c4bdae"
+  ]
 }
