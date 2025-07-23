@@ -1409,10 +1409,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Gudolf"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Participant 2"
         },
         {
@@ -1466,7 +1462,7 @@
       ]
     },
     "created_at": "2025-07-21T17:39:57.261Z",
-    "updated_at": "2025-07-23T21:57:09.059Z",
+    "updated_at": "2025-07-23T21:57:11.759Z",
     "generate_pages_site": true
   },
   "annotations": {},
