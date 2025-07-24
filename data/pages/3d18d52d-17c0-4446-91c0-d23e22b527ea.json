@@ -1,14 +1,45 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "78d56723-56b5-40dc-8960-a5c6fdc89406",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-07-24T20:03:05.949Z",
   "created_by": "artyella",
   "title": "Literary Criticism: Its Present Status in Latin America- Part 1",
   "slug": "literary-criticism-its-present-status-in-lat",
-  "updated_at": "2025-07-24T20:03:05.949Z",
+  "updated_at": "2025-07-24T20:10:04.450Z",
   "updated_by": "artyella",
   "parent": "30cee196-f789-4dda-8803-cbacf1eb1f5f",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "78d56723-56b5-40dc-8960-a5c6fdc89406"
   }
