@@ -1408,10 +1408,6 @@
           "tag": "ACCION"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Participant 2"
-        },
-        {
           "category": "Places",
           "tag": "United States--New York City"
         },
@@ -1562,7 +1558,7 @@
       ]
     },
     "created_at": "2025-07-21T17:39:57.261Z",
-    "updated_at": "2025-07-24T06:14:44.767Z",
+    "updated_at": "2025-07-24T06:14:48.347Z",
     "generate_pages_site": true
   },
   "annotations": {},
