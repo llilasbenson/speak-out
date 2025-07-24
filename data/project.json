@@ -1416,10 +1416,6 @@
           "tag": "United States--New York City"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Art criticism\tConstructivism"
-        },
-        {
           "category": "People",
           "tag": "Botero, Morales"
         },
@@ -1566,7 +1562,7 @@
       ]
     },
     "created_at": "2025-07-21T17:39:57.261Z",
-    "updated_at": "2025-07-24T06:14:41.415Z",
+    "updated_at": "2025-07-24T06:14:44.767Z",
     "generate_pages_site": true
   },
   "annotations": {},
