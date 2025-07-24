@@ -1,5 +1,2993 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can I just talk just one minute about what I'm supposed to be, which is an art critic? In the sense of being a journalist. In a way the question was, what is critical feedback. I hate the word feedback. What I think, the best that anyone such as me could possibly do is to not try to be prescriptive and not tell artists what they ought to be doing or how they should square their position in their society with their own conscience. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "5378a620-1676-496f-85ae-116546ae0c25"
+    },
+    {
+      "start_time": 49,
+      "end_time": 109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What I think, we are like good hostesses is or hosts. We lay a grand buffet with as much variety as possible of elementary delights or not delights, but just nourishing things. We'll lead the public and in certain roles, the artist is also the public; his public and our public. There he is and he can choose. I do believe the artist is born into certain circumstances and he does have certain choices or, as they like to say, options. If it's a rich enough table, it's up to him to choose what he needs for his nourishment and that no art critic should ever indulge in that game of prescriptive advice to artists. [applause]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "34f06840-8fea-4372-b29d-760d580842ac"
+    },
+    {
+      "start_time": 109,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Muchas gracias, Dore Ashton. A pesar de las reiteradas explicaciones que haya dado, que es la única gringa en la mesa -también lo dio en el panel de ayer- creo que sus palabras son muy reveladoras, porque nos plantea un problema más teórico que otra cosa. Veo también acá varios problemas que podríamos discutir más tarde. Sin embargo, agradezco la brevedad de su intervención, porque en pocos minutos ha tocado los dos temas que este panel se propone discutir. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Ashton, Dore, 1928-2017"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "31db6969-ea17-4640-ade8-657771ec0678"
+    },
+    {
+      "start_time": 151,
+      "end_time": 163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tengo ahora el pedido de Aracy Amaral, que quiere hacer una breve intervención. Ahora sí. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Amaral, Aracy A."
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "8f1a68ea-24a2-4b1f-b7b2-dd1918e53a3d"
+    },
+    {
+      "start_time": 163,
+      "end_time": 202,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A mí me gustaría hacer una referencia a esa necesidad de explicarse que tenemos que ha mencionado Manrique, así como el problema de la ambigüedad del ser latinoamericano. Yo creo que esas cosas se relacionan un poco con lo que ha dicho Dore Ashton sobre el problema de lo universal en el arte. De todas maneras, el problema propio de la ambigüedad del ser latinoamericano es claro que vuelve a la superficie por el problema de la tradición de los impuestos que tenemos. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Amaral, Aracy A. (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016"
+        },
+        {
+          "category": "People",
+          "tag": "Ashton, Dore, 1928-2017"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "6d271920-8770-4a55-a5ae-3edc02430700"
+    },
+    {
+      "start_time": 202,
+      "end_time": 247,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo podría volver entonces a lo que declaró la semana pasada en São Paulo en una conferencia el escritor uruguayo Eduardo Galeano cuando habló de que en realidad no puede haber una cultura nacional en un país cuyas bases materiales económicas son extranjeras o guiadas desde afuera, como dijo él. Yo haría recordar que siempre nosotros tengamos que volver en un debate sobre arte latinoamericano, sobre el problema de lo erudito y de lo popular. Porque en realidad lo popular es nuestra realidad. Lo erudito son los modelos y eso vuelve siempre en nuestro medio ambiente latinoamericano, sobre todo a través de la publicidad. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Amaral, Aracy A. (woman)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Galeano, Eduardo, 1940-2015"
+        },
+        {
+          "category": "Places",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Places",
+          "tag": "Brazil--São Paulo"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "b70fa7db-e07e-4bad-9639-189c1e2e7652"
+    },
+    {
+      "start_time": 247,
+      "end_time": 282,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Los modelos que se nos presentan como comportamientos son todos europeos o anglosajones, al paso que la realidad es mestiza. Es por eso que también no puede aceptar esa declaración de Bayón de ayer cuando se refirió a la neurosis de la dependencia. Es claro que si los modelos son de afuera, nosotros tenemos ese problema de esa ambigüedad, esa rebelión contra un modelo que sabemos que no corresponde a nuestra realidad en torno a nosotros. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Amaral, Aracy A. (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Bayón, Damián"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "322c32bd-8893-477b-bca1-0254fa5fecdd"
+    },
+    {
+      "start_time": 282,
+      "end_time": 289,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gracias. [aplausos] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "8af64e78-a8af-4737-8401-c69f1ec9e1bd"
+    },
+    {
+      "start_time": 289,
+      "end_time": 327,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Creo que las cosas se están aclarando un poco. Se va a concentrar obviamente—Obviamente lo digo yo. No sé qué piensan el resto de las personas. Obviamente es el problema de la tradición y de la dependencia de los modelos locales e importados, que es lo que realmente dice acá. En fin, por lo menos lo que dice el tema. Sobre esto quisiera que Manrique, a lo que se refirió Aracy sobre lo que estaba diciendo Manrique, que aclarara un poco más sobre este problema de la ambigüedad del ser latinoamericano con respecto a la contraparte, que es—lo que él decía—la cultura europea. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "f3b275ea-7dce-4784-a125-1a2ea29fbf6f"
+    },
+    {
+      "start_time": 327,
+      "end_time": 352,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo quiero hacer un pequeño remark. Perdón, estoy hablando en inglés. Un pequeño comentario. Me voy a desviar un poco del tema. Constantemente se han referido los panelistas en las tres mesas, y en esta también, sobre el problema de la cultura occidental. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "a013c1a8-5ae8-4159-ba58-475e4a83569f"
+    },
+    {
+      "start_time": 352,
+      "end_time": 388,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Desde luego, claro, como soy de una extracción bastante ambigua, quiero referirme sobre la cultura oriental. Que no viene al caso, pero solamente un pequeño dato. Durante muchos siglos en China y en Japón—tal vez esto sirva para que se pueda discutir—no este tema sino en relación a este problema de la tradición- de lo importado y de lo nacional. En China y en Japón, durante muchos años el método para pintar de los artistas consistía justamente en copiar a los maestros; copiar a los grandes maestros. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "Places",
+          "tag": "China"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Japan"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "c0c6e699-458f-444c-a3a9-530a1ad2750d"
+    },
+    {
+      "start_time": 388,
+      "end_time": 389,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Puedes hablar un poco más lento?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Speaker 1 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "56b19400-612a-45fe-8e4a-6aef63d33ed5"
+    },
+    {
+      "start_time": 389,
+      "end_time": 431,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Más lento, okay. Copiar a los grandes maestros. Los modelos en que los artistas artistas se inspiraban eran justamente los pintores antiguos de sus propios países y la calidad de un artista se determinaba de acuerdo a la capacidad de copiar a los antiguos maestros. De ahí el artista podía ser, digamos, un creador de su propio estilo. Esto creo que—no sé si es muy relevante que lo diga ahora, pero puede ser que también eche un poquito de luz al problema que justamente estamos hablando. ¿Manrique? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "70922162-013e-4985-8e24-c3df40021525"
+    },
+    {
+      "start_time": 431,
+      "end_time": 482,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La verdad, no sé. Yo me puedo explicar tan bien como lo hice. No sé si pueda hacerlo mejor, pero la idea central es mía; es esta de cualquier forma. Es la estructura misma del ser latinoamericano históricamente y en nuestros días la que da esa ambigüedad, que a su vez tiene que ver con la situación marginal. Es decir, sí somos occidentales. Me parece esto indudable, pero cada vez que queremos probar lo occidentales que somos encontramos un defecto, una carencia. No lo somos tanto o no lo somos exactamente igual como el modelo que se nos propone. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "146315bf-bcce-4388-bc8e-4d8f4d478ad2"
+    },
+    {
+      "start_time": 482,
+      "end_time": 514,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Al mismo tiempo, no somos occidentales. Esto también basta recorrer nuestras ciudades, como lo ha dicho Aracy, para ver que no lo somos. Sin embargo, cada vez que queremos mostrar en qué medida no lo somos tenemos, para empezar, que hacerlo en términos absolutamente occidentales. Después, esta situación de ambigüedad, la que nos constituye, pero el hecho está en que para mí esto no es un defecto. Es ni defecto ni cualidad. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "05b1f054-bf84-4ea5-b005-077133dca6a2"
+    },
+    {
+      "start_time": 514,
+      "end_time": 551,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es nuestro ser constitutivo. La expresión de este ser constitutivo y la respuesta a nuestra circunstancia precisa aún en términos económicos, sociales o políticos—y desde luego en términos culturales—es tomar cualquiera de los dos partidos posibles. La idea de que ya vamos a ser iguales a occidente es una constante, tan constante como la idea en insistir entre nuestra personalidad propia y diferente de occidente. Esto es lo más claro que puedo decir las cosas. No sé si hayan pasado bien. No sé si me debo de referir a la crítica de una vez o esperamos otra vuelta. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "ee0cac34-5564-4702-9814-fec76c2e124b"
+    },
+    {
+      "start_time": 551,
+      "end_time": 578,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo creo que estamos ya entrando en la última parte de la segunda ronda y no quiero que nadie tenga la sensación de que ha dejado muchas cosas en el tintero. Posiblemente sea pertinente que tú hables ahora sobre el problema del este critical feedback. Palabra que a Dore Ashton no le agrada y que a mí tampoco, porque no entiendo nada de qué se trata. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "b882a130-18eb-4e81-b084-9ec5ee27ea58"
+    },
+    {
+      "start_time": 578,
+      "end_time": 583,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sería solo dos minutos quizás. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "5edb4814-bf95-4f08-9e66-96f92a272cd8"
+    },
+    {
+      "start_time": 583,
+      "end_time": 584,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Un minuto. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "bb2e2505-4b63-4425-81c1-ddb1f7fe5135"
+    },
+    {
+      "start_time": 584,
+      "end_time": 622,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para empezar, creo yo lo mismo que Paz decía ayer respecto a la crítica literaria. Creo que sí hay indudablemente críticas. No hay una carencia. Sí hay crítica tan buena o tan mala; más bien tan buena y tan mala como la hay en cualquier lugar del mundo, crítica artística. Sin embargo, me parece a mí claro o evidente que nuestra circunstancia es más una crítica testimonio, la llamaría yo, que una crítica actuante a corto plazo. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Paz, Octavio, 1914-1998"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "c4ab8479-6fa6-461d-b932-b32b3f2d0229"
+    },
+    {
+      "start_time": 622,
+      "end_time": 658,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esto sí sería una diferencia notable y circunstancial. Es decir, no es una crítica que funcione a corto plazo en la medida en que suele funcionar la crítica, desde luego sobre todo la periodística, en los grandes centros de producción tanto de arte como de crítica. Esto es su carencia y quizás eso es su cualidad. Esto libera a la crítica en América Latina de los compromisos, incluso de los cohechos, que son más comunes en otros lados tal vez que en nuestros medios. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "f0f70ae5-e551-4483-befd-34c6eecd7acb"
+    },
+    {
+      "start_time": 658,
+      "end_time": 695,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ahora bien. Es cierto que por esta falta de acción directa inmediata de la crítica nuestra, creo yo que el artista latinoamericano necesita el apoyo de una crítica llamémosla externa, porque en ninguno de nuestros países existe un centro de difusión de gran volumen—número de publicaciones, tiraje de esas publicaciones, organización de galerías fuertes, etcétera—a pesar de los esfuerzos de Plural. Perdón, pero no existe en la medida de otros lugares. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016 (man)"
+        },
+        {
+          "category": "Organizations",
+          "tag": "Plural"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "45c8b68a-cb98-47ab-8dfa-6af5b9036cd0"
+    },
+    {
+      "start_time": 695,
+      "end_time": 723,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por lo tanto necesita incluso para el éxito económico, que no está desligado en ningún modo de la producción artística, necesita de este apoyo de crítica externa. Es normal que la busque e incluso que tenga que ir a buscarla al propio lugar donde se produce; es decir, el fenómeno del artista latinoamericano exiliado, temporal o definitivamente al que ya se ha hecho referencia aquí. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "a9ac84ea-89b6-41c8-a436-acc99b25c89e"
+    },
+    {
+      "start_time": 723,
+      "end_time": 763,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sobre la condición o cualidad de nuestra crítica, sí creo, sin embargo. Pero no es un defecto de la crítica latinoamericana en particular, sino en general—creo necesario una especie de llamada a mis colegas—no a los aquí presentes, sino de una manera más general, a la necesidad de leer con más cuidado las obras, en tanto que el crítico no es al fin y al cabo si no un espectador; quizás un espectador más calificado que el espectador normal, pero no otra cosa. No un juez en ningún momento. En esto coincido obviamente con Dore Ashton. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Ashton, Dore, 1928-2017"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "bf164863-b20c-484c-b11d-87da5da259f2"
+    },
+    {
+      "start_time": 763,
+      "end_time": 785,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esta necesidad de leer cuidadosamente la obra ante el peligro o el vicio continuado de poner preponderantemente la ideología o las interpretaciones generales sobre el análisis concreto de los componentes de la obra. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "2af99ad7-028d-4a3c-9469-aab735b5f136"
+    },
+    {
+      "start_time": 785,
+      "end_time": 822,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gracias, Manrique. Creo que, aunque la primera parte de la discusión no se ha discutido suficientemente, yo esto lo hice a propósito para que el público interviniera y los de la mesa respondieran. En cambio, en la segunda parte de la crítica, lo que dijo Dore Ashton es que el crítico no debe guiar lo que el artista debe hacer; o no debe dictar, digamos. Ahora, a lo que se refiere Manrique es que sí existe una crítica y es que es necesaria la crítica, pero que la crítica está en un estado bastante no sé si lamentable o pobre, o que la crítica no es suficiente. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016"
+        },
+        {
+          "category": "People",
+          "tag": "Ashton, Dore, 1928-2017"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "dae1688c-fb42-4d2d-ae53-db86e2daf12a"
+    },
+    {
+      "start_time": 822,
+      "end_time": 831,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es decir, el número sí es insuficiente, obviamente. Lo notable de un director de revista es que a veces hay que improvisar casi críticos porque no existen. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "7f0b92aa-9258-47ba-8003-e796449601f4"
+    },
+    {
+      "start_time": 831,
+      "end_time": 848,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esto da la casualidad que—no porque yo sea un Superman ni Batman ni mucho menos—una de esas desgracias que me ocurren es que soy pintor y al mismo tiempo escribo en una revista que se llama Plural sobre crítica de arte. Sí hago crítica de arte. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "Organizations",
+          "tag": "Plural"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "1fdb777e-2fba-4334-8489-33c0d5e183ea"
+    },
+    {
+      "start_time": 848,
+      "end_time": 880,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esta doble condición mía que me anulan completamente—o sea que ni soy pintor ni soy crítico. me hace sentir que sí, que la crítica en América Latina, salvo muy pocas excepciones, el estado de la crítica en América Latina, la crítica de arte en América Latina a mi punto de vista es bastante pobre. En cambio, el arte es muy rico. Esta es la impresión que tengo, pero creo que esto no lo debo decir yo en este momento, sino que tal vez Góngora pueda ampliar, porque ya me está pidiendo la palabra desde hace unos minutos. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Góngora, Leonel"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "85997868-c841-4643-bc2e-48710bad1e77"
+    },
+    {
+      "start_time": 880,
+      "end_time": 906,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aunque la crítica en nuestros países sea más pobre y aunque los medios que tiene no son tan extensos, estamos aquí discutiendo nosotros como artistas latinoamericanos de cuestiones culturales. Claro que todo va a los medios de comunicación, a ese enchufe, a ese estar enchufado. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Góngora, Leonel (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "9698b794-34a5-46b1-a1c9-7baf67a91b26"
+    },
+    {
+      "start_time": 906,
+      "end_time": 950,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La demostración del enchufe es el hablar precisamente de este feedback, de este input o de estas cuestiones que quieren decir con información—con estas cuestiones que van hacia una tecnología de la información, hacia una media, hacia toda una mercadería que se le impone a toda una población. Para hablar de ese estímulo de los modelos exteriores lo único que podríamos mostrar es algo que viene muy al caso y que es completamente—esto es el periódico del domingo, The New York Times. En el avión lo leí. Es precisamente este artículo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Góngora, Leonel (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "The New York Times"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "bb53c422-2cd7-482f-b51b-6435a2e32ee1"
+    },
+    {
+      "start_time": 950,
+      "end_time": 955,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Espero que no leas todo el New York Times. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "The New York Times"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "94b8d5ce-71e5-492b-b414-ea87f5e33802"
+    },
+    {
+      "start_time": 955,
+      "end_time": 994,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, no lo voy a leer. No soy lector. Solamente quiero apuntar al hecho de que como modelos exteriores se nos presentan, por ejemplo, este equipo de lo que se llama Blue Chip Artists, que en términos de juego—como yo no juego en español, yo no sé cómo se llamaría. Serán fichas azules. No sé los que jueguen al póker o estas cuestiones podrán saber, pero este equipo de pintores que se llaman Blue Chip Artists van, claro, a crear toda una influencia desde sus premisas de poder, desde sus posiciones de gran valor comercial. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Góngora, Leonel (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "The New York Times"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Blue Chip Artists"
+        }
+      ],
+      "uuid": "4a6ec54e-3ab1-485c-860d-e6d248acf39e"
+    },
+    {
+      "start_time": 994,
+      "end_time": 1024,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿A qué modelos vamos a someternos nosotros los pintores latinoamericanos? Que nunca soñaríamos, inclusive ya hablando en estos términos comerciales solamente como para iluminar la cuestión, ya que no tengo otro interés ¿Cómo podríamos llegar inclusive a esos precios tan increíbles de un Stella en $75.000, una Jasper Johns o una Rauschenberg con precios que ni siquiera los grandes maestros latinoamericanos pueden inclusive llegar? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Góngora, Leonel (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stella, Frank"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Johns, Jasper, 1930-"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rauschenberg, Robert, 1925-2008"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Blue Chip Artists"
+        }
+      ],
+      "uuid": "20425a91-2bd7-4d81-b593-cdc2a02f9c64"
+    },
+    {
+      "start_time": 1024,
+      "end_time": 1061,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que me perdone tal vez el maestro Tamayo si llega a esos precios de Stella, de un joven como Stella que después de todo tiene no más de 15 años o 20 años, digamos. No creo que tenga 20 años en el panorama del arte mundial, pero que son cuestiones de mercado y que son cuestiones que apuntan hacia un mercado internacional, hacia una cuestión del arte como comercio, hacia una casi Hollywood de grandes producciones de millones en las cuales no se toma ningún riesgo. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Góngora, Leonel (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Tamayo, Rufino, 1899-1991"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stella, Frank"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "246b5906-d1ab-4896-9702-acb0c2de1a0d"
+    },
+    {
+      "start_time": 1061,
+      "end_time": 1079,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ya todos sabemos cuál es la calidad del cine de Hollywood, en la misma forma como sabemos cuál es la calidad de los dramas, del teatro de Broadway, de los grandes musicales o de este arte que tiene que sustentarse por las grandes inversiones comerciales. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Góngora, Leonel (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "06ec8821-33eb-4d99-b3b7-0c61ebe27646"
+    },
+    {
+      "start_time": 1079,
+      "end_time": 1122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gracias, Góngora. Obviamente, Góngora se está refiriendo al problema del input. ¿Podríamos ir también a output del enchufe? Ahora, el problema de la función de la crítica de arte en Latinoamérica creo que está relacionado también con la recepción o la importancia que puede tener esa crítica de arte en los medios culturales, no solamente en los medios masivos, porque obviamente la crítica de arte, desgraciadamente o afortunadamente, se debe hacer sobre algún medio, se debe expresar de alguna manera. Si eso se llama medio masivo, en fin, no es mi problema. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Góngora, Leonel"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "1954e76e-c3bf-484b-ba44-177b6a04c233"
+    },
+    {
+      "start_time": 1122,
+      "end_time": 1161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El problema creo que fundamental sería cuál es la reacción de los artistas presentes. Leonel Góngora ya ha hablado cuál sería la reacción, por ejemplo, de Felguérez y de Otero en relación a la crítica, cómo ellos sienten como artistas; que si la crítica es válida o no es válida, si la gente lee, si sirve para algo la crítica no solamente para los críticos profesionales, para los críticos académicos o para los críticos universitarios, sino para que eso tenga alguna importancia en el no digo mercado, porque estamos hablando también acá de mercado y ya eso sería otro problema; es decir, un problema más social, un fenómeno social como la venta de cuadros, los precios, etcétera. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Góngora, Leonel"
+        },
+        {
+          "category": "People",
+          "tag": "Felguérez, Manuel, 1928-"
+        },
+        {
+          "category": "People",
+          "tag": "Otero, Alejandro, 1921-1990"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "ebdb5c31-4924-4691-8a47-4f84ab761d0d"
+    },
+    {
+      "start_time": 1161,
+      "end_time": 1195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuál es la reacción? O que los mismos pintores cuando los críticos escriben sobre sus obras, yo estoy seguro que muchos pintores ni siquiera leen las críticas que escriben sobre sí mismos, que les escriben. Esto es debido a que la crítica, ya dije, que con muy pocas excepciones no está tomada en serio en América Latina. Por lo menos yo no lo tomo muy en serio. La mayor parte de la crítica me parece no solamente lamentable, sino deleznable. Quiero ceder la palabra a Felguérez. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Felguérez, Manuel, 1928-"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "d75ca69a-30b9-4c16-bcfa-9a5c0b8ec2d9"
+    },
+    {
+      "start_time": 1195,
+      "end_time": 1237,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ya entrando al problema de la crítica, yo encuentro que es tan compleja o más compleja incluso que la forma en que en la mañana los literatos la analizaron. La crítica se puede dividir o encontramos muchos tipos de crítica. Yo creo que para el artista mismo, la crítica más importante es la que él es capaz de hacer de su propia obra, pues solo a través del análisis de la propia obra se puede transformar esta y a través de su transformación mostrar cada vez nuevos aspectos de la realidad. Es decir que creo que el artista a través de la crítica evoluciona su obra y que esto es una condición básica al arte. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Felguérez, Manuel, 1928- (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "88b578df-9726-4cb4-82d4-94024e5fd3f3"
+    },
+    {
+      "start_time": 1237,
+      "end_time": 1282,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En segundo aspecto entraría la crítica de difusión; o sea, el crítico en cuanto traductor de un lenguaje de formas a aspectos sociales, aspectos políticos o aspectos culturales en general. Esta traducción que debe hacer el crítico al público en principio no interesa al artista mismo, pero le es vital para su existencia puesto que si no hay el traductor, el fenómeno de aceptación de ciertos valores estéticos se alarga, toma tiempo. Un reductor de tiempo entre el fenómeno cultural, que es la producción, y el fenómeno cultural, que es el entender o el comprender la significación que un arte tiene ante la sociedad. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Felguérez, Manuel, 1928- (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Aesthetics"
+        }
+      ],
+      "uuid": "43062b6c-b9d7-43d4-8d5c-1cd4d401c562"
+    },
+    {
+      "start_time": 1282,
+      "end_time": 1303,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Desde luego que en este aspecto existen dos tipos de crítica. La que llamaba Manrique testimonio, que es difícil generalizar para toda América Latina. Creo que en México, el Instituto de Investigaciones Estéticas tiene la fabulosa oportunidad de hacer este tipo de crítica y que desgraciadamente lleva muy corto tiempo que se ha emprendido. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Felguérez, Manuel, 1928- (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016"
+        },
+        {
+          "category": "Places",
+          "tag": "Mexico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Institute of Aesthetic Research"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Aesthetics"
+        }
+      ],
+      "uuid": "594c2c69-fa43-4b5e-95bb-71cee828b6bf"
+    },
+    {
+      "start_time": 1303,
+      "end_time": 1348,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Así como existe esa crítica, existe la crítica más que periodística, podríamos decir, elevándola. La crítica que hacen los poetas, que hacen los literatos y que a su vez por comprender fenómenos lingüísticos son los que normalmente han sabido mejor captar el espíritu que anima una obra arte. Ahí, desde luego, sin citar a la antigüedad—Mallarmé o cualquiera de los grandes poetas franceses, también vemos que la tradición se ha pasado a Latinoamérica. Encontramos, en el caso de México, poetas como Octavio Paz, que siempre ha puesto atención hacia la creación estética visual. Lo mismo que escritores como Juan García Ponce, que gran parte de su obra la ha dedicado en este sentido. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Felguérez, Manuel, 1928- (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mallarmé, Stéphane, 1842-1898"
+        },
+        {
+          "category": "People",
+          "tag": "Paz, Octavio, 1914-1998"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "García Ponce, Juan"
+        },
+        {
+          "category": "Places",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Aesthetics"
+        }
+      ],
+      "uuid": "41b17688-365c-4ef8-a6cb-40739acd491b"
+    },
+    {
+      "start_time": 1348,
+      "end_time": 1383,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En tercer sentido, es decir, en último sentido, todos estos esfuerzos válidos o no válidos se encuentran contra una tercera crítica. Más que crítica podríamos decir censura—No sabríamos nunca si es censura o es crítica. Es aquellos valores que al Estado le interesa por razones de poder difundir y en los cuales impulsa a base de exposiciones, a base de contratos, a base de una serie de métodos de control, impulsa un tipo de arte que le es útil en función del control de su poder político. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Felguérez, Manuel, 1928- (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "b425acd2-5555-4345-b108-7d743e60d510"
+    },
+    {
+      "start_time": 1383,
+      "end_time": 1408,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Creo que esta crítica se encuentra siempre en contradicción con la crítica poética o la crítica teórica y que la penetración de ese poder, es decir, el tiempo en que realmente el ideal de los países fuera elitizar al pueblo y no vulgarizar la cultura, en medida de eso podríamos crear una verdadera conciencia nacional y una verdadera cultura latinoamericana. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Felguérez, Manuel, 1928- (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "0faf0a0e-875c-4477-9ec5-183bdce52dc1"
+    },
+    {
+      "start_time": 1408,
+      "end_time": 1425,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gracias, Felguérez. Felguérez ha deslindado tres tipos de críticas. Me gustaría que si el resto de los panelistas tienen alguna cuestión sobre este problema, que se refieran, pero antes tengo la palabra de Dore Ashton. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Felguérez, Manuel, 1928-"
+        },
+        {
+          "category": "People",
+          "tag": "Ashton, Dore, 1928-2017"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "c6e1b715-407e-47e0-9450-3bf822c2c943"
+    },
+    {
+      "start_time": 1425,
+      "end_time": 1448,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dos palabras. Quiero decirle a Manuel que quizá deposita demasiado valor en el papel del crítico como traductor, y solo recordarle ese viejo dicho: \"Traduttore, traditore\". [laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "3fdf8609-8c6f-4183-9eba-1c504fb4bcdd"
+    },
+    {
+      "start_time": 1448,
+      "end_time": 1458,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Manrique, un minuto y medio. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "a4e47fc3-bd03-45f6-85c8-5cec289f351a"
+    },
+    {
+      "start_time": 1458,
+      "end_time": 1495,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sobre lo que dijo Felguérez, con lo cual, por cierto, yo coincido, quisiera señalar algo que me importa. Hay esa crítica que podríamos llamar universitaria o académica, en buen sentido. Estoy refiriéndome a la circunstancia latinoamericana. Más a la mexicana porque realmente nuestro desconocimiento, o el mío, por lo menos, no me permite hacer generalizaciones con más o menos seguridad. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Felguérez, Manuel, 1928-"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "436559df-da3a-45f6-854f-fcc736c45132"
+    },
+    {
+      "start_time": 1495,
+      "end_time": 1548,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hay esa crítica universitaria. Hay una crítica periodística, llamémosla más bien crónica, y hay la crítica literaria. En nuestro medio, la universitaria y la literaria son de muy alta calidad, aunque no tan abundante quizás como fuera de desearse. En cambio, la intermedia, la periodística, la que es actuante a corto plazo, esta es la que suele ser muy deficiente. Desde luego, en el caso de México es terriblemente deficiente. Otra vez, como alguien señalaba la vez pasada, son esos estratos medios los que faltan a nosotros. Quisiera, si puedo, tener 30 segundos más. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016 (man)"
+        },
+        {
+          "category": "Places",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "a74b7e66-1d4d-43f0-b333-f1ffc7fab6f3"
+    },
+    {
+      "start_time": 1548,
+      "end_time": 1549,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "c79fd61d-83bb-4a72-8919-56d0e7b2a372"
+    },
+    {
+      "start_time": 1549,
+      "end_time": 1550,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hacer una—"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "2859f166-de70-48fb-a9e4-d7c37d3552cf"
+    },
+    {
+      "start_time": 1550,
+      "end_time": 1561,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No. Next time. Solamente en referencia a lo que ha dicho Felguérez y Manrique. Claro, yo puedo hablar porque se me permite. [risas]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Felguérez, Manuel, 1928-"
+        },
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "fc4ff36d-1255-44a4-bfde-4ca311b2088c"
+    },
+    {
+      "start_time": 1561,
+      "end_time": 1569,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Perdón. Al hablar de crítica periodística no me refiero a la crítica de revistas culturales, sino a la crónica diaria de periódicos o suplementos. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "2769eade-582d-4091-bd09-79e0ca02bd75"
+    },
+    {
+      "start_time": 1569,
+      "end_time": 1595,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Quisiera solamente repetir una cosa que se ha dicho en el panel de los literatos de la crítica literaria. No recuerdo ahora muy bien quién lo dijo, pero que la crítica no solamente puede ser una traducción de una obra de arte, como en los términos que usa Felguérez, sino que la crítica también es una creación. Nada más. Aracy otra vez vuelve a la batalla. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Felguérez, Manuel, 1928-"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "e0e3949e-6b0a-4bc6-b0bc-3325031abccd"
+    },
+    {
+      "start_time": 1595,
+      "end_time": 1596,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Va. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Amaral, Aracy A. (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "c945666b-f842-4e6d-89bd-79c04405b8cf"
+    },
+    {
+      "start_time": 1596,
+      "end_time": 1597,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Va. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "72cf90ab-4795-4219-b50c-1b6fa93ec275"
+    },
+    {
+      "start_time": 1598,
+      "end_time": 1599,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[unintelligible 00:26:38] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Amaral, Aracy A. (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "a4107521-6d38-4d79-bc2d-8620aa9d4975"
+    },
+    {
+      "start_time": 1599,
+      "end_time": 1600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sí. Un minuto y medio. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "1e476c98-9cac-4f72-8beb-64af261a96e1"
+    },
+    {
+      "start_time": 1600,
+      "end_time": 1601,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Un minuto y medio no. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Amaral, Aracy A. (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "ae8ddb33-05af-470d-92c2-f38f77411e5e"
+    },
+    {
+      "start_time": 1601,
+      "end_time": 1602,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Si"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "39b642cb-bfa0-401b-8316-2a587ba01c0f"
+    },
+    {
+      "start_time": 1602,
+      "end_time": 1603,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hagamos tres. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Amaral, Aracy A. (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "42b946e0-aa17-40ab-9fe3-44e2630a0f29"
+    },
+    {
+      "start_time": 1603,
+      "end_time": 1604,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "e1d6c378-83ee-499a-9746-5c16411d5a85"
+    },
+    {
+      "start_time": 1604,
+      "end_time": 1606,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo no creo que sea—Sí, es el Año Internacional de la Mujer. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Amaral, Aracy A. (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "e19d11ae-454d-44db-b042-9e13e7bde269"
+    },
+    {
+      "start_time": 1606,
+      "end_time": 1611,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No. [risas] [aplauso]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "7761546c-2a9b-474d-a984-1d9b85aec1d7"
+    },
+    {
+      "start_time": 1611,
+      "end_time": 1616,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El Año Internacional de la Mujer—ya estamos a fines de octubre, ya está terminando. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "b2c106ac-9242-4157-9d0f-611d61ecac6d"
+    },
+    {
+      "start_time": 1616,
+      "end_time": 1643,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo no creo que sea la ausencia de una crítica especializada, lo que sea, la extracción para el artista latinoamericano que lo impulsione al exterior, pero sí la proximidad, la información en su fuente primera; o sea, la vibración de un medio artístico más desarrollado y provocador que el país de donde proviene. Yo creo que así yo pondría en un orden gradativamente de importancia. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Amaral, Aracy A. (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "f3b60355-62a2-46a6-9571-9e600227bea3"
+    },
+    {
+      "start_time": 1643,
+      "end_time": 1645,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La información es parte de la crítica. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "97809b27-d790-4741-a86a-a1cf5c1c99b8"
+    },
+    {
+      "start_time": 1645,
+      "end_time": 1647,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Cómo? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Amaral, Aracy A. (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "c8d79921-802e-49b7-9a04-8e101026f624"
+    },
+    {
+      "start_time": 1647,
+      "end_time": 1650,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La información es parte de la crítica de algún modo. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "2873c625-7b94-46ce-a5ed-88cb6562567b"
+    },
+    {
+      "start_time": 1650,
+      "end_time": 1675,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, pero yo digo en el sentido de modelos. Lo que yo pongo en primer lugar a estimularlo para que se vaya al exterior, en primer lugar, la vibración de un medio artístico desarrollado. La existencia, dos, de un mercado de arte que absorbe su producción y lo impulsiona a una competencia y a una solicitación cada vez más grande. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Amaral, Aracy A. (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "97775335-7736-42be-9bf5-e054bea96737"
+    },
+    {
+      "start_time": 1675,
+      "end_time": 1713,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En tercer lugar como un lujo la crítica porque, aunque en su país tuviera una crítica, ¿de qué le serviría una crítica halagadora o estimulante a un artista latinoamericano si no consigue afirmarse profesionalmente? Por otro lado, volviendo siempre a esa confusión entre modelos y crítica, yo diría, volviendo a algo que ya levantó Juan Acha, que los modelos frecuentemente actúan en América Latina también como el elemento de renovación del lenguaje y de corrección. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Amaral, Aracy A. (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Acha, Juan, 1916-1995"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "f3fb5b0d-8abf-49af-baba-6e0b1288c79a"
+    },
+    {
+      "start_time": 1713,
+      "end_time": 1743,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es decir, tiene también una actuación correctora y de renovación de lenguaje el modelo y no la crítica. Es decir, los modismos internacionales. Tan enjuiciados estamos los latinoamericanos con la información que viene del extranjero que nos dejamos influenciar por eso. Es claro que hay artistas singulares que son los que respetamos, los grandes artistas, pero hay una generalidad muy grande del medio artístico que se deja influenciar por eso. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Amaral, Aracy A. (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "457b773b-7909-4905-afb3-220bb4f25991"
+    },
+    {
+      "start_time": 1743,
+      "end_time": 1790,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Muchas gracias. [aplausos] Estoy seguro que acá me van a mandar una nota diciendo, \"No estés cortando\", pero desgraciadamente es el papel desagradable de todo chairman. Tengo una lista muy larga de personas que yo desearía que participaran en esta discusión ya fuera de la mesa. Que puedan hacer preguntas los del público. Concretamente sería importante que volviéramos al primer punto; los modelos locales o importados que el artista latinoamericano enfrenta. Para no perder tiempo, podría pedir la palabra a [unintelligible 00:29:49]. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sakai, Kazuya, 1927-2001 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "1355f433-d474-40d5-b59e-85d96bfde86f"
+    },
+    {
+      "start_time": 1790,
+      "end_time": 1827,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No sé si voy a hablar exactamente de los modelos locales o importados. Más bien el problema de hablar al final es que se repiten cosas que ya se han dicho, pero por otro lado creo que tengo algo aquí que no se ha mencionado para nada y que me parece parte importante de los problemas de los cuales se han planteado aquí. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 2 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Multiculturalism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art critics"
+        }
+      ],
+      "uuid": "d7765e69-9941-4e28-ad4f-31eda25a943b"
+    }
+  ],
   "event_id": "eb4bff37-9767-4661-bf97-5b66804cb34d",
   "set": "Spanish Annotation",
   "source_id": "d2c955b2-370d-4e78-8661-2fdf0fcc2d31"
