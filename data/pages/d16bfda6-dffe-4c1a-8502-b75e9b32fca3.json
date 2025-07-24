@@ -13,8 +13,7 @@
       "uuid": "bbda7050-0c03-4b24-ba60-f0c470fcb3ad",
       "includes": [
         "media",
-        "annotations",
-        "description"
+        "annotations"
       ],
       "children": [
         {
@@ -35,7 +34,7 @@
   "created_by": "artyella",
   "title": "Does present-day Latin American art exist as a distinct expression?- Part 4",
   "slug": "does-present-day-latin-american-art-exist-a---4",
-  "updated_at": "2025-07-24T19:44:40.404Z",
+  "updated_at": "2025-07-24T19:44:53.317Z",
   "updated_by": "artyella",
   "parent": "30cee196-f789-4dda-8803-cbacf1eb1f5f",
   "autogenerate": {
