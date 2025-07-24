@@ -1593,10 +1593,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Art and Literature"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Latin American Literature"
         },
         {
@@ -1610,7 +1606,7 @@
       ]
     },
     "created_at": "2025-07-21T17:39:57.261Z",
-    "updated_at": "2025-07-24T19:35:27.924Z",
+    "updated_at": "2025-07-24T19:40:09.360Z",
     "generate_pages_site": true
   },
   "annotations": {},
