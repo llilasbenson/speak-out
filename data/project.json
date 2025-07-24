@@ -700,10 +700,6 @@
           "tag": "Marisol, 1930-2016"
         },
         {
-          "category": "Communities",
-          "tag": "Indigenous People"
-        },
-        {
           "category": "People",
           "tag": "Alegría, Ciro, 1909-1967"
         },
@@ -1598,7 +1594,7 @@
       ]
     },
     "created_at": "2025-07-21T17:39:57.261Z",
-    "updated_at": "2025-07-24T18:17:25.158Z",
+    "updated_at": "2025-07-24T18:17:34.558Z",
     "generate_pages_site": true
   },
   "annotations": {},
