@@ -1,0 +1,30 @@
+{
+  "audiovisual_files": {
+    "c6117fe2-2655-491b-b315-25c5c951a21e": {
+      "label": "2018_0852_0004",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://utexas.box.com/shared/static/4q65013pd98a3you1o9m4tseynmiwzj1.mp3",
+      "duration": 1867,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Does present-day Latin American art exist as a distinct expression?- Part 4",
+  "created_at": "2025-07-24T19:34:44.477Z",
+  "created_by": "artyella",
+  "updated_at": "2025-07-24T19:34:44.477Z",
+  "updated_by": "artyella"
+}
