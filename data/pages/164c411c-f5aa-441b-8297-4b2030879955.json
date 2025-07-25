@@ -13,8 +13,7 @@
       "uuid": "6d05aef4-0d3a-4d30-a18a-890292f60689",
       "includes": [
         "media",
-        "annotations",
-        "description"
+        "annotations"
       ],
       "children": [
         {
@@ -35,7 +34,7 @@
   "created_by": "rpr88",
   "title": "With what operative models, local and imported, does the Latin American plastic artist face his circumstances; and, with what sorts of critical feedback is he faced?- Part 5",
   "slug": "with-what-operative-models-local-and-import----5",
-  "updated_at": "2025-07-25T16:47:22.506Z",
+  "updated_at": "2025-07-25T16:52:32.657Z",
   "updated_by": "rpr88",
   "autogenerate": {
     "enabled": false,
