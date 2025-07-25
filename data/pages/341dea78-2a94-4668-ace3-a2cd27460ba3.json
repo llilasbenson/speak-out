@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "There are two ways you can search through the radio programs. In the following video tutorials, see how you can search by using "
+        },
+        {
+          "text": "Tags",
+          "bold": true
+        },
+        {
+          "text": " from the annotations created for each panel. "
+        }
+      ]
+    }
+  ],
+  "title": "How to Use Tags",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "how-to-use-tags",
+  "created_at": "2025-07-25T16:45:22.776Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-07-25T16:45:22.776Z",
+  "updated_by": "rpr88"
+}
