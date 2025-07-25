@@ -1,5 +1,15 @@
 {
-  "audiovisual_files": {},
+  "audiovisual_files": {
+    "10711464-b60c-4dfc-9430-06c82f9ab630": {
+      "label": "2018_0852_0018",
+      "is_offline": false,
+      "file_url": "https://utexas.box.com/shared/static/24rgqk1825edo2jje890qpftzkcrxh5k.mp3",
+      "duration": 1768,
+      "caption_set": [],
+      "set_sort": [],
+      "file_type": "Audio"
+    }
+  },
   "auto_generate_web_page": true,
   "description": [
     {
@@ -15,6 +25,7 @@
   "label": "With what operative models, local and imported, does the Latin American plastic artist face his circumstances; and, with what sorts of critical feedback is he faced?- Part 5",
   "created_at": "2025-07-23T19:57:20.814Z",
   "created_by": "rpr88",
-  "updated_at": "2025-07-23T19:57:20.814Z",
-  "updated_by": "rpr88"
+  "updated_at": "2025-07-25T16:41:00.953Z",
+  "updated_by": "rpr88",
+  "av_file_order": []
 }
