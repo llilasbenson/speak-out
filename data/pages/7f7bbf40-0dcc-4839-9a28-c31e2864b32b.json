@@ -4,6 +4,363 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Key Programs in the Collection",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "img here?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Below is a comprehensive list of the key panels in the 1975 international conference, ",
+          "textSize": "heading-two"
+        },
+        {
+          "italic": true,
+          "textSize": "heading-three",
+          "text": "Speak Out! Charla! Bate-Papo:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "textSize": "heading-three",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Art Panels"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Literature Panels"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Does present-day Latin American art exist as a distinct expression?",
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Part 1",
+                      "link": "https://llilasbenson.github.io/speak-out/pages/does-present-day-latin-american-art-exist-as/"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Part 2",
+                      "link": "https://llilasbenson.github.io/speak-out/pages/does-present-day-latin-american-art-exist-a-2/"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Part 3",
+                      "link": "https://llilasbenson.github.io/speak-out/pages/does-present-day-latin-american-art-exist-a--3/"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Part 4",
+                      "link": "https://llilasbenson.github.io/speak-out/pages/does-present-day-latin-american-art-exist-a---4/"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Part 5",
+                      "link": "https://llilasbenson.github.io/speak-out/pages/does-present-day-latin-american-art-exist-a----5/"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Literary Criticism: Its Present Status in Latin America",
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Part 1",
+                      "link": "https://llilasbenson.github.io/speak-out/pages/literary-criticism-its-present-status-in-lat/"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Part 2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "With what operative models, local and imported, does the Latin American plastic artist face his circumstances; and, with what sorts of critical feedback is he faced?",
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Part 1",
+                      "link": "https://llilasbenson.github.io/speak-out/pages/with-what-operative-models-local-and-import-2/"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Part 2",
+                      "link": "https://llilasbenson.github.io/speak-out/pages/with-what-operative-models-local-and-importe/"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Part 3",
+                      "link": "https://llilasbenson.github.io/speak-out/pages/with-what-operative-models-local-and-import--3/"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Part 4",
+                      "link": "https://llilasbenson.github.io/speak-out/pages/with-what-operative-models-local-and-import---4/"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Part 5",
+                      "link": "https://llilasbenson.github.io/speak-out/pages/with-what-operative-models-local-and-import----5/"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Function of Latin American Literature as Criticism",
+                  "textSize": "heading-four"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Art and Literature Joint Review Session: Plastic Arts Topics",
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Part 1",
+                      "link": "https://llilasbenson.github.io/speak-out/pages/art-and-literature-joint-review-session-pla--3/"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Part 2",
+                      "link": "https://llilasbenson.github.io/speak-out/pages/art-and-literature-joint-review-session-plas/"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Art and Literature Joint Review Session: Literary Topics",
+                  "textSize": "heading-four"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -17,7 +374,7 @@
   "slug": "key-programs",
   "created_at": "2025-07-25T16:45:44.490Z",
   "created_by": "rpr88",
-  "updated_at": "2025-07-25T16:51:43.364Z",
-  "updated_by": "rpr88",
+  "updated_at": "2025-07-25T18:58:49.790Z",
+  "updated_by": "artyella",
   "parent": "30cee196-f789-4dda-8803-cbacf1eb1f5f"
 }
