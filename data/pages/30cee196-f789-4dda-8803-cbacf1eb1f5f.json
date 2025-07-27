@@ -30,8 +30,57 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\"Speak-Out! Charla! Bate-Papo! Contemporary Art and Literature in Latin America\" was held October 27-29, 1975, at the University of Texas at Austin. It sponsored by The University Art Museum, the Institute of Latin American Studies, and the College of Fine Arts. During this three-day symposium, artists, writers, critics, historians, and a variety of other attendees discussed topics related to contemporary art and literature from Latin America. The \"Speak Out! Symposium Collection\" includes the recordings of the panels conducted during those three days. Panels included in the collection were conducted in English, Spanish, and Portuguese, and covered a variety of subjects related to the art and literature of Latin America and it's international role. ",
-                  "textSize": "heading-three"
+                  "text": "\"Speak-Out! Charla! Bate-Papo! Contemporary Art and Literature in Latin America\" was held October 27-29, 1975, at the University of Texas at Austin. It sponsored by The University Art Museum, the Institute of Latin American Studies, and the College of Fine Arts. During this three-day symposium, artists, writers, critics, historians, and a variety of other attendees discussed topics related to contemporary art and literature from Latin America. The \"Speak Out! Symposium Collection\" includes the recordings of the panels conducted during those three days. Panels included in the collection were conducted in English, Spanish, and Portuguese, and covered a variety of subjects related to the art and literature of Latin America and it's international role. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Table of Contents",
+                  "bold": true,
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "block-quote",
+              "children": [
+                {
+                  "text": "About"
+                }
+              ]
+            },
+            {
+              "type": "block-quote",
+              "children": [
+                {
+                  "text": "Key Programs "
+                }
+              ]
+            },
+            {
+              "type": "block-quote",
+              "children": [
+                {
+                  "text": "How to Use Tags"
+                }
+              ]
+            },
+            {
+              "type": "block-quote",
+              "children": [
+                {
+                  "text": "Index"
                 }
               ]
             },
@@ -82,7 +131,7 @@
   "created_at": "2025-07-21T17:39:57.283Z",
   "created_by": "llilasbenson",
   "title": "Speak Out! Symposium",
-  "updated_at": "2025-07-26T01:35:19.875Z",
+  "updated_at": "2025-07-27T05:53:08.242Z",
   "updated_by": "rpr88",
   "autogenerate": {
     "enabled": false,
