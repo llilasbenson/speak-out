@@ -13,8 +13,7 @@
       "uuid": "841b8828-6a4d-4f67-983f-3e015853f1b9",
       "includes": [
         "media",
-        "annotations",
-        "description"
+        "annotations"
       ],
       "children": [
         {
@@ -35,7 +34,7 @@
   "created_by": "artyella",
   "title": "Literary Criticism: Its Present Status in Latin America- Part 2",
   "slug": "literary-criticism-its-present-status-in-la-2",
-  "updated_at": "2025-07-28T19:56:36.715Z",
+  "updated_at": "2025-07-28T20:01:11.143Z",
   "updated_by": "artyella",
   "autogenerate": {
     "enabled": false,
