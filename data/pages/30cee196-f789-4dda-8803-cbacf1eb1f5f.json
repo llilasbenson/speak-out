@@ -12,9 +12,11 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Speak-Out! Charla! Bate-Papo! Contemporary Art and Literature in Latin America",
+          "textSize": "heading-one"
         }
-      ]
+      ],
+      "align": "center"
     },
     {
       "type": "grid",
@@ -56,7 +58,8 @@
               "type": "block-quote",
               "children": [
                 {
-                  "text": "About"
+                  "text": "About",
+                  "link": "https://llilasbenson.github.io/speak-out/pages/about/"
                 }
               ]
             },
@@ -64,7 +67,8 @@
               "type": "block-quote",
               "children": [
                 {
-                  "text": "Key Programs "
+                  "text": "Key Programs ",
+                  "link": "https://llilasbenson.github.io/speak-out/pages/key-programs/"
                 }
               ]
             },
@@ -72,7 +76,8 @@
               "type": "block-quote",
               "children": [
                 {
-                  "text": "How to Use Tags"
+                  "text": "How to Use Tags",
+                  "link": "https://llilasbenson.github.io/speak-out/pages/how-to-use-tags/"
                 }
               ]
             },
@@ -131,7 +136,7 @@
   "created_at": "2025-07-21T17:39:57.283Z",
   "created_by": "llilasbenson",
   "title": "Speak Out! Symposium",
-  "updated_at": "2025-07-27T05:53:08.242Z",
+  "updated_at": "2025-07-28T05:52:40.065Z",
   "updated_by": "rpr88",
   "autogenerate": {
     "enabled": false,
