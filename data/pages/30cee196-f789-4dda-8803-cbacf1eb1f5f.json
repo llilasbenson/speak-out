@@ -49,8 +49,7 @@
               "children": [
                 {
                   "text": "Table of Contents",
-                  "bold": true,
-                  "textSize": "heading-two"
+                  "bold": true
                 }
               ]
             },
@@ -59,8 +58,7 @@
               "children": [
                 {
                   "text": "About",
-                  "link": "https://llilasbenson.github.io/speak-out/pages/about/",
-                  "textSize": "heading-three"
+                  "link": "https://llilasbenson.github.io/speak-out/pages/about/"
                 }
               ]
             },
@@ -69,8 +67,7 @@
               "children": [
                 {
                   "text": "Key Programs ",
-                  "link": "https://llilasbenson.github.io/speak-out/pages/key-programs/",
-                  "textSize": "heading-three"
+                  "link": "https://llilasbenson.github.io/speak-out/pages/key-programs/"
                 }
               ]
             },
@@ -79,8 +76,7 @@
               "children": [
                 {
                   "text": "How to Use Tags",
-                  "link": "https://llilasbenson.github.io/speak-out/pages/how-to-use-tags/",
-                  "textSize": "heading-three"
+                  "link": "https://llilasbenson.github.io/speak-out/pages/how-to-use-tags/"
                 }
               ]
             },
@@ -89,8 +85,7 @@
               "children": [
                 {
                   "text": "Index",
-                  "link": "https://llilasbenson.github.io/speak-out/tags/",
-                  "textSize": "heading-three"
+                  "link": "https://llilasbenson.github.io/speak-out/tags/"
                 }
               ]
             },
@@ -141,7 +136,7 @@
   "created_at": "2025-07-21T17:39:57.283Z",
   "created_by": "llilasbenson",
   "title": "Speak Out! Symposium",
-  "updated_at": "2025-07-28T16:29:36.805Z",
+  "updated_at": "2025-07-28T22:52:28.008Z",
   "updated_by": "rpr88",
   "autogenerate": {
     "enabled": false,
