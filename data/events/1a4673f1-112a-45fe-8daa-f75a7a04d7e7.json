@@ -7,7 +7,10 @@
       "file_url": "https://utexas.box.com/shared/static/n3f3z0ng93sw7ssn5mib0zc7rfqcs2e5.mp3",
       "duration": 1860,
       "caption_set": [],
-      "set_sort": []
+      "set_sort": [
+        "ef926ce4-2dfb-4a2e-8926-a8d80bc27790",
+        "a7dba396-bac5-44df-939f-da999473ec95"
+      ]
     }
   },
   "auto_generate_web_page": true,
@@ -25,6 +28,9 @@
   "label": "Literary Criticism: Its Present Status in Latin America- Part 3",
   "created_at": "2025-07-29T22:06:07.464Z",
   "created_by": "artyella",
-  "updated_at": "2025-07-29T22:06:07.464Z",
-  "updated_by": "artyella"
+  "updated_at": "2025-07-29T22:08:09.877Z",
+  "updated_by": "artyella",
+  "av_file_order": [
+    "9bf5a50b-ca8d-47a3-950b-831ce08d5933"
+  ]
 }
