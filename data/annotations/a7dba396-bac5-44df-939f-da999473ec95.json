@@ -1,5 +1,1557 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[silencio]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "29e58531-a971-47ff-860d-2d46f51fe00b"
+    },
+    {
+      "start_time": 7,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Entre la crítica literaria y el pensamiento filosófico y científico ha habido una continua intercomunicación. España, Portugal y sus antiguas colonias son la excepción. Salvo en casos aislados, como el de Ortega y Gasset, nuestros críticos se han alimentado no de lo que se ha pensado entre nosotros, sino en Europa y los Estados Unidos. Tenemos una crítica literaria. Lo que no tenemos es un pensamiento crítico propio. Por eso dije más arriba que somos una porción excéntrica de Occidente."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Phillips, Allen W., 1922-2011 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Ortega y Gasset, José, 1883-1955"
+        },
+        {
+          "category": "Places",
+          "tag": "Spain"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Portugal"
+        },
+        {
+          "category": "Places",
+          "tag": "United States"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Literary criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "e56e774c-df26-4a75-ab14-5f2a3ebee274"
+    },
+    {
+      "start_time": 55,
+      "end_time": 100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Cuándo comenzó nuestra excentricidad? ¿En el XVII o en el XVIII? Aquí no tuvimos un De Caritat. Me parece que lo que nos faltó sobre todo fue el equivalente de la ilustración y de la filosofía crítica. Ahí está la gran ruptura. Allí, donde comienza la era moderna, comienza también nuestra separación. No tuvimos siglo XVIII. Ni con la mejor buena voluntad podemos comparar a Feijoo con Hume, Locke, Diderot, Rousseau, Kant, Herder."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Phillips, Allen W., 1922-2011 (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Condorcet, Jean-Antoine-Nicolas de Caritat, marquis de, 1743-1794"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Hume, David, 1711-1776"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Locke, John, 1632-1704"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Diderot, Denis, 1713-1784"
+        },
+        {
+          "category": "People",
+          "tag": "Kant, Immanuel, 1724-1804"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rousseau, Jean-Jacques, 1712-1778"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Herder, Johann Gottfried, 1744-1803"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Enlightenment"
+        }
+      ],
+      "uuid": "c6f4c6b5-bd65-459e-954b-620d78b30c6d"
+    },
+    {
+      "start_time": 101,
+      "end_time": 149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Después, como no tuvimos ilustración ni revolución burguesa, tampoco tuvimos la gran reacción pasional y espiritual contra la crítica y sus construcciones, el romanticismo. El nuestro fue declamatorio y externo. No podía ser de otro modo. Nuestros románticos se rebelaron contra algo que no habían padecido, la tiranía de la razón, y así sucesivamente. Desde el XVIII hemos bailado fuera de compás. A veces contra la corriente y otras, como en el período modernista, tratando de seguir las piruetas del día."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Phillips, Allen W., 1922-2011 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Literary criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Enlightenment"
+        }
+      ],
+      "uuid": "ce71c331-7c61-4762-9cd4-f54569398e13"
+    },
+    {
+      "start_time": 150,
+      "end_time": 196,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por fortuna, nunca lo hemos logrado enteramente. No seré yo el que lo lamente. Nuestra incapacidad para ponernos a tono ha producido oblicuamente, por decirlo así, obras únicas. Obras que más que excéntricas hay que llamar excepcionales. En el campo del pensamiento, la política, la moral pública y la convivencia social, nuestra excentricidad ha sido funesta. Por supuesto, nuestros pueblos no son la única excepción en Occidente."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Phillips, Allen W., 1922-2011 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Enlightenment"
+        }
+      ],
+      "uuid": "74c8805f-e84e-4760-913e-a8caa139e52f"
+    },
+    {
+      "start_time": 197,
+      "end_time": 246,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Los rusos, por ejemplo, tampoco tuvieron siglo XVIII. Quiero decir, la ilustración no penetró en esa sociedad sino bajo la forma paradójica, como en la España del Carlos III, del despotismo ilustrado. Ellos y nosotros hemos pagado cruelmente esta inmensa omisión histórica. Conocemos la sátira, la ironía, el humor y la rebeldía heroica, pero no la crítica en el sentido recto de la palabra. Por eso tampoco conocemos la tolerancia, fundamento de la civilización política."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Phillips, Allen W., 1922-2011 (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Charles III, King of Spain, 1716-1788"
+        },
+        {
+          "category": "Places",
+          "tag": "Spain"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Enlightenment"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Literary criticism"
+        }
+      ],
+      "uuid": "1fd0170a-dc85-492d-b459-9f3200f2493c"
+    },
+    {
+      "start_time": 247,
+      "end_time": 283,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ni la verdadera democracia, que consiste en la libertad y que reposa en el respeto a los disidentes y a los derechos de las minorías. Nuestros pueblos viven entre los espasmos de la rebeldía y el estupor de la pasividad. En los últimos años, intoxicados por esas formas inferiores del instinto religioso que son las ideologías políticas contemporáneas, muchos intelectuales latinoamericanos han abdicado."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Phillips, Allen W., 1922-2011 (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Enlightenment"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Literary criticism"
+        }
+      ],
+      "uuid": "586d8019-a49f-46ea-85a8-692598f4d3c4"
+    },
+    {
+      "start_time": 284,
+      "end_time": 328,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No han adorado como los de otras épocas al becerro de oro, sino al toro de la violencia obtusa y del poder intolerante. Al toro que lleva entre los cuernos como si fuesen guirnaldas las tripas de sus víctimas. Al toro de pezuñas ensangrentadas. Muchos escritores atemorizados o seducidos por los bandos ideológicos y la retórica de la violencia se han convertido en acólitos y sacristanes de los nuevos oficiantes y sacrificadores."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Phillips, Allen W., 1922-2011 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "c4d0fc4c-bd9c-47b1-929c-ca4acc22f47c"
+    },
+    {
+      "start_time": 329,
+      "end_time": 387,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Algunos, no contentos con esta abjuración, han trepado a los púlpitos. Desde allí han pedido el castigo de sus colegas independientes y, aún poseídos por el demonio del autoaborrecimiento, el castigo de sí mismos. Plural se fundó para enfrentarse a este estado de cosas. La crítica es en su esencia terapéutica. Quisimos reintroducir contra el monólogo y el griterío, esas dos aberraciones gemelas, la palabra racional, la palabra crítica, que es siempre dual porque implica un interlocutor."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Phillips, Allen W., 1922-2011 (man)"
+        },
+        {
+          "category": "Organizations",
+          "tag": "Plural"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Literary criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "8d182ce6-2f58-4920-b1bd-a3537754bc0d"
+    },
+    {
+      "start_time": 388,
+      "end_time": 435,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ya sabemos que la crítica no puede por sí sola producir buena literatura. No es esa, por lo demás, su misión. En cambio, sabemos que solo ella puede crear ese espacio físico, intelectual, moral, donde se despliega una literatura. Plural quiso y quiere contribuir a la construcción de ese espacio. Gracias a ustedes, colaboradores y amigos de la revista, empezamos a construirlo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Phillips, Allen W., 1922-2011 (man)"
+        },
+        {
+          "category": "Organizations",
+          "tag": "Plural"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Literary criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "65dd5e79-46d2-42bc-8016-d3e5c2019879"
+    },
+    {
+      "start_time": 436,
+      "end_time": 448,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[aplausos]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "76d02d63-1803-4983-b848-d0a5c6f717f4"
+    },
+    {
+      "start_time": 455,
+      "end_time": 507,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El amigo Cardona me pasa una hoja de papel en la cual me dice que nos queda exactamente una hora para establecer un diálogo. No le eche usted la culpa, es porque es la hora. Una hora exactamente para intentar establecer, primero, un diálogo entre los ponentes de la mesa. También van a intervenir, según entiendo, los discutidores que están en la segunda o la primera fila. Es muy posible que haya algún espontáneo también que vaya a querer saltarse al ruedo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Phillips, Allen W., 1922-2011 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Cardona, Rodolfo, 1924-"
+        }
+      ],
+      "uuid": "4801f288-050e-4745-8b56-95089d702293"
+    },
+    {
+      "start_time": 508,
+      "end_time": 557,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ahora, regresando al orden alfabético, quiero que se abra debate o diálogo sobre las intervenciones que hemos oído. Seguramente quedan en la mesa o flotando en el aire muchas interrogantes. Pido la intervención primero de los ponentes para ampliar, para completar sus propios puntos de vista o los puntos de vista de los otros panelistas en la metalengua de mi compañero."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Phillips, Allen W., 1922-2011 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "00006849-512a-419a-a061-6c55cd6752ac"
+    },
+    {
+      "start_time": 558,
+      "end_time": 628,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En esta forma, señalando acuerdos y desacuerdos, quizá sea posible establecer un diálogo múltiple sobre algunos de los temas que se han presentado en la mesa y ante el público esta tarde. Mi intervención en esto va a ser mínima. No quiero en ninguna forma invadir el terreno, primero, de los panelistas y de los otros que van a intervenir seguramente en la discusión siguiente. Regreso ahora al orden alfabético. Cedo la palabra, primero, al amigo Jaime Concha. A ver si quiere completar, corregir, matizar algunos de los temas ya explorados por él o por otros miembros de la mesa redonda."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Phillips, Allen W., 1922-2011 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        },
+        {
+          "category": "People",
+          "tag": "Concha, Jaime, 1939-"
+        }
+      ],
+      "uuid": "d705a193-6f41-4ac9-bc77-5331e9a34ee2"
+    },
+    {
+      "start_time": 630,
+      "end_time": 656,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo realmente no tengo nada muy concreto que agregar, pero estoy en una situación un poco incómoda porque indudablemente no comparto en absoluto las ideas que han sido leídas aquí y que proceden de Octavio Paz. Naturalmente, no es correcto ni es justo tratar de plantear puntos de vista diferentes en ausencia de la persona."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Concha, Jaime, 1939- (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Paz, Octavio, 1914-1998"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "ce389aeb-0404-4254-a2aa-a95db063dede"
+    },
+    {
+      "start_time": 657,
+      "end_time": 684,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En todo caso, lo que quiero decir, porque esto creo que no introducirá un ánimo agrio de ningún modo, es que la revista se llame Plural y que exista un espíritu de pluralidad en cuanto a la confrontación de distintos puntos de vista y de distintos métodos, por ejemplo, de distintos enfoques de la literatura, eso es perfecto."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Concha, Jaime, 1939- (man)"
+        },
+        {
+          "category": "Organizations",
+          "tag": "Plural"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "985b38bf-8d7a-4e8d-99ba-081aea6d4e5b"
+    },
+    {
+      "start_time": 685,
+      "end_time": 720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es decir, yo creo que nadie que se dedique a los estudios de las letras o al estudio de la literatura, que sea profesor de literatura, va a querer una unidad monolítica, una especie de unicidad, un exclusivismo y un monopolio ideológico absoluto. Es decir, lo plural lo entiendo yo como una confrontación viva, polémica, como un debate ideológico que no supone brutalidad ni que supone eliminación de las personas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Concha, Jaime, 1939- (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ideology in literature"
+        }
+      ],
+      "uuid": "1bbe21ac-4fea-4f63-ba1c-993e02a1f55c"
+    },
+    {
+      "start_time": 721,
+      "end_time": 751,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Me parece que esas referencias, digamos, a la violencia y a todo eso, me parece que realmente no vienen a cuento. Yo siempre he entendido que la divergencia de enfoques sobre la literatura, aun los más esteticistas y aun los más idealistas, los llamo yo, son enriquecedores en la medida en que siempre entregan una faceta nueva y rica del texto literario y que precisan ciertas cosas frente a las cuales uno se puede definir."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Concha, Jaime, 1939- (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "fa3319d8-5009-4c6b-a8f4-29b6313958e3"
+    },
+    {
+      "start_time": 752,
+      "end_time": 785,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No sé, me parece que el texto de Octavio Paz a propósito, digamos, de una noción, que nadie pone en duda cuál es la tolerancia en las relaciones humanas y en el debate ideológico y universitario, hace referencia a algunas cosas que no vienen a cuento. Ahora, yo quiero mantener una sola idea básica. Sartre ha definido muy bien la crítica así. La función del crítico es criticar. Criticar no significa establecer formas intolerantes de convivencia."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Concha, Jaime, 1939- (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Paz, Octavio, 1914-1998"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sartre, Jean-Paul, 1905-1980"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Literary criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ideology in literature"
+        }
+      ],
+      "uuid": "80446a5b-2ebf-41cc-a9f3-b0953ecdecd4"
+    },
+    {
+      "start_time": 786,
+      "end_time": 801,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Significa en alguna medida, por ejemplo, evitar que los críticos literarios y los escritores también cultiven demasiado sistemáticamente el precepto evangélico de, \"Citaos los unos a los otros\". Nada más."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Concha, Jaime, 1939- (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Literary criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "31ca53df-5bc3-4dbd-923c-112dbaa06ee4"
+    },
+    {
+      "start_time": 802,
+      "end_time": 809,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Si me lo permite el amigo Oviedo, quisiera cederle la palabra a Tomás Segovia-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Participant 1 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Oviedo, José Miguel, 1934-2019"
+        },
+        {
+          "category": "People",
+          "tag": "Segovia, Tomás"
+        }
+      ],
+      "uuid": "cf9094e9-eb39-4f04-a3b3-f6e7d2751c09"
+    },
+    {
+      "start_time": 810,
+      "end_time": 811,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Encantado."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Oviedo, José Miguel, 1934-2019 (man)"
+        }
+      ],
+      "uuid": "dd504a3f-224c-40c1-bb87-18082f830e80"
+    },
+    {
+      "start_time": 812,
+      "end_time": 815,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " -que seguramente tendrá algo que decir sobre las páginas que nos ha mandado Octavio Paz."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Participant 1 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Paz, Octavio, 1914-1998"
+        }
+      ],
+      "uuid": "59e2b1fe-6570-4753-b6b8-9b4fb666b555"
+    },
+    {
+      "start_time": 816,
+      "end_time": 818,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Puede ser. No sé."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Segovia, Tomás (man)"
+        }
+      ],
+      "uuid": "8dec5218-de60-4765-970d-000863a43a15"
+    },
+    {
+      "start_time": 819,
+      "end_time": 821,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[risas]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "00898f94-0b73-4fb0-8a28-85d9b728fc63"
+    },
+    {
+      "start_time": 763,
+      "end_time": 768,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No me quiero poner [inaudible 00:13:44]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Participant 1 (man)"
+        }
+      ],
+      "uuid": "bc3c6b56-bade-44bd-b717-4c67899510b4"
+    },
+    {
+      "start_time": 829,
+      "end_time": 874,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sí. Claro que lo que acaba de decir Concha me ha sacado un poco de lo que yo estaba pensando sobre las páginas de Octavio Paz, pero en fin, no sé si lograré unir las dos cosas. Sobre las páginas de Octavio Paz, a mí me pareció interesante que viera un panorama histórico vasto para tratar de dar una explicación de la situación actual de la crítica en Latinoamérica. Hay algunas cosas que quizá yo matizaría un poco. No en el mismo sentido que Concha, pero sí en otro sentido."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Segovia, Tomás (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Concha, Jaime, 1939-"
+        },
+        {
+          "category": "People",
+          "tag": "Paz, Octavio, 1914-1998"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Literary criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "0dcd786d-79cd-49b2-9df8-27273f71b79f"
+    },
+    {
+      "start_time": 875,
+      "end_time": 907,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Con respecto a las relaciones entre la crítica y la literatura, que era en lo que yo estaba pensando al principio de esto, se ha hablado, por ejemplo, de que actualmente la crítica literaria está en manos de las universidades. A mí esto me parece un poco dudoso. Es decir, también yo soy universitario, en cierto modo, y también me doy cuenta de que ha habido un cambio en la crítica universitaria importante."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Segovia, Tomás (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Literary criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "f0501b5a-4f1f-497f-97d1-2854f43ac36d"
+    },
+    {
+      "start_time": 908,
+      "end_time": 956,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A pesar de eso me sigue pareciendo, por ejemplo, que el hecho mismo de que este simposio se organice alrededor de Plural y no alrededor de un centro universitario significa que de todos modos, todavía hoy hay una orientación de la crítica que sigue viniendo de esto que, según el texto de Octavio Paz, llamaríamos literatura crítica, más que crítica literaria. A su vez, esto me parece que no está desligado de algunos datos. Es decir, si esto se produce probablemente es por el constante bache que hay en Latinoamérica."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Segovia, Tomás (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Paz, Octavio, 1914-1998"
+        },
+        {
+          "category": "Organizations",
+          "tag": "Plural"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Literary criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "9d9c93d3-f7a4-4b3a-b992-40b2989b36d2"
+    },
+    {
+      "start_time": 957,
+      "end_time": 990,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tal vez no puedo generalizar. Estoy pensando sobre todo en México, pero me imagino que muchos de los rasgos de México, aunque el único otro país de Latinoamérica donde he vivido es Uruguay, que es como el otro polo, supongo. El Uruguay además de 1964, debo aclarar. Era el otro polo. Esto tal vez me permite tener los dos extremos del espectro. Tal vez esto haga que se pueda generalizar algunas cosas de México."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Segovia, Tomás (man)"
+        },
+        {
+          "category": "Places",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Places",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Literary criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "5c3488af-90c5-40cd-b94d-511ca9c8c3ae"
+    },
+    {
+      "start_time": 991,
+      "end_time": 1025,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por lo menos en México es muy evidente que lo que falta siempre son los intermedios, las partes. Del mismo modo que falta una clase media, falta lo medio en todo. Faltan los intermediarios, faltan los medios y muchas cosas. Medios en todos los sentidos. Medios de comunicación, medios de expresión. Medios. Media falta también. Esta situación, que es evidentemente social, se refleja en estos fenómenos que son sociales."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Segovia, Tomás (man)"
+        },
+        {
+          "category": "Places",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "58087daa-5566-4904-833c-798f939044de"
+    },
+    {
+      "start_time": 1026,
+      "end_time": 1058,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Entre otras cosas, se refleja en que hay un bache quizá exagerado entre los medios académicos y otros medios. Sé que esto sucede en muchos otros países. No solo sucede en países, digamos, subdesarrollados. En Francia, por ejemplo, ha habido toda una crisis hace, no sé, 10-15 años sobre las relaciones entre la crítica universitaria y la otra crítica, la crítica extrauniversitaria. En fin, esa crisis misma indica que algo ha pasado."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Segovia, Tomás (man)"
+        },
+        {
+          "category": "Places",
+          "tag": "France"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "fdd8bbbe-6445-43cd-a14b-cdbe903031e5"
+    },
+    {
+      "start_time": 1059,
+      "end_time": 1087,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo creo que entre nosotros no ha pasado nada así, muy visible. Poco a poco ha habido algunos cambios. Ha habido un acercamiento posible. Por ejemplo, Octavio Paz jamás admitiría estar en el Colegio de México, pero yo lo admito. Estoy en el Colegio de México. Quizá porque soy un poco más joven que Octavio Paz, ya es casi otra generación. Hay un cambio de perspectiva. Hay unos puentes establecidos, pero estos puentes son todavía muy precarios."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Segovia, Tomás (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Paz, Octavio, 1914-1998"
+        },
+        {
+          "category": "Organizations",
+          "tag": "El Colegio de Mexico"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "a71db197-21f7-47e0-8bf0-4df718bae3b6"
+    },
+    {
+      "start_time": 1088,
+      "end_time": 1108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A mí me parece que la influencia de la crítica universitaria en la verdadera vida literaria de los países latinoamericanos, a juzgar por lo que he visto en México y un poco en Uruguay, me parece que es todavía distante, que no hay muchas conexiones. Lo que se está haciendo en las universidades trasciende muy poco."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Segovia, Tomás (man)"
+        },
+        {
+          "category": "Places",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Places",
+          "tag": "Uruguay"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Literary criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "8e841fcd-92cf-461e-8697-e4f5d767f2ab"
+    },
+    {
+      "start_time": 1109,
+      "end_time": 1129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Los críticos literarios de periódicos, de revistas semanales y de cosas de este tipo, en todo caso, si se van a inspirar en cuestiones universitarias, va a ser más bien de las grandes metrópolis, pero de lo que está pasando en las universidades latinoamericanas casi no se enteran. Luego continuaremos discutiendo, porque veo que se me ha acabado el tiempo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Segovia, Tomás (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Literary criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "8bb353a8-f6da-421f-be54-ef04e1e9d21d"
+    },
+    {
+      "start_time": 1130,
+      "end_time": 1131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[risas]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b827d3f9-98e4-48f5-add1-f280db3997d9"
+    },
+    {
+      "start_time": 1132,
+      "end_time": 1135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Me ha hecho una señal amistosa. Amigo Oviedo, si quiere-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Phillips, Allen W., 1922-2011 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Oviedo, José Miguel, 1934-2019"
+        }
+      ],
+      "uuid": "c1b250d6-1168-4988-bf77-d8e8bffaa6a9"
+    },
+    {
+      "start_time": 1136,
+      "end_time": 1173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es curioso que el debate se haya planteado ahora un poco más candente sobre la ponencia de una persona que no está aquí, una ponencia invisible. Aunque el amigo Concha afirmó que no iba a opinar del asunto, no pudo resistir la tentación y acabó por hablar del tema y hablar del tema críticamente. Se refirió a ciertas expresiones de Paz, el toro de la violencia y otras cosas. Afirmó que las cosas no eran así."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Oviedo, José Miguel, 1934-2019 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Concha, Jaime, 1939-"
+        },
+        {
+          "category": "People",
+          "tag": "Paz, Octavio, 1914-1998"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "d00249b5-9c08-4df5-b2a7-d797a29303d8"
+    },
+    {
+      "start_time": 1174,
+      "end_time": 1204,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo creo que la frase de Paz ha sido tomada fuera de su contexto. Paz se expresaba ahí mediante una metáfora. Todos usamos metáforas y hay que entenderlas en ese sentido relativo. Aparentemente, la posición de Concha trata de llamar la atención sobre la parte ideológica que la literatura lleva dentro de sí. Yo pienso que es, sin duda, una consideración que se debe tener en cuenta."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Oviedo, José Miguel, 1934-2019 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Concha, Jaime, 1939-"
+        },
+        {
+          "category": "People",
+          "tag": "Paz, Octavio, 1914-1998"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ideology in literature"
+        }
+      ],
+      "uuid": "a1553e4c-9819-483b-9429-9d6af21675f8"
+    },
+    {
+      "start_time": 1205,
+      "end_time": 1234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La literatura es también una ideología, pero pienso que los métodos de hacerlo quizá no sean los que siempre usamos. Por ejemplo, me dejó muy desconcertado, y se lo digo con franqueza, que él citase el hecho de que Sarmiento haya sido presidente de Argentina como una forma de recursar su obra crítica. Posiblemente, su obra literaria o crítica es recusable, tiene graves efectos y hoy a más de un siglo de distancia podemos verlo con más claridad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Oviedo, José Miguel, 1934-2019 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Sarmiento, Domingo Faustino, 1811-1888"
+        },
+        {
+          "category": "Places",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ideology in literature"
+        }
+      ],
+      "uuid": "cbc14e1b-0737-4bc6-bdf6-a3537b8c9907"
+    },
+    {
+      "start_time": 1235,
+      "end_time": 1269,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ese argumento me parecía invalido. Eso justamente trae la actualidad o confirma la actualidad del pensamiento de Paz esbozado en ese texto. Confirma que está hablando de algo que es perfectamente actual. Es decir, la tendencia a radicalizarnos, a plantear las cosas desde trincheras irreconciliables y a no ver nunca el punto de vista del contrario. Pienso que en ese sentido Paz estaba hablando de algo que nos interesa a todos y nos compromete a todos. Nada más."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Oviedo, José Miguel, 1934-2019 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Paz, Octavio, 1914-1998"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "faff419e-f927-4574-bec6-d55e5c273db4"
+    },
+    {
+      "start_time": 1274,
+      "end_time": 1619,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Se me antoja hablar en portugués, porque el tema se está volviendo más interesante. ¿Todos aquí entienden portugués? Sí. Estupendo. [idioma portugués]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sant'Anna, Affonso Romano de (man)"
+        }
+      ],
+      "uuid": "0779d46d-4a73-4089-8efe-9d6bf292aa72"
+    },
+    {
+      "start_time": 1620,
+      "end_time": 1628,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[aplausos]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d8da7ecb-dba8-4ecb-acd7-4de1e403b864"
+    },
+    {
+      "start_time": 1629,
+      "end_time": 1631,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tomás Segovia pide ahora la palabra."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Oviedo, José Miguel, 1934-2019 (man)"
+        }
+      ],
+      "uuid": "bf5df7f4-3e6a-4107-84ee-542dddd68dc6"
+    },
+    {
+      "start_time": 1632,
+      "end_time": 1661,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sí, yo estoy bastante de acuerdo con lo que dice Sant'Anna. Sin embargo, para seguir sobre el tema de las dos críticas, de la crítica universitaria y la crítica extrauniversitaria, no solo periodística, porque por ejemplo, la crítica de los escritores me parece que no necesariamente es periodística pero es extrauniversitaria. Puede ser crítica de libros, puede ser en forma de libro, en forma de ensayo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Segovia, Tomás (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Sant'Anna, Affonso Romano de"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Literary criticism"
+        }
+      ],
+      "uuid": "c6eb1ce1-3b8b-4b15-b8b8-c9b8370f4678"
+    },
+    {
+      "start_time": 1662,
+      "end_time": 1713,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Precisamente, en el contexto donde habla el amigo Sant'Anna se puede distinguir niveles, estos metaniveles. Precisamente, uno de los maestros de este tipo de crítica, Roland Barthes, llamaría crítica a la extrauniversitaria y a lo otro lo llamaría teoría. Si vamos a establecer niveles y vamos a distinguir entre formas de crítica, parece que más merece el nombre de crítica esta crítica que es en sí misma, según Barthes, ideología. Según Barthes, la crítica es ideología y la teoría tal vez puede liberarse de la ideología."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Segovia, Tomás (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Barthes, Roland"
+        },
+        {
+          "category": "People",
+          "tag": "Sant'Anna, Affonso Romano de"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Literary criticism"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ideology in literature"
+        }
+      ],
+      "uuid": "63550c51-ec4e-4113-8639-3b9aa3d65664"
+    },
+    {
+      "start_time": 1714,
+      "end_time": 1745,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Estos son precisamente los problemas. Yo creo que es lo que está en el fondo del debate y en el fondo de lo que estaba diciendo Octavio Paz en las páginas que nos envió. Me parece que gran parte de la crítica universitaria más bien lo que ha hecho ha sido pasarse a lo que antes era la crítica extrauniversitaria, hacer una crítica ideológica. Quiero decir ideológica no porque critique la ideología, sino porque ella es ideología."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Segovia, Tomás (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Paz, Octavio, 1914-1998"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Literary criticism"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ideology in literature"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "9d247c17-d9f7-4208-98dd-84e6e741d551"
+    },
+    {
+      "start_time": 1746,
+      "end_time": 1770,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La crítica es una forma de ideología, por lo menos en este contexto donde lo estamos viendo ahora. Mientras que habría una teoría. Hace no sé cuántos años más bien la teoría era función universitaria. La crítica en este sentido de Barthes, la crítica como una forma de ideología, era función de la crítica extrauniversitaria, incluyendo la crítica de los propios escritores."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Segovia, Tomás (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Barthes, Roland"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Literary criticism"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ideology in literature"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "23b48242-b3f9-4aa7-b386-04be162ae7c8"
+    },
+    {
+      "start_time": 1771,
+      "end_time": 1779,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por otra parte, no cabe duda que la crítica universitaria latinoamericana ha empezado, ha entrado ahora también en la teoría."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Segovia, Tomás (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Literary criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "e97cc6e8-155f-44b1-a541-365ecd0fb43f"
+    },
+    {
+      "start_time": 1780,
+      "end_time": 1820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ha empezado a crear instrumentos, una especie de meta-metalenguaje, pero lo que a mí me parece importante señalar aquí es que- subrayar, más bien, porque creo que ya lo estaba diciendo Sant'Anna, es que precisamente la teoría de las ideologías a su vez, que es lo que está detrás de todos estos debates, a mí me parece que hoy en día es la parte más espinosa, difícil, abstrusa y nebulosa del pensamiento crítico. De esto que Octavio Paz a llamado pensamiento crítico para distinguirlo de la crítica misma."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Segovia, Tomás (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Sant'Anna, Affonso Romano de"
+        },
+        {
+          "category": "People",
+          "tag": "Paz, Octavio, 1914-1998"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Literary criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "de42d3b2-cb18-4658-9f2f-e1e5074c01f2"
+    },
+    {
+      "start_time": 1821,
+      "end_time": 1845,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En el pensamiento crítico actual me parece que una de las tendencias es la teoría de las ideologías. La teoría de las ideologías me parece muy espinosa, que apenas sabemos nada de eso todavía. Estamos empezando a pensarlo. Me parece que es muy difícil porque se muerde un poco la cola. Es decir, la teoría de las ideologías es una ideología también, según ella misma."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Segovia, Tomás (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Literary criticism"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ideology in literature"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "53b3a38b-41d0-468f-93ff-f83263d3b1f0"
+    },
+    {
+      "start_time": 1846,
+      "end_time": 1856,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es muy difícil establecer una teoría de las ideologías que pueda hacer el psicoanálisis ideológico de todas las ideologías menos de ella misma, que es también una ideología."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Segovia, Tomás (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Literary criticism"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ideology in literature"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "70d1cb50-2923-4fd0-970a-ebd9b4b38e79"
+    }
+  ],
   "event_id": "1a4673f1-112a-45fe-8daa-f75a7a04d7e7",
   "set": "Spanish Annotation",
   "source_id": "9bf5a50b-ca8d-47a3-950b-831ce08d5933"
