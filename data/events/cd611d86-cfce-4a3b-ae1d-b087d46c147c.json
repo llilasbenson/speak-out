@@ -7,7 +7,10 @@
       "file_url": "https://utexas.box.com/shared/static/mrjdrot70yecewatnxwb0zhwrz96p9bl.mp3",
       "duration": 1850,
       "caption_set": [],
-      "set_sort": []
+      "set_sort": [
+        "a6cb37a9-b9e7-4ce9-bac0-ef7981816557",
+        "758d32cd-7fd9-4607-ab9a-234a940ee8d8"
+      ]
     }
   },
   "auto_generate_web_page": true,
@@ -25,6 +28,9 @@
   "label": "The Function of Latin American Literature as Criticism- Part 1",
   "created_at": "2025-07-30T17:58:25.291Z",
   "created_by": "artyella",
-  "updated_at": "2025-07-30T17:58:25.291Z",
-  "updated_by": "artyella"
+  "updated_at": "2025-07-30T18:00:47.202Z",
+  "updated_by": "artyella",
+  "av_file_order": [
+    "ff755a13-e3ba-433d-9f07-2e0f50cd9deb"
+  ]
 }
