@@ -13,8 +13,7 @@
       "uuid": "2bbd0150-6d36-4176-b2b8-29e9db18e6b8",
       "includes": [
         "media",
-        "annotations",
-        "description"
+        "annotations"
       ],
       "children": [
         {
@@ -35,7 +34,7 @@
   "created_by": "rpr88",
   "title": "Art and literature joint review session: Literature topics- Part 1",
   "slug": "art-and-literature-joint-review-session-lite",
-  "updated_at": "2025-07-31T03:49:47.387Z",
+  "updated_at": "2025-07-31T03:51:37.651Z",
   "updated_by": "rpr88",
   "autogenerate": {
     "enabled": false,
