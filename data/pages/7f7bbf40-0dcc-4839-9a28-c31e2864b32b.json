@@ -186,7 +186,8 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "Part 3"
+                      "text": "Part 3",
+                      "link": "https://llilasbenson.github.io/speak-out/pages/literary-criticism-its-present-status-in-la--3/"
                     }
                   ]
                 }
@@ -286,6 +287,44 @@
                   "textSize": "heading-four"
                 }
               ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Part 1",
+                      "link": "https://llilasbenson.github.io/speak-out/pages/the-function-of-latin-american-literature-as/"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Part 2"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Part 3"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Part 4"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
@@ -354,6 +393,27 @@
                   "textSize": "heading-four"
                 }
               ]
+            },
+            {
+              "type": "bulleted-list",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Part 1"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "text": "Part 2"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
@@ -376,7 +436,7 @@
   "slug": "key-programs-in-the-collection",
   "created_at": "2025-07-25T16:45:44.490Z",
   "created_by": "rpr88",
-  "updated_at": "2025-07-29T22:14:19.406Z",
+  "updated_at": "2025-07-31T19:35:38.851Z",
   "updated_by": "artyella",
   "parent": "30cee196-f789-4dda-8803-cbacf1eb1f5f"
 }
