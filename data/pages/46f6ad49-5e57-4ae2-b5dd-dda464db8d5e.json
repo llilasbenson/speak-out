@@ -29,7 +29,7 @@
           "children": [
             {
               "type": "image",
-              "url": "https://utexas.box.com/shared/static/mhrmu6uc96f7qvk4raw3tdw53v6z8mwd.png",
+              "url": "https://utexas.box.com/shared/static/z4munivltdn2vl1eevarpbgxoam5uh8o.png",
               "children": [
                 {
                   "text": ""
@@ -87,7 +87,15 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Financing and technical support for the project was provided by the AVAnnotate Mellon Foundation funded project.\n"
+                  "text": "Financing and technical support for the project was provided by the AVAnnotate Mellon Foundation funded project."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 }
               ]
             },
@@ -129,7 +137,7 @@
   "slug": "about",
   "created_at": "2025-07-25T16:43:49.772Z",
   "created_by": "rpr88",
-  "updated_at": "2025-08-01T20:52:36.419Z",
+  "updated_at": "2025-08-01T21:46:37.355Z",
   "updated_by": "rpr88",
   "parent": "30cee196-f789-4dda-8803-cbacf1eb1f5f"
 }
