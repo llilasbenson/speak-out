@@ -13,44 +13,102 @@
       "type": "paragraph",
       "children": [
         {
-          "bold": true,
-          "text": "Project Development"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "This project was developed by Rebekah Ramos, Graduate Student Technician, and Ash Catalan, LLILAS Benson intern, at the LLILAS Benson Digital Scholarship Lab during the 2024-2025 academic year. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": ""
         }
       ]
     },
     {
-      "type": "paragraph",
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
       "children": [
         {
-          "text": "Financing and Tech Suppor",
-          "bold": true
+          "type": "column",
+          "children": [
+            {
+              "type": "image",
+              "url": "https://utexas.box.com/shared/static/mhrmu6uc96f7qvk4raw3tdw53v6z8mwd.png",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
         },
         {
-          "text": "t"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Financing and technical support for the project was provided by the AVAnnotate Mellon Foundation funded project."
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Project Development",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "This project was developed by Rebekah Ramos, Graduate Student Technician, and Ash Catalan, LLILAS Benson intern, at the LLILAS Benson Digital Scholarship Lab during the 2025 summer. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Financing and Tech Support",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Financing and technical support for the project was provided by the AVAnnotate Mellon Foundation funded project.\n"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "AI Use",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Annotations were created using ChatGPT-4o, and were closely reviewed for accuracy."
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -59,23 +117,6 @@
       "children": [
         {
           "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "AI Use",
-          "bold": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Segment summaries and annotations were created using ChatGPT-4o, and were closely reviewed for accuracy."
         }
       ]
     }
@@ -88,7 +129,7 @@
   "slug": "about",
   "created_at": "2025-07-25T16:43:49.772Z",
   "created_by": "rpr88",
-  "updated_at": "2025-07-25T16:51:18.794Z",
+  "updated_at": "2025-08-01T20:52:36.419Z",
   "updated_by": "rpr88",
   "parent": "30cee196-f789-4dda-8803-cbacf1eb1f5f"
 }
