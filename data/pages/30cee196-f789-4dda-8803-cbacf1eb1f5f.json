@@ -103,8 +103,16 @@
           "type": "column",
           "children": [
             {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
               "type": "image",
-              "url": "https://utexas.box.com/shared/static/gly7x1y7oo2h9v0kg943rzmddi1pgy8q.jpg",
+              "url": "https://utexas.box.com/shared/static/mhrmu6uc96f7qvk4raw3tdw53v6z8mwd.png",
               "caption": "Speak Out! Charla! Bate-Papo! Symposium program - University of Texas Libraries Collections",
               "children": [
                 {
@@ -136,7 +144,7 @@
   "created_at": "2025-07-21T17:39:57.283Z",
   "created_by": "llilasbenson",
   "title": "Speak Out! Symposium",
-  "updated_at": "2025-08-01T19:54:14.619Z",
+  "updated_at": "2025-08-01T20:06:20.957Z",
   "updated_by": "rpr88",
   "autogenerate": {
     "enabled": false,
