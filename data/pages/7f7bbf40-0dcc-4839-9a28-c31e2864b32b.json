@@ -4,7 +4,24 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "img here?"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://utexas.box.com/shared/static/8led3suhyvx8pjb0on08vqo3d2vtjh1j.png",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -436,7 +453,7 @@
   "slug": "key-programs-in-the-collection",
   "created_at": "2025-07-25T16:45:44.490Z",
   "created_by": "rpr88",
-  "updated_at": "2025-07-31T19:35:38.851Z",
-  "updated_by": "artyella",
+  "updated_at": "2025-08-01T19:52:51.778Z",
+  "updated_by": "rpr88",
   "parent": "30cee196-f789-4dda-8803-cbacf1eb1f5f"
 }
