@@ -16,7 +16,7 @@
           "textSize": "heading-one"
         }
       ],
-      "align": "center"
+      "align": "left"
     },
     {
       "type": "grid",
@@ -67,7 +67,7 @@
               "children": [
                 {
                   "text": "Key Programs ",
-                  "link": "https://llilasbenson.github.io/speak-out/pages/key-programs/"
+                  "link": "https://llilasbenson.github.io/speak-out/pages/key-programs-in-the-collection/"
                 }
               ]
             },
@@ -136,7 +136,7 @@
   "created_at": "2025-07-21T17:39:57.283Z",
   "created_by": "llilasbenson",
   "title": "Speak Out! Symposium",
-  "updated_at": "2025-07-28T22:52:28.008Z",
+  "updated_at": "2025-08-01T19:54:14.619Z",
   "updated_by": "rpr88",
   "autogenerate": {
     "enabled": false,
