@@ -12,7 +12,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Speak-Out! Charla! Bate-Papo! Contemporary Art and Literature in Latin America Symposium Collection",
+          "text": "Speak-Out! Charla! Bate-Papo! Symposium Collection",
           "textSize": "heading-one"
         }
       ],
@@ -112,14 +112,6 @@
           "type": "column",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
               "type": "image",
               "url": "https://utexas.box.com/shared/static/mhrmu6uc96f7qvk4raw3tdw53v6z8mwd.png",
               "caption": "Speak Out! Charla! Bate-Papo! Symposium program - University of Texas Libraries Collections",
@@ -153,7 +145,7 @@
   "created_at": "2025-07-21T17:39:57.283Z",
   "created_by": "llilasbenson",
   "title": "Speak Out! Symposium Collection ",
-  "updated_at": "2025-08-01T20:48:35.962Z",
+  "updated_at": "2025-08-01T21:55:49.716Z",
   "updated_by": "rpr88",
   "autogenerate": {
     "enabled": false,
