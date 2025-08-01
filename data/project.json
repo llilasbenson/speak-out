@@ -1112,10 +1112,6 @@
           "tag": "Arts, Mexican"
         },
         {
-          "category": "Art Topics",
-          "tag": "Contemporary Mexican art"
-        },
-        {
           "category": "People",
           "tag": "Gamboa, Fernando, 1909-1990"
         },
@@ -2278,7 +2274,7 @@
       ]
     },
     "created_at": "2025-07-21T17:39:57.261Z",
-    "updated_at": "2025-08-01T21:50:57.798Z",
+    "updated_at": "2025-08-01T21:51:31.440Z",
     "generate_pages_site": true
   },
   "annotations": {},
