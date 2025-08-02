@@ -777,10 +777,6 @@
         },
         {
           "category": "Art Topics",
-          "tag": "Kinetic art"
-        },
-        {
-          "category": "Art Topics",
           "tag": "Kinetic sculpture"
         },
         {
@@ -2334,7 +2330,7 @@
       ]
     },
     "created_at": "2025-07-21T17:39:57.261Z",
-    "updated_at": "2025-08-02T23:08:00.091Z",
+    "updated_at": "2025-08-02T23:08:15.769Z",
     "generate_pages_site": true
   },
   "annotations": {},
