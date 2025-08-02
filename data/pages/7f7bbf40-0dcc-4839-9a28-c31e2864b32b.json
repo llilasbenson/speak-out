@@ -325,7 +325,8 @@
                   "type": "list-item",
                   "children": [
                     {
-                      "text": "Part 3"
+                      "text": "Part 3",
+                      "link": "https://llilasbenson.github.io/speak-out/pages/the-function-of-latin-american-literature-a--3/"
                     }
                   ]
                 },
@@ -451,7 +452,7 @@
   "slug": "key-programs-in-the-collection",
   "created_at": "2025-07-25T16:45:44.490Z",
   "created_by": "rpr88",
-  "updated_at": "2025-08-01T21:41:31.931Z",
+  "updated_at": "2025-08-02T18:04:12.350Z",
   "updated_by": "rpr88",
   "parent": "30cee196-f789-4dda-8803-cbacf1eb1f5f"
 }
