@@ -540,10 +540,6 @@
           "tag": "France--Paris"
         },
         {
-          "category": "Communities",
-          "tag": "pre-Columbian indigenous"
-        },
-        {
           "category": "Places",
           "tag": "Peru"
         },
@@ -2358,7 +2354,7 @@
       ]
     },
     "created_at": "2025-07-21T17:39:57.261Z",
-    "updated_at": "2025-08-02T18:12:47.154Z",
+    "updated_at": "2025-08-02T18:13:03.100Z",
     "generate_pages_site": true
   },
   "annotations": {},
