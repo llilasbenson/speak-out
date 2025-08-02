@@ -872,10 +872,6 @@
           "tag": "Art, Chilean"
         },
         {
-          "category": "Art Topics",
-          "tag": "Political art"
-        },
-        {
           "category": "People",
           "tag": "Sarmiento, Domingo Faustino, 1811-1888"
         },
@@ -2346,7 +2342,7 @@
       ]
     },
     "created_at": "2025-07-21T17:39:57.261Z",
-    "updated_at": "2025-08-02T18:17:59.378Z",
+    "updated_at": "2025-08-02T18:22:39.740Z",
     "generate_pages_site": true
   },
   "annotations": {},
