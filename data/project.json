@@ -712,10 +712,6 @@
           "tag": "Germany"
         },
         {
-          "category": "Art Topics",
-          "tag": "Kinetic art"
-        },
-        {
           "category": "People",
           "tag": "Le Parc, Julio, 1928-"
         },
@@ -2338,7 +2334,7 @@
       ]
     },
     "created_at": "2025-07-21T17:39:57.261Z",
-    "updated_at": "2025-08-02T23:03:58.144Z",
+    "updated_at": "2025-08-02T23:08:00.091Z",
     "generate_pages_site": true
   },
   "annotations": {},
