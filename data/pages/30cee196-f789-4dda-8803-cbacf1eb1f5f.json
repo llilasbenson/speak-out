@@ -12,11 +12,21 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Speak-Out! Charla! Bate-Papo! Symposium Collection",
+          "text": "Speak-Out! Symposium Collection",
           "textSize": "heading-one"
         }
       ],
       "align": "left"
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": ""
+        }
+      ]
     },
     {
       "type": "grid",
@@ -32,10 +42,28 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\"Speak-Out! Charla! Bate-Papo! Contemporary Art and Literature in Latin America\" was held October 27-29, 1975, at the University of Texas at Austin. It sponsored by The University Art Museum, the Institute of Latin American Studies, and the College of Fine Arts. During this three-day symposium, artists, writers, critics, historians, and a variety of other attendees discussed topics related to contemporary art and literature from Latin America. The \"Speak Out! Symposium Collection\" includes the recordings of the panels conducted during those three days. Panels included in the collection were conducted in English, Spanish, and Portuguese, and covered a variety of subjects related to the art and literature of Latin America and it's international role. "
+                  "text": "\"Speak-Out! Charla! Bate-Papo! Contemporary Art and Literature in Latin America\" Symposium was held October 27-29, 1975, at the University of Texas at Austin. It sponsored by The University Art Museum, the Institute of Latin American Studies, and the College of Fine Arts. During this three-day symposium, artists, writers, critics, historians, and a variety of other attendees discussed topics related to contemporary art and literature from Latin America. "
                 }
               ],
               "align": "justify"
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "The \"Speak Out! Symposium Collection\" includes the recordings of the panels conducted during those three days. The panels were conducted in English, Spanish, and Portuguese, and covered a variety of subjects related to the art and literature of Latin America. Transcriptions of these panels have been provided in both English and Spanish"
+                }
+              ]
             },
             {
               "type": "paragraph",
@@ -138,7 +166,7 @@
   "created_at": "2025-07-21T17:39:57.283Z",
   "created_by": "llilasbenson",
   "title": "Speak Out! Symposium Collection ",
-  "updated_at": "2025-08-01T22:29:42.920Z",
+  "updated_at": "2025-08-02T23:37:04.318Z",
   "updated_by": "rpr88",
   "autogenerate": {
     "enabled": false,
