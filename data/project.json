@@ -612,10 +612,6 @@
           "tag": "Inca art"
         },
         {
-          "category": "Communities",
-          "tag": "Quero (Peru)"
-        },
-        {
           "category": "Places",
           "tag": "Spain"
         },
@@ -2354,7 +2350,7 @@
       ]
     },
     "created_at": "2025-07-21T17:39:57.261Z",
-    "updated_at": "2025-08-02T18:13:03.100Z",
+    "updated_at": "2025-08-02T18:13:07.437Z",
     "generate_pages_site": true
   },
   "annotations": {},
