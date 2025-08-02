@@ -920,10 +920,6 @@
           "tag": "Traba, Marta, 1930-1983"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Morais, Frederico\tBrazil"
-        },
-        {
           "category": "Places",
           "tag": "Brazil--Rio de Janeiro"
         },
@@ -938,6 +934,14 @@
         {
           "category": "Subjects Headings",
           "tag": "Art, Latin American"
+        },
+        {
+          "category": "People",
+          "tag": "Morais, Frederico"
+        },
+        {
+          "category": "Places",
+          "tag": "Brazil"
         }
       ],
       "uuid": "efff7392-5ccc-4f90-b18a-33a255fa85e5"
