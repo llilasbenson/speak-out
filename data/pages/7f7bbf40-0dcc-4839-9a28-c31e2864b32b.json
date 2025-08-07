@@ -442,6 +442,52 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Discussions",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Part 1"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Part 2"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Part 3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "Key Programs in the Collection",
@@ -452,7 +498,7 @@
   "slug": "key-programs-in-the-collection",
   "created_at": "2025-07-25T16:45:44.490Z",
   "created_by": "rpr88",
-  "updated_at": "2025-08-02T18:04:12.350Z",
+  "updated_at": "2025-08-07T19:43:15.777Z",
   "updated_by": "rpr88",
   "parent": "30cee196-f789-4dda-8803-cbacf1eb1f5f"
 }
