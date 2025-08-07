@@ -1,0 +1,30 @@
+{
+  "audiovisual_files": {
+    "ed76f89c-193c-4a7b-b4b8-f29ba01bac5d": {
+      "label": "2018_0852_0023",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://utexas.box.com/shared/static/iih14omvausrqytk7cp16rrfxth44vxa.mp3",
+      "duration": 1804,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Discussions",
+  "created_at": "2025-08-07T18:41:35.256Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-08-07T18:41:35.256Z",
+  "updated_by": "rpr88"
+}
