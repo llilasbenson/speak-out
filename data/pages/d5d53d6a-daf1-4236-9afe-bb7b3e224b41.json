@@ -13,8 +13,7 @@
       "uuid": "fe540b18-3915-43f3-a504-3334f48039e5",
       "includes": [
         "media",
-        "annotations",
-        "description"
+        "annotations"
       ],
       "children": [
         {
@@ -35,7 +34,7 @@
   "created_by": "rpr88",
   "title": "Discussions",
   "slug": "discussions",
-  "updated_at": "2025-08-07T18:43:51.774Z",
+  "updated_at": "2025-08-07T18:57:36.396Z",
   "updated_by": "rpr88",
   "autogenerate": {
     "enabled": false,
