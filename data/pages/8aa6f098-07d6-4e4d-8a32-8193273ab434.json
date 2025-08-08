@@ -13,8 +13,7 @@
       "uuid": "32db527e-40e8-4c11-a702-0b828a554894",
       "includes": [
         "media",
-        "annotations",
-        "description"
+        "annotations"
       ],
       "children": [
         {
@@ -35,7 +34,7 @@
   "created_by": "artyella",
   "title": "The Function of Latin American Literature as Criticism- Part 4",
   "slug": "the-function-of-latin-american-literature-a---4",
-  "updated_at": "2025-08-08T01:44:30.650Z",
+  "updated_at": "2025-08-08T01:44:52.339Z",
   "updated_by": "artyella",
   "autogenerate": {
     "enabled": false,
