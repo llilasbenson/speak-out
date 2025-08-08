@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "32db527e-40e8-4c11-a702-0b828a554894",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-08-08T01:37:46.315Z",
   "created_by": "artyella",
   "title": "The Function of Latin American Literature as Criticism- Part 4",
   "slug": "the-function-of-latin-american-literature-a---4",
-  "updated_at": "2025-08-08T01:37:46.315Z",
+  "updated_at": "2025-08-08T01:44:30.650Z",
   "updated_by": "artyella",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "32db527e-40e8-4c11-a702-0b828a554894"
   }
