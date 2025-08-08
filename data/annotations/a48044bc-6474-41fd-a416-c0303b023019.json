@@ -1,5 +1,2092 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 12,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Está de más volver al problema de si la imagen precede a la idea, el percepto al concepto, o al revés. Los dos procesos son humanos, sociales y artísticos. Se dijo que la crítica de arte en Latinoamérica es mala. Otros postularon que no estaba dirigida al artista, sino al público. Es mala, por cierto, y lo será mientras no exista una teoría de arte y una historia de arte vigorosa que la abastezcan."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Acha, Juan, 1916-1995 (man)"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art and history"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "0f0d0b2e-6754-4149-9079-f49a309ddefa"
+    },
+    {
+      "start_time": 52,
+      "end_time": 98,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Está dirigida al público porque hoy interesa la relación de la obra de arte con el receptor o su sociedad, más que la relación de la obra con el artista. De tal modo, que el crítico toma el arte como fenómeno sociocultural, [inaudible 00:01:12] creando modelos de lectura de las obras de arte, modelos de apreciación de su sabor local, al que se refería Dore Ashton, y su sabor universal. En otras palabras, propone patrones perceptuales o lingüístico-visuales que reemplacen los inculcados por la sociedad, por los sistemas de dominación."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Acha, Juan, 1916-1995 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Ashton, Dore, 1928-2017"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art and society"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "2bdf4593-7b93-4df5-b924-7965792a7182"
+    },
+    {
+      "start_time": 99,
+      "end_time": 141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La crítica, en fin, contribuye a crear el espacio intelectual a que alude Octavio Paz, y que sirve de receptor a la creación artística. Conste que hablo de modelos en plural, no de un modelo excluyente, dictatorial, o de fuerte cohesión sentimental. La creación y la crítica de arte deben desarrollarse en plena libertad sensitiva e intelectual que les permite la introspección en nuestra realidad, tanto interior como exterior, psicológica, social, local y mundial."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Acha, Juan, 1916-1995 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Paz, Octavio, 1914-1998"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art and society"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "af08554b-1673-4253-98fb-0e5ba0768518"
+    },
+    {
+      "start_time": 142,
+      "end_time": 179,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Si es posible, sumergiéndonos en nuestro inconsciente para liberarlo de contradicciones e imperialismos, porque la introspección es la mejor resistencia. Me temo que si la pugna entre el artista y el crítico continúa en Latinoamérica en lugar de entrar en una mutua e íntima colaboración, se seguirá atrasando el desarrollo del arte latinoamericano y seguirán haciendo de las suyas el imperialismo cultural y los dirigismos locales."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Acha, Juan, 1916-1995 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art and society"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "9b3edabc-93ea-4c99-a3ed-36f1a9954236"
+    },
+    {
+      "start_time": 180,
+      "end_time": 181,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gracias."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        }
+      ],
+      "uuid": "795fb256-8c5e-4f74-904f-d202ed842a9b"
+    },
+    {
+      "start_time": 182,
+      "end_time": 186,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[aplausos]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f8375bf8-be5d-4a71-9a92-a94c4f350fa8"
+    },
+    {
+      "start_time": 187,
+      "end_time": 195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿El señor Concha? ¿No está?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Concha, Jaime, 1939-"
+        }
+      ],
+      "uuid": "e4bcd5dc-74c0-40f2-84fe-a53d61583c65"
+    },
+    {
+      "start_time": 197,
+      "end_time": 221,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En teoría, mi intervención tiene más sentido a propósito de problemas literarios. Creo que realmente en este momento ya me sería muy difícil hablar cuando se fracturan hasta tal punto las palabras, que se habla de que la introspección es la mejor resistencia. Cuando se dice que la introspección es la mejor resistencia, yo no sé ya cómo se puede seguir hablando. Simplemente, yo he sentido que está totamente disuelto."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Concha, Jaime, 1939- (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "e9894f01-0586-484d-bd0e-ec72f1927379"
+    },
+    {
+      "start_time": 224,
+      "end_time": 227,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿El señor Bayón?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Bayón, Damián"
+        }
+      ],
+      "uuid": "fb09bde2-9db2-4cf8-9192-3e264c51b46b"
+    },
+    {
+      "start_time": 229,
+      "end_time": 234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, ahora te contesto algo."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "57400c30-64fe-4e8a-bd1b-b3de59d03de4"
+    },
+    {
+      "start_time": 236,
+      "end_time": 237,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Señora Barnitz?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Barnitz, Jacqueline"
+        }
+      ],
+      "uuid": "38a03ea1-1601-4dd8-9f88-45584a0a8314"
+    },
+    {
+      "start_time": 240,
+      "end_time": 275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sí. Quería hablar sobre la crítica de arte, especialmente haciendo algunas comparaciones entre la crítica norteamericana y la sudamericana. Esto es una generalidad, mencionaré un nombre específico, pero primero quería hacer un comentario sobre lo que acaba de decir Góngora. En principio estoy de acuerdo con lo que ha dicho, pero se refiere al aspecto decorativo de algunas obras de arte que adornan empresas, aeropuertos, etcétera. Solo quería comentar que no es el arte, sino el contexto lo que lo convierte en eso."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Barnitz, Jacqueline (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Góngora, Leonel"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        }
+      ],
+      "uuid": "4838d18d-0a7c-4193-ad40-8fd42b0a5625"
+    },
+    {
+      "start_time": 276,
+      "end_time": 332,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lo que quería decir es que, por ejemplo, creo en un tipo de libertad, el mismo tipo de libertad en la crítica de arte que defiendo para el arte en sí mismo. Aprecio mucho lo que considero una cualidad envidiable, el estilo anárquico de la crítica de arte, por ejemplo, que practica Marta Traba, porque en lugar de intentar una metodología muy rígida, que convierte el arte en otra cosa, ella defiende y promueve a ciertos artistas a los que anima a trabajar libremente para que puedan obtener estímulo de este aliento y no tengan que buscarlo exclusivamente en lugares como París y Nueva York, porque lo tienen ahí mismo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Barnitz, Jacqueline (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Traba, Marta, 1930-1983"
+        },
+        {
+          "category": "Places",
+          "tag": "France"
+        },
+        {
+          "category": "Places",
+          "tag": "United States"
+        },
+        {
+          "category": "Places",
+          "tag": "France--Paris"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "United States-- New York"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "6517e382-a6e4-4a83-a229-587a25b5905e"
+    },
+    {
+      "start_time": 333,
+      "end_time": 367,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por ejemplo, me gustaría decir que no se pueden hacer comparaciones porque, por ejemplo, en un lugar como Nueva York, los críticos de arte suelen estar condicionados por los medios de comunicación. Se aburren muy rápidamente de las cosas. Conozco a algunos que no quieren tratar ciertos tipos de arte porque ya lo hicieron la semana pasada. Consideran que ya han dicho todo lo que había que decir al respecto. Creo que todos nos hemos encontrado en esta situación cuando queríamos discutir algo sobre lo que sentíamos que había más que decir, pero otros pensaban que no debíamos hacerlo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Barnitz, Jacqueline (woman)"
+        },
+        {
+          "category": "Places",
+          "tag": "United States"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "United States-- New York"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "e0a93010-1374-4176-b3d2-578bf2fcd247"
+    },
+    {
+      "start_time": 368,
+      "end_time": 403,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Odio la palabra 'metodología', pero parece ser muy importante para algunos críticos de Nueva York, que consideran que la metodología es más importante que lo que escriben. Por ejemplo, el tipo de crítica artística que utilizan está relacionado en cierta medida con la crítica literaria, y ya hemos establecido que se trata de dos cosas diferentes que no pueden tratarse de la misma manera. Por ejemplo, a principios de los años 60, la metodología consistía únicamente en hablar de la parte visible del iceberg."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Barnitz, Jacqueline (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Literary criticism"
+        }
+      ],
+      "uuid": "5dcb194f-a4e2-49ba-97ab-fe78d85cf5b9"
+    },
+    {
+      "start_time": 404,
+      "end_time": 431,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Quizás esto estaba bien para el expresionismo abstracto. Creo que quizá era mejor para el arte pop, pero ahora, por supuesto, desde 1968 y después del golpe de Estado en Chile, de repente se puso de moda ser político en la crítica de arte en Norteamérica. Muchos de los críticos que escriben de esta manera no tienen la más mínima idea de lo que están tratando. Simplemente están tratando con algo que está en el aire y siguen formando parte del establecimiento artístico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Barnitz, Jacqueline (woman)"
+        },
+        {
+          "category": "Places",
+          "tag": "Chile"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Abstract expressionism"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Pop art"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Politicial art"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "efb58044-73fb-4a3b-89c1-c1b0e91b7ba8"
+    },
+    {
+      "start_time": 432,
+      "end_time": 458,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Creo que este establecimiento artístico está dificultando las cosas a ciertos artistas que no trabajan dentro del formato que se espera de ellos en ese momento. Esto también afecta a los artistas latinoamericanos que están en Nueva York y que trabajan en Nueva York. No sé si tengo que ver aquí algo más que quería decir."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Barnitz, Jacqueline (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Places",
+          "tag": "United States"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "United States-- New York"
+        }
+      ],
+      "uuid": "d2050afa-0834-4d29-8447-015b74b58ec7"
+    },
+    {
+      "start_time": 459,
+      "end_time": 498,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "De todos modos, creo que es muy importante que un crítico de arte sea tan libre como el artista, para poder actuar preferiblemente sin o pudiendo resistir, y utilizo también la palabra 'resistencia', la programación constante que llega a través de los medios de comunicación, sin duda en el noreste, y creo que en todo el país. Es algo de lo que muchos artistas, también los norteamericanos, son plenamente conscientes, pero no pueden lidiar muy bien con ello porque ellos también dependen del mecenazgo, la crítica de arte y los medios de comunicación."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Barnitz, Jacqueline (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "237b5bb5-6d29-4043-8f99-46f27b464b71"
+    },
+    {
+      "start_time": 499,
+      "end_time": 547,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Quería añadir una cosa, o dos, 'Por últimos', siempre dicen, para responder al Dr. Greeter. Tiene toda la razón sobre la influencia de México en los años 30, pero creo que eso no significa que siga siendo así, porque la situación se ha invertido. En segundo lugar, por último, lo sé, 30 segundos. Quería decir que, mientras que los artistas han ido a París en busca de inspiración, como es de suponer, han ido a Nueva York en busca de estímulos, y han podido integrarse en París, trabajar y ser reconocidos allí sin el mismo tipo de mecenazgo que ha existido aquí. Gracias."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Barnitz, Jacqueline (woman)"
+        },
+        {
+          "category": "Places",
+          "tag": "France"
+        },
+        {
+          "category": "Places",
+          "tag": "United States"
+        },
+        {
+          "category": "Places",
+          "tag": "France--Paris"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "United States-- New York"
+        },
+        {
+          "category": "Places",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "8b2ae71a-bb3e-4ad4-8f4f-f8d2d418d39e"
+    },
+    {
+      "start_time": 548,
+      "end_time": 549,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gracias."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        }
+      ],
+      "uuid": "e0ef8ec3-06f8-4673-8e41-dda38c9ac8c4"
+    },
+    {
+      "start_time": 550,
+      "end_time": 553,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[aplausos]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5ae20f03-5e63-4de3-889e-64ff456cb3f2"
+    },
+    {
+      "start_time": 554,
+      "end_time": 557,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ahora escucharemos a una artista norteamericana, Alice Baber."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Baber, Alice"
+        }
+      ],
+      "uuid": "b5fba3b7-ce88-4103-b2cc-7117ad9ab273"
+    },
+    {
+      "start_time": 558,
+      "end_time": 566,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[silencio]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c5a8cf22-8c4a-494d-be8b-56bf0bd9f43e"
+    },
+    {
+      "start_time": 567,
+      "end_time": 631,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Quiero hablar sobre la supervivencia de los artistas y el mundo del arte, tanto en América Latina como a nivel internacional. Recientemente asistí a una mesa redonda de directores de museos en San Francisco. Fue una mesa redonda breve, durante cuatro horas no se mencionó al artista en ningún momento, excepto una vez para decir que los artistas que no atraían público tendrían que ser limitados en las próximas temporadas. Por supuesto, tampoco se mencionó a los críticos. Estoy muy agradecido por estos tres días en los que se ha planteado la idea, la idea anticuada, de que las posiciones de los artistas y los críticos pueden influir en el mundo. Ya sean vanguardistas o innovadores. A los artistas en general les gusta el libre flujo de ideas y no se preocupan especialmente por sus sociedades, a las que, obviamente, no les gusta el libre flujo de ideas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Baber, Alice (woman)"
+        },
+        {
+          "category": "Places",
+          "tag": "United States"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "United States--San Francisco"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art criticism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art museums"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art exhibition"
+        }
+      ],
+      "uuid": "f8f5dbe6-6de4-4edd-9487-a61a34b408e4"
+    },
+    {
+      "start_time": 632,
+      "end_time": 677,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ciertos centros están estancados en París, Nueva York, Londres, Roma, Múnich, etcétera. Con los precios de las casas de subastas, la sobreexposición de ciertos nombres, los funcionarios de aduanas, los seguros y los impuestos, se sigue la política del líder. Las situaciones de conflicto de intereses en las altas esferas que nadie quiere discutir. Creo que América Latina tiene varias opciones para entrar en este ámbito, crear centros alternativos pero más vitales, o ayudar a crear movimientos de reforma, en los que, desde un punto de vista muy práctico, los buenos de la obra moralista puedan contener a los malos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Baber, Alice (woman)"
+        },
+        {
+          "category": "Places",
+          "tag": "France"
+        },
+        {
+          "category": "Places",
+          "tag": "United States"
+        },
+        {
+          "category": "Places",
+          "tag": "France--Paris"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "United States-- New York"
+        },
+        {
+          "category": "Places",
+          "tag": "England--London"
+        },
+        {
+          "category": "Places",
+          "tag": "England"
+        },
+        {
+          "category": "Places",
+          "tag": "Italy"
+        },
+        {
+          "category": "Places",
+          "tag": "Italy--Rome"
+        },
+        {
+          "category": "Places",
+          "tag": "Germany"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Germany--Munich"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art exhibition"
+        }
+      ],
+      "uuid": "7496759a-1472-4d88-b120-26c1f1a8e9d9"
+    },
+    {
+      "start_time": 678,
+      "end_time": 692,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por supuesto, todos los participantes en este panel forman parte del bando de los buenos y realmente creo que es posible lograrlo. Me gustaría escuchar algunos debates prácticos, ya sea en este panel o en futuros paneles. Gracias."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Baber, Alice (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "1622ddd9-95d0-4dcb-bbe1-c6419c4ca4c5"
+    },
+    {
+      "start_time": 693,
+      "end_time": 696,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[aplausos]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6cd2c047-a653-4c0e-b62e-3828fa960a62"
+    },
+    {
+      "start_time": 697,
+      "end_time": 698,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Señor Catlin."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        }
+      ],
+      "uuid": "1c9ac849-f498-4d3b-98d2-fc2ebcec92e7"
+    },
+    {
+      "start_time": 699,
+      "end_time": 713,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[silencio]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f4e95adf-27d1-48c1-98d5-3b7d0a4113d3"
+    },
+    {
+      "start_time": 714,
+      "end_time": 784,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Quiero decir unas palabras sobre la importancia de la historia del arte para el futuro del arte latinoamericano. Si observamos la escena latinoamericana de manera colectiva y a lo largo del tiempo, hemos visto la experiencia de explorar las diversas vías posibles, tanto para el arte latinoamericano nacional como internacional. En realidad, se trata de una tradición de tres cuartos de siglo de exploraciones, de uso y de asimilación. A veces a la vanguardia del descubrimiento en las áreas formales del arte en la sociedad occidental y también de la innovación, una innovación única en las áreas sociales y étnicas del arte."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Catlin, Stanton L. (Stanton Loomis) (man)"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art and history"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "4ca95594-730e-403c-86d9-d6fb2df0acb2"
+    },
+    {
+      "start_time": 786,
+      "end_time": 844,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esta es una historia de exploración creativa, que forma parte de la experiencia latinoamericana, de la experiencia general, tanto como sus luchas sociales. Ha dejado su huella en la personalidad latinoamericana y en sus múltiples aspectos, variedades y sectores. Me parece importante conocer esto para poder comprender dónde se encuentra el arte latinoamericano en este momento, o si avanzará en el futuro, y conocer esta experiencia para tener un punto de vista crítico eficaz. El registro es realmente fenomenal cuando lo revisas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Catlin, Stanton L. (Stanton Loomis) (man)"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art and history"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "2642d8fa-ee57-429f-8d18-807829f57201"
+    },
+    {
+      "start_time": 845,
+      "end_time": 897,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Desde la época del Sindicato en México, pasando por los acontecimientos de la primera mitad del siglo, hasta la Bienal de São Paulo, en todos los países. Este registro, al igual que el del siglo XIX, corre el riesgo de perderse si no se realiza un catálogo sistemático de lo que ha sucedido. Hace un año y medio estuve en Venezuela y conté 80 artistas que me parecieron importantes conocer para tener una idea objetiva de lo que sucedió en el arte venezolano desde el período de la independencia."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Catlin, Stanton L. (Stanton Loomis) (man)"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art and history"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Places",
+          "tag": "Mexico"
+        },
+        {
+          "category": "Places",
+          "tag": "Brazil"
+        },
+        {
+          "category": "Places",
+          "tag": "Brazil--São Paulo"
+        },
+        {
+          "category": "Places",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art, Venezuelan"
+        }
+      ],
+      "uuid": "3037a13b-88a9-4154-bd7f-dc7dbc9c4058"
+    },
+    {
+      "start_time": 898,
+      "end_time": 930,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando multiplicas esos 80 artistas por, digamos, 20 cuadros que pueden haber sobrevivido o 20 esculturas, e intentas incluirlos en un estudio objetivo, te quedas completamente perdido, porque no eres capaz de obtener una visión objetiva de lo que estas personas han hecho en su época y evaluar cuál puede haber sido su contribución a su tiempo. ¿Puedo decir esto?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Catlin, Stanton L. (Stanton Loomis) (man)"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art and history"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "b37f85b0-8e5c-48f1-9d4e-3126f03dbfa3"
+    },
+    {
+      "start_time": 931,
+      "end_time": 932,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Un minuto."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        }
+      ],
+      "uuid": "5c9cc61b-c6b6-4eb3-8d6d-e47abf48652c"
+    },
+    {
+      "start_time": 933,
+      "end_time": 962,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Creo que es demasiado pronto para afirmar que en América Latina, a diferencia de lo que ocurre en muchas otras regiones, podemos disponer de una revisión o estudio sistemático de la historia del arte que abarque todo lo que ha sucedido. En Estados Unidos también tenemos este problema, pero creo que lo realmente importante en este momento es comenzar a catalogar las obras de arte que han sobrevivido y que representan un patrimonio inestimable para la mentalidad latinoamericana moderna y el futuro de su arte."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Catlin, Stanton L. (Stanton Loomis) (man)"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art and history"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "340269fc-4b17-417d-8472-ffc2fed6a75a"
+    },
+    {
+      "start_time": 9603,
+      "end_time": 967,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[aplausos]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4ae2eeaf-c219-45d8-b57e-21379080a848"
+    },
+    {
+      "start_time": 968,
+      "end_time": 973,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Sacae? ¿No? ¿Cuevas?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Cuevas, José Luis, 1934-2017"
+        }
+      ],
+      "uuid": "7fb14ab1-ab82-4d87-9509-4d437e8c173b"
+    },
+    {
+      "start_time": 974,
+      "end_time": 975,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Cuevas, José Luis, 1934-2017 (man)"
+        }
+      ],
+      "uuid": "3cb100e6-a103-4e9b-a477-5849c827dc64"
+    },
+    {
+      "start_time": 976,
+      "end_time": 1006,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Voy a leer una pregunta, que creo que es de un estudiante y que, en mi opinión, es una pregunta que también se han planteado otros estudiantes. Está dirigida a todos los ponentes y espero que algunos de ustedes intenten responderla. \"Aunque parece haber consenso entre los ponentes en que el arte latinoamericano actual existe como expresión distintiva, nadie ha definido satisfactoriamente qué elementos conforman esta expresión.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "dd957d06-77c0-43df-950f-8edfe1283810"
+    },
+    {
+      "start_time": 1007,
+      "end_time": 1029,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Qué es exactamente lo que distingue al arte contemporáneo creado por artistas latinoamericanos? ¿Es una cuestión de contenido, estilo o técnica? ¿Qué tienen en común las obras que aparecen en la exposición Plural, por ejemplo? ¿Hay alguien que se plantee esa pregunta?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Contemporary art"
+        },
+        {
+          "category": "Organizations",
+          "tag": "Plural"
+        }
+      ],
+      "uuid": "323b7466-1f0b-468c-9e95-96608dfe7725"
+    },
+    {
+      "start_time": 1030,
+      "end_time": 1033,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[aplausos]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c7642103-1f3e-4ae5-a59d-8b26e7027281"
+    },
+    {
+      "start_time": 1034,
+      "end_time": 1035,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Señor Manrique."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        }
+      ],
+      "uuid": "a74ce751-00c2-452d-b0f6-76c4752d4a6a"
+    },
+    {
+      "start_time": 1040,
+      "end_time": 1081,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Claro está que la respuesta no es nada fácil. Si partimos de un hecho como la exposición actual, que de todos modos es una muestra bien elegida, creo yo, de algunos artistas representativos de su circunstancia diversa. Para mí la respuesta no está en las formas específicas de las obras de arte sino en el sentido que esas formas tienen, dada una circunstancia. Esto en referencia a lo que dije ayer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art exhibition"
+        }
+      ],
+      "uuid": "3175b03a-75bd-4245-9756-d2b76b5342b6"
+    },
+    {
+      "start_time": 1082,
+      "end_time": 1130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es decir, un artista geométrico en Nueva York, neoyorquino o gringo en general, hace una obra. Un artista latinoamericano antes o después, no hablemos ahorita del problema de secuencia, hace otra obra con características formales muy similares. Una obra y otra tienen un sentido diferente, de la misma manera que el Quijote, escrito por Pierre Menard, aunque palabra por palabra fuera igual al escrito por Cervantes de Saavedra, no es el Quijote escrito por Cervantes de Saavedra."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016 (man)"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Geometrism"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art and literature"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        },
+        {
+          "category": "Places",
+          "tag": "United States"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "United States-- New York"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cervantes Saavedra, Miguel de, 1547-1616"
+        }
+      ],
+      "uuid": "d851d5bd-cc73-4b4a-9220-698d04af63c3"
+    },
+    {
+      "start_time": 1131,
+      "end_time": 1167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La presencia de, por decir algo, la escultura azteca en la obra de Henry Moore, es algo que enriquece la obra de Henry Moore. Es un hecho importante que marca el desarrollo de la escultura y del arte europeo en los años 30's. La presencia de elementos prehispánicos en una obra mexicana no tiene ese sentido, si no tiene otro."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Moore, Henry, 1898-1986"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Aztec art"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Sculptors"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art, Mexican"
+        }
+      ],
+      "uuid": "1a9b5edc-299b-4e67-8bef-8d1bdd3d786e"
+    },
+    {
+      "start_time": 1168,
+      "end_time": 1207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es decir, lo que hace común a las obras que estamos contemplando, para mí otra vez, es que en uno u otro sentido son una respuesta del artista que da explicación y lo creo así, de una manera mucho más acezante que lo que puede suceder en otra circunstancia o en otro ámbito. Da una explicación ya no solo de sí mismo como individuo, sino de sí mismo como grupo y de sí mismo como perteneciente a un mundo marginado de los grandes centros, lo mismo económicos que de producción."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "3e199df7-da96-423e-8b34-0450d59fdc56"
+    },
+    {
+      "start_time": 1208,
+      "end_time": 1233,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esta sería mi única posible respuesta. Yo leo detrás de las formas que vemos esta interpretación o este tipo de interpretaciones posibles. Eso es lo que le da, dentro de la inmensa diversidad, unidad a las obras ahí presentes. Tienen por el solo hecho de partir de quienes parten, una posibilidad de lectura diferente."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "765a19c3-5aae-4c47-bbc2-779ea8dba11e"
+    },
+    {
+      "start_time": 1234,
+      "end_time": 1235,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Señor Concha."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Concha, Jaime, 1939-"
+        }
+      ],
+      "uuid": "1173f50b-6b7f-4374-9c80-c0a4ca7d61f2"
+    },
+    {
+      "start_time": 1248,
+      "end_time": 1284,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Como la pregunta está tan bien hecha, realmente abre el apetito para poder intentar, subrayo, un cierto esbozo de respuesta. Desde luego, muy claramente, creo yo que un arte latinoamericano, y estoy hablando un poco en general, tanto a expresiones plásticas como literatura propiamente tal, no se pueden definir por los contenidos. Ya sabemos, se hablaba aquí de los camellos de Mahoma, sabemos que no es necesario poner tipos concretos americanos para que ese arte sea auténticamente americano."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Concha, Jaime, 1939- (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Muḥammad, Prophet, -632"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art and literature"
+        }
+      ],
+      "uuid": "38e835dd-f51e-4f2f-b500-ee2bef8e8323"
+    },
+    {
+      "start_time": 1285,
+      "end_time": 1327,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Claramente la respuesta frente a los contenidos es, por lo tanto, no. Ahora, tampoco me parece que ese arte pueda ser descrito a través de técnicas. Me parece que la definición, por ejemplo, de un arte contemporáneo, literario o plástico en relación con incorporación de técnicas, también desconoce la organicidad de las culturas y la organicidad de los procesos sociales en que están insertas esas culturas. Esta discusión, por ejemplo, habría asombrado a sociólogos o antropólogos como a Malinowski, que ya en 1944, en varios libros, por ejemplo, se referían a eso."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Concha, Jaime, 1939- (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Malinowski, Bronisław (Historian)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art and literature"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art and history"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Contemporary art"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Combination of art and literature"
+        }
+      ],
+      "uuid": "746e116d-03b3-4499-abff-95f8ee74658e"
+    },
+    {
+      "start_time": 1328,
+      "end_time": 1358,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Toda la historia literaria o la historia del arte que trata de explicar los cambios o las modificaciones de la sensibilidad en América Latina a través de incorporación de técnicas literarias o plásticas, falsea precisamente que la cultura, también la plástica y la literaria, corresponde a procesos orgánicos de desarrollos nacionales y continentales. Ahora, creo yo, va quedando lo de forma, el aspecto forma. Este es un aspecto sumamente complejo que naturalmente no puede ser desarrollado fácilmente."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Concha, Jaime, 1939- (man)"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Art and history"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art and literature"
+        }
+      ],
+      "uuid": "216433f0-5e82-4f35-bd40-b71c546c64bd"
+    },
+    {
+      "start_time": 1359,
+      "end_time": 1391,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Basta asomarse a cualquier exposición para ver que hay una variedad de formas, de tendencia, de orientaciones representativas. Mi respuesta, para ser muy sintético, y ustedes seguramente estarán en desacuerdo, es que un arte latinoamericano solo puede aceptar ese adjetivo, puede tener derecho a ese adjetivo cuando se apropia de un territorio o de un espacio cultural, un espacio que es íntegro."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Concha, Jaime, 1939- (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "07d197f3-c70d-4c0c-be7e-81cbd78771fa"
+    },
+    {
+      "start_time": 1392,
+      "end_time": 1425,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo creo que un artista latinoamericano es artista latinoamericano cuando su experiencia como sujeto singular es tan profunda, es tan rica, que no se agota en una problemática circunstanciada y anecdótica, sino que esa profundidad, esa riqueza de experiencia, coincide con una experiencia de grupo, con una experiencia social, con una experiencia histórica, finalmente. No estoy diciendo que, por ejemplo, el artista tenga que referirse específicamente a problemas políticos o a problemas históricos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Concha, Jaime, 1939- (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "a692f9aa-9a19-4adb-bb58-6bf07634f566"
+    },
+    {
+      "start_time": 1426,
+      "end_time": 1441,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hay artistas que han interiorizado tanto, por ejemplo, el mundo en el cual ellos viven que, por ejemplo, definiendo casi abstractamente unos puros ritmos plásticos, como en el artista boliviano, en el joven artista boliviano, Zilveti."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Concha, Jaime, 1939- (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Plastic arts"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Zilveti, Luis, 1941-"
+        }
+      ],
+      "uuid": "50540fcd-8cf4-4a50-bc45-b32ae08fbcb6"
+    },
+    {
+      "start_time": 1442,
+      "end_time": 1473,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nosotros esa vez, a través de esas puras ondulaciones plásticas, nosotros percibimos no solamente un ritmo del paisaje de La Paz, un ritmo del paisaje y del relieve boliviano, sino que a través de esos mismos relieves de trazos quebrados, percibimos también toda una problemática social no presente en concepto, no presente en declaraciones, sino presente a través de colores y de formas que han apresado profundamente esa realidad a través de una experiencia puesta a la altura de los tiempos y de las circunstancias."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Concha, Jaime, 1939- (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "552097fe-de41-4367-acbe-ad7958553a20"
+    },
+    {
+      "start_time": 1474,
+      "end_time": 1483,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Concretamente, mi respuesta sería no contenido, no técnica. Formas, en el sentido de apropiación de un territorio cultural que podemos definir como latinoamericano."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Concha, Jaime, 1939- (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "2b888b69-4dd5-4028-b91b-2b7443aa2896"
+    },
+    {
+      "start_time": 1484,
+      "end_time": 1425,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gracias."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        }
+      ],
+      "uuid": "bb68f11a-fd4f-46d4-845c-daec7d135ba0"
+    },
+    {
+      "start_time": 1486,
+      "end_time": 1491,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[aplausos]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "caf1d1b4-529c-4b13-9e9a-2819ca272615"
+    },
+    {
+      "start_time": 1492,
+      "end_time": 1495,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He olvidado su nombre, Sr. Smith, profesor Smith."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        }
+      ],
+      "uuid": "0632652e-0472-4b40-879f-71ea0397ad63"
+    },
+    {
+      "start_time": 1497,
+      "end_time": 1521,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Quisiera pedir al señor Ronald Christman que elabore lo que dijo esta mañana cuando describió el estructuralismo como some of the most interesting fiction to be read today. Quisiera sugerir quizás también que reaccione después el profesor Romano de Sant'Anna a la reacción, sino cristiano, por lo menos, de Christ."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Speaker 1 (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Christ, Ronald 1936-"
+        },
+        {
+          "category": "People",
+          "tag": "Sant'Anna, Affonso Romano de"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "0db6f6c1-004d-4e9d-a177-6d05663fbf61"
+    },
+    {
+      "start_time": 1526,
+      "end_time": 1531,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Había otra mano levantada? Ronald."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Christ, Ronald 1936-"
+        }
+      ],
+      "uuid": "6c8418c9-3311-441f-b11e-8d599748548d"
+    },
+    {
+      "start_time": 1537,
+      "end_time": 1570,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No creo que este sea el momento ni el lugar para defender mi idea de que el estructuralismo es quizás la ficción más interesante que se escribe hoy en día. Quizás, dije que volvería a insistir en que me refería a ello como un nivel muy alto, no como un cumplido, sino como un nivel muy alto de descripción. Tenía en mente la obra de Lévi-Strauss, por ejemplo, cuando hice esa afirmación. Creo que sería mucho más útil que el Sr. Santana comentara, por cierto, espero que contradiciendo lo que he dicho."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Christ, Ronald 1936- (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Lévi-Strauss, Claude"
+        },
+        {
+          "category": "People",
+          "tag": "Sant'Anna, Affonso Romano de"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "8ce316e9-2abb-4cb4-a097-102d812c655f"
+    },
+    {
+      "start_time": 1573,
+      "end_time": 1574,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sant'anna."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Sant'Anna, Affonso Romano de"
+        }
+      ],
+      "uuid": "03830905-c1f6-4e09-a907-f2f9fcd635a3"
+    },
+    {
+      "start_time": 1579,
+      "end_time": 1635,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El Dr. Ellison ya respondió por la mañana parte de la pregunta que Ronald también había respondido. La frase de Christ me recordó una frase de Borges que dice que la metafísica es una rama de la literatura fantástica. Esta idea de que la metafísica es una rama de la literatura fantástica o de que la teoría también puede ser literatura fantástica refuerza mi idea de que no hay una separación definitiva entre los géneros y ciertos espacios que creamos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sant'Anna, Affonso Romano de (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Ellison, Fred P., 1922-2014"
+        },
+        {
+          "category": "People",
+          "tag": "Christ, Ronald 1936-"
+        },
+        {
+          "category": "People",
+          "tag": "Borges, Jorge Luis, 1899-1986"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "752c78f0-a35b-412a-9874-cffceac72777"
+    },
+    {
+      "start_time": 1036,
+      "end_time": 1673,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es decir, dar un salto, dar un brinco. Del mismo modo que es posible llamar metafísica a la literatura, llamar ciencia al arte, no entiendo la distinción, esa antigua distinción que se hace entre América Latina y el resto del mundo, ya que, para mí, la verdad no tiene centro. La verdad no puede centrarse en América Latina, sino en un juego de espejos que nos trasciende a todos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Sant'Anna, Affonso Romano de (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        }
+      ],
+      "uuid": "73401e83-2cd3-4be0-bc92-a802ebf90d98"
+    },
+    {
+      "start_time": 1674,
+      "end_time": 1679,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[aplausos]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7e695909-4cfa-4042-a63d-7b3df1bd8466"
+    },
+    {
+      "start_time": 1680,
+      "end_time": 1681,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Señor Morais."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        },
+        {
+          "category": "People",
+          "tag": "Morais, Frederico"
+        }
+      ],
+      "uuid": "d55a2713-0636-48e6-a133-ba2a521b95a8"
+    },
+    {
+      "start_time": 1689,
+      "end_time": 1738,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Quería responder a la observación de la estudiante diciendo también que lo específico latinoamericano tampoco debe buscarse en su aspecto referencial. Creo que Felgueiras terminó ayer su exposición diciendo precisamente que nuestra especificidad debe buscarse en el futuro y no en el pasado. Creo que el carácter propio de nuestro arte estaría precisamente en la búsqueda de esta voluntad general de construcción."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Morais, Frederico (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "6be98138-cfe4-4125-a448-237b30df8041"
+    },
+    {
+      "start_time": 1739,
+      "end_time": 1767,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vale decir, esto no está muy claro, pero creo que el artista, con su trabajo, buscando esta organización de nuestra realidad, participa en un proyecto más amplio, más general, en el que evidentemente no está solo. Entonces, tengo la impresión de que hablamos mucho aquí sobre aspectos pasados de nuestro arte latinoamericano, y hablamos muy poco sobre una perspectiva futura de nuestro arte."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Morais, Frederico (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "d79e2bad-7729-4298-a7e3-65f1ecd5978b"
+    },
+    {
+      "start_time": 1768,
+      "end_time": 1797,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Creo que Felgueiras dio una información, hizo una observación muy interesante. Del mismo modo que Anathema también comenzó ayer hablando precisamente de la necesidad de formular un pensamiento visual latinoamericano. Entonces, lo que se debería buscar es precisamente esta voluntad de organización, no en los aspectos puramente referenciales."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Morais, Frederico (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        }
+      ],
+      "uuid": "08f0a147-d352-4da2-ba21-92a0dc9c5cee"
+    },
+    {
+      "start_time": 1798,
+      "end_time": 1802,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "undefined"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2b435193-58bc-4c19-9c95-9e34a4ed14dd"
+    },
+    {
+      "start_time": 1803,
+      "end_time": 1804,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Señor Manrique."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Ashton, Dore, 1928-2017 (woman)"
+        }
+      ],
+      "uuid": "47c94bb5-1d18-42d5-bb26-c830a0141b2f"
+    },
+    {
+      "start_time": 1806,
+      "end_time": 1840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Una mínima y pequeña reflexión surgida de la pregunta del profesor Smith y de las respuestas. Esto me trae a la cabeza algo que comentaba con alguien ayer en la tarde y que no es una preocupación más vieja mía. En realidad no es posible que no solo el estructuralismo sea un bello trazo de literatura fantástica, sino es posible que la América Latina sea una bella invención y quizás no más que eso."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "Manrique, Jorge Alberto, 1936-2016 (man)"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Art and literature"
+        },
+        {
+          "category": "Subjects Headings",
+          "tag": "Latin American literature"
+        },
+        {
+          "category": "Art Topics",
+          "tag": "Combination of art and literature"
+        }
+      ],
+      "uuid": "911eaf3d-28f7-4438-8b9c-8ed96508db9a"
+    },
+    {
+      "start_time": 1841,
+      "end_time": 1859,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[pausa 00:30:41]"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d0a5eef0-4a1e-4e4f-89b9-8e43fb3ab12c"
+    }
+  ],
   "event_id": "874b3a0d-768b-4401-bf08-a2c123f27052",
   "set": "Spanish Annotation",
   "source_id": "1152c75e-53da-4ecc-9b5a-4a0379dae1c0"
