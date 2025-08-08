@@ -13,8 +13,7 @@
       "uuid": "96fa20cc-de31-488c-9dd1-9ad82f3f3a11",
       "includes": [
         "media",
-        "annotations",
-        "description"
+        "annotations"
       ],
       "children": [
         {
@@ -35,7 +34,7 @@
   "created_by": "artyella",
   "title": "Discussions- Part 3",
   "slug": "discussions-part-3",
-  "updated_at": "2025-08-08T02:15:06.169Z",
+  "updated_at": "2025-08-08T02:15:18.459Z",
   "updated_by": "artyella",
   "autogenerate": {
     "enabled": false,
