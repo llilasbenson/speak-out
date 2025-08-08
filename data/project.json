@@ -2500,10 +2500,6 @@
           "tag": "Art and literature"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "United States-- New York"
-        },
-        {
           "category": "People",
           "tag": "Barnitz, Jacqueline"
         },
@@ -2554,7 +2550,7 @@
       ]
     },
     "created_at": "2025-07-21T17:39:57.261Z",
-    "updated_at": "2025-08-08T01:59:28.500Z",
+    "updated_at": "2025-08-08T01:59:49.260Z",
     "generate_pages_site": true
   },
   "annotations": {},
