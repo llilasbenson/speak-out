@@ -115,6 +115,33 @@
                   "text": "Annotations were created using ChatGPT-4o, and were closely reviewed for accuracy."
                 }
               ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n"
+                },
+                {
+                  "text": "Data",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "You can download the project's annotations through the "
+                },
+                {
+                  "text": "Texas Data Repository",
+                  "link": "https://dataverse.tdl.org/dataverse/speakout"
+                },
+                {
+                  "text": "."
+                }
+              ]
             }
           ]
         }
@@ -137,7 +164,7 @@
   "slug": "about",
   "created_at": "2025-07-25T16:43:49.772Z",
   "created_by": "rpr88",
-  "updated_at": "2025-08-01T21:46:37.355Z",
-  "updated_by": "rpr88",
+  "updated_at": "2025-09-04T20:34:26.467Z",
+  "updated_by": "llilasbenson",
   "parent": "30cee196-f789-4dda-8803-cbacf1eb1f5f"
 }
