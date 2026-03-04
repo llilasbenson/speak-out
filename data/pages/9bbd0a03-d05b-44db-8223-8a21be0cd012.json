@@ -126,7 +126,27 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://iiif.lib.utexas.edu/iiif/2/utldams_utblac_92c1a54e-ac42-42bc-b43d-26d8fa66af83.jpg/full/663,/0/default.jpg?download=true",
+      "children": [
+        {
           "text": ""
+        }
+      ],
+      "scale": 36,
+      "align": "center",
+      "caption": "FIGURE 1. Program, Speak-Out! Charla! Bate-Papo! A Symposium of Contemporary Art and Literature of Latin America, 1975. Stanton Loomis Catlin Papers, Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
         }
       ]
     },
@@ -155,6 +175,6 @@
   "slug": "latin-american-art-by-and-for-whom-article",
   "created_at": "2026-03-04T16:51:52.975Z",
   "created_by": "luzgonz-glitch",
-  "updated_at": "2026-03-04T16:51:52.975Z",
+  "updated_at": "2026-03-04T16:55:09.417Z",
   "updated_by": "luzgonz-glitch"
 }
