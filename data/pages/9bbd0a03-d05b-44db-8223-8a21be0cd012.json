@@ -258,14 +258,22 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "(18) Tape 1; 30:35 - 31:08",
-          "bold": true,
-          "textSize": "heading-two"
+          "text": "(18) Tape 1, 30:35–31:08 min"
         }
       ]
     },
     {
-      "type": "paragraph",
+      "uuid": "9105d109-d6df-4e48-894f-8a17a1f7b235",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 1835,
+      "end": 1868,
+      "file": "ea0a7b90-6266-4b2a-a4b5-8460cadbb0f5",
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -276,7 +284,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Most crucially, Good all and Cardona sent a questionnaire to all the invited speakers in advance and their written responses were circulated to the audience (fig. 2). As comparative literature scholar Lori Cole has shown, questionnaires—which can yield instability as much as consensus—were frequently deployed by modernist journals that had circulated between the Americas and Europe since the early twentieth century. They were instruments to assess the currency of ideas and categories, including Latin American art. (19) Goodall and Cardona asked the following: "
+          "text": "Most crucially, Goodall and Cardona sent a questionnaire to all the invited speakers in advance and their written responses were circulated to the audience (fig. 2). As comparative literature scholar Lori Cole has shown, questionnaires—which can yield instability as much as consensus—were frequently deployed by modernist journals that had circulated between the Americas and Europe since the early twentieth century. They were instruments to assess the currency of ideas and categories, including Latin American art. (19) Goodall and Cardona asked the following: "
         }
       ]
     },
@@ -563,8 +571,33 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "(37) Tape 17; 24:00 - 25:15",
-          "textSize": "heading-two"
+          "text": "(37) Tape 17; 24:00 - 25:15"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "d6908b7b-e854-4349-a5a2-9c821126e135",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 1440,
+      "end": 1515,
+      "file": "31b5e7a5-489a-491b-99cd-a533117d6fc8",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -605,13 +638,56 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "(38) Tape 1; 12:30 - 31:08",
-          "textSize": "heading-two"
+          "text": "(38) Tape 1; 12:30 - 31:08 and Tape 2; 0:15 - 6:00"
         }
       ]
     },
     {
       "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "9105d109-d6df-4e48-894f-8a17a1f7b235",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 750,
+      "end": 1868,
+      "file": "ea0a7b90-6266-4b2a-a4b5-8460cadbb0f5",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "de4c94a8-6ba8-4efa-8cf6-61b3799d5e0a",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 15,
+      "end": 360,
+      "file": "fc3fcb15-a040-4d5b-ac96-7591d6160df2",
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -646,8 +722,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "(40) Tape 16, 26:17–29:29 min;",
-          "textSize": "heading-two"
+          "text": "(40) Tape 16, 26:17–29:29 min; Tape 17, 10:49–12:21 min; and Tape 18, 11:50–12:02 min"
         }
       ]
     },
@@ -673,8 +748,7 @@
       "type": "paragraph",
       "children": [
         {
-          "textSize": "heading-two",
-          "text": "Tape 17, 10:49–12:21 min;"
+          "text": ""
         }
       ]
     },
@@ -682,13 +756,56 @@
       "type": "paragraph",
       "children": [
         {
-          "textSize": "heading-two",
-          "text": "Tape 18, 11:50–12:02 min"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "d6908b7b-e854-4349-a5a2-9c821126e135",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 649,
+      "end": 741,
+      "file": "31b5e7a5-489a-491b-99cd-a533117d6fc8",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
     {
       "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "6d05aef4-0d3a-4d30-a18a-890292f60689",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 710,
+      "end": 722,
+      "file": "10711464-b60c-4dfc-9430-06c82f9ab630",
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -715,13 +832,30 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "(41) Tape 22, 13:13–15:16 ",
-          "textSize": "heading-two"
+          "text": "(41) Tape 22, 13:13–15:16 "
         }
       ]
     },
     {
       "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "468443ac-bc89-4b85-afbf-2f1a498acfd7",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 793,
+      "end": 916,
+      "file": "23037cb4-5bc4-4530-80e8-f0ed9ea3bdc1",
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -756,8 +890,33 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "(44) Tape 26, 23:40–24:00 min",
-          "textSize": "heading-two"
+          "text": "(44) Tape 26, 23:40–24:00 min and "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "f293c293-8b24-45d0-bc2d-0609abb69e69",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 1420,
+      "end": 1440,
+      "file": "26930a3d-0f15-4fe8-a344-330addea0e74",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -789,8 +948,33 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "(46) Tape 18, 17:04–17:20 min",
-          "textSize": "heading-two"
+          "text": "(46)Tape 18, 17:04–17:20 min"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "6d05aef4-0d3a-4d30-a18a-890292f60689",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 1024,
+      "end": 1040,
+      "file": "10711464-b60c-4dfc-9430-06c82f9ab630",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -830,13 +1014,30 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "(48) Tape 18, 17:33–23:10 min",
-          "textSize": "heading-two"
+          "text": "(48) Tape 18, 17:33–23:10 min"
         }
       ]
     },
     {
       "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "6d05aef4-0d3a-4d30-a18a-890292f60689",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 1053,
+      "end": 1390,
+      "file": "10711464-b60c-4dfc-9430-06c82f9ab630",
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -1400,7 +1601,7 @@
   "slug": "latin-american-art-by-and-for-whom-article",
   "created_at": "2026-03-04T16:51:52.975Z",
   "created_by": "luzgonz-glitch",
-  "updated_at": "2026-03-06T22:23:34.415Z",
+  "updated_at": "2026-03-06T22:45:39.249Z",
   "updated_by": "luzgonz-glitch",
   "parent": "30cee196-f789-4dda-8803-cbacf1eb1f5f"
 }
