@@ -37,8 +37,8 @@
     "auto_populate_home_page": true,
     "additional_users": [
       {
-        "login_name": "luzgonz-glitch",
-        "avatar_url": "https://avatars.githubusercontent.com/u/232996364?v=4",
+        "login_name": "chloefoor",
+        "avatar_url": "https://avatars.githubusercontent.com/u/59583424?v=4",
         "admin": false
       }
     ],
@@ -2653,7 +2653,7 @@
       ]
     },
     "created_at": "2025-07-21T17:39:57.261Z",
-    "updated_at": "2026-03-06T20:56:21.995Z",
+    "updated_at": "2026-03-06T20:56:40.834Z",
     "generate_pages_site": true
   },
   "annotations": {},
