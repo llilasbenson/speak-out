@@ -646,8 +646,44 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "(40) Tape 16, 26:17–29:29 min; Tape 17, 10:49–12:21 min; Tape 18, 11:50–12:02 min",
+          "text": "(40) Tape 16, 26:17–29:29 min;",
           "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "uuid": "eb4bff37-9767-4661-bf97-5b66804cb34d",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 1577,
+      "end": 1769,
+      "file": "d2c955b2-370d-4e78-8661-2fdf0fcc2d31",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-two",
+          "text": "Tape 17, 10:49–12:21 min;"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-two",
+          "text": "Tape 18, 11:50–12:02 min"
         }
       ]
     },
@@ -1364,7 +1400,7 @@
   "slug": "latin-american-art-by-and-for-whom-article",
   "created_at": "2026-03-04T16:51:52.975Z",
   "created_by": "luzgonz-glitch",
-  "updated_at": "2026-03-06T21:54:54.071Z",
+  "updated_at": "2026-03-06T22:23:34.415Z",
   "updated_by": "luzgonz-glitch",
   "parent": "30cee196-f789-4dda-8803-cbacf1eb1f5f"
 }
