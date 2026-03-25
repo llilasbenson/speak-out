@@ -874,6 +874,14 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "d6908b7b-e854-4349-a5a2-9c821126e135",
       "includes": [
         "media",
@@ -899,6 +907,14 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "6d05aef4-0d3a-4d30-a18a-890292f60689",
       "includes": [
         "media",
@@ -909,6 +925,14 @@
       "end": 722,
       "file": "10711464-b60c-4dfc-9430-06c82f9ab630",
       "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -985,6 +1009,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Bayón did include what followed: alongside her compliments to Amaral, Cuevas, and others, Traba issued a full-voiced critique of the conference as a whole, including for its exclusions, namely of Gómez Sicre, who was not given a speaking role. Moreover, she drilled down on the ideological gaslighting underway in the event: rather than a frank acknowledgment of the neocolonial conditions of contemporary society—in which Europe and the United States force dependency on Latin America—the symposium organizers chose to “camouflage” this reality. Instead, they proposed the premise that Latin America is a region “economically underdeveloped, but culturally developed (which is the equivalent of saying that we have people blighted by hunger and ignorance while our intellectuals are ‘enlightened’ by French trends and North American pragmatism).”(42)"
         }
       ]
@@ -1009,11 +1041,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "(44) Tape 26, 23:40–24:00 min and",
+          "text": "(44) Tape 26, 23:40–24:00 min",
           "italic": true
-        },
-        {
-          "text": " "
         }
       ]
     },
@@ -1033,9 +1062,17 @@
         "description"
       ],
       "start": 1420,
-      "end": 1440,
+      "end": 1447,
       "file": "26930a3d-0f15-4fe8-a344-330addea0e74",
       "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -1070,7 +1107,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "(46)Tape 18, 17:04–17:20 min"
+          "text": "(46)Tape 18, 17:04–17:20 min",
+          "italic": true
         }
       ]
     },
@@ -1093,6 +1131,14 @@
       "end": 1040,
       "file": "10711464-b60c-4dfc-9430-06c82f9ab630",
       "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -1168,8 +1214,26 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Mestizaje",
+          "text": "",
           "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "text": "Mestizaje"
         },
         {
           "text": ", the seventy-six-year old artist asserted, had proven to be the solution to the problem of postcolonial identity, and only Mexican participants were in the position to question “imported models” from Europe and the United States. Tamayo’s comments were a more brazen articulation of the inherent elitism of"
@@ -1731,7 +1795,7 @@
   "slug": "latin-american-art-by-and-for-whom",
   "created_at": "2026-03-04T16:51:52.975Z",
   "created_by": "luzgonz-glitch",
-  "updated_at": "2026-03-25T17:09:19.303Z",
+  "updated_at": "2026-03-25T17:14:38.576Z",
   "updated_by": "luzgonz-glitch",
   "parent": "30cee196-f789-4dda-8803-cbacf1eb1f5f"
 }
