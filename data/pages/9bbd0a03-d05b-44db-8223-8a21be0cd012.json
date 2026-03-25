@@ -2,7 +2,6 @@
   "content": [
     {
       "type": "paragraph",
-      "align": "left",
       "children": [
         {
           "textSize": "heading-one",
@@ -103,23 +102,15 @@
             },
             {
               "type": "image",
-              "url": "https://github.com/llilasbenson/speak-out/blob/a7fc178f572aff4cb57c5347791d6214551a7891/images/Program-Speak-Out-Charla-Bate-Papo-A-Symposium-of-Contemporary-Art-and-Literature-of.png",
+              "url": "https://raw.githubusercontent.com/llilasbenson/speak-out/d0d3459020195e32697a1a7100e06d3bcdebc5bc/images/Speak%20Out%20Program.jpg",
               "caption": "FIGURE 1. Program, Speak-Out! Charla! Bate-Papo! A Symposium of Contemporary Art and Literature of Latin America, 1975. Stanton Loomis Catlin Papers, Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin",
               "children": [
                 {
                   "text": ""
                 }
               ],
-              "scale": 30,
+              "scale": 40,
               "align": "center"
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
             },
             {
               "type": "paragraph",
@@ -379,13 +370,15 @@
             },
             {
               "type": "image",
-              "url": "https://www.researchgate.net/publication/367722209/figure/fig2/AS:11431281892501877@1769538744945/Flyer-Speak-Out-Charla-Bate-Papo-A-Symposium-of-Contemporary-Art-and-Literature-of.png",
+              "url": " https://raw.githubusercontent.com/llilasbenson/speak-out/d0d3459020195e32697a1a7100e06d3bcdebc5bc/images/Flyer-Speak-Out-Charla-Bate-Papo-A-Symposium-of-Contemporary-Art-and-Literature-of.png",
               "caption": "FIGURE 2. Flyer, Speak-Out! Charla! Bate-Papo! A Symposium of Contemporary Art and Literature of Latin America, 1975. Stanton Loomis Catlin Papers, Benson Latin American Collection, LLILAS Benson Latin American Studies and Collections, The University of Texas at Austin",
               "children": [
                 {
                   "text": ""
                 }
-              ]
+              ],
+              "scale": 45,
+              "align": "center"
             },
             {
               "type": "paragraph",
@@ -587,6 +580,79 @@
       "children": [
         {
           "text": "     More than two years into the COVID-19 pandemic, the recordings of the symposium preserve the still familiar, but now distant sonic experience of an academic conference. The rise and fall of a muddle of voices before and after sessions, the whoosh of papers shuffling, whispers of moderators to speak more slowly or to shift closer to the microphone, the creak of chairs as sessions stretch on, and modulations of applause and laughter—and in one case, hissing—give some indication of what speaker or idea had swayed the audience. The black-and-white photographs of the symposium, some published in the student newspaper and by Amaral and Bayón, show the large, wood-paneled auditorium equipped with an audio system that allowed for simultaneous translation and a seeming endless number of microphones (fig. 3).(35) The speakers, in groups and singularly, appear to be confident—mostly happy, sometimes annoyed—intellectual and artistic pioneers with headphones worn or casually held up over one ear, occasionally with a cigarette in hand. Also vivid in the recordings are the distinct accents and cadences of the participants and the performative, aggrandizing habits of academe, with the most lavish praise reserved for the “maestros” and senior men in attendance as well as patrons of the event."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://raw.githubusercontent.com/llilasbenson/speak-out/d0d3459020195e32697a1a7100e06d3bcdebc5bc/images/Photographs-of-the-Austin-Symposium-October-29-1975-Visible-Juan-Acha-Aracy-Amaral.png",
+              "caption": "FIGURE 3. Photographs of the Austin Symposium, October 29, 1975. Visible: Juan Acha, Aracy Amaral, Damián Bayón, Rita Eder, Leonel Góngora, among others. Archives of the Blanton Museum of Art, The University of Texas at Austin (photographs by Mike Musson)",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "scale": 40,
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -1665,7 +1731,7 @@
   "slug": "latin-american-art-by-and-for-whom",
   "created_at": "2026-03-04T16:51:52.975Z",
   "created_by": "luzgonz-glitch",
-  "updated_at": "2026-03-25T16:50:22.828Z",
+  "updated_at": "2026-03-25T17:09:19.303Z",
   "updated_by": "luzgonz-glitch",
   "parent": "30cee196-f789-4dda-8803-cbacf1eb1f5f"
 }
