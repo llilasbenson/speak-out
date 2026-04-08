@@ -30,7 +30,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "textSize": "small"
         }
       ]
     },
@@ -48,7 +49,8 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "BY GEORGE FLAHERTY & ADELE NELSON"
+                  "text": "BY GEORGE FLAHERTY & ADELE NELSON",
+                  "textSize": "small"
                 }
               ]
             }
@@ -65,14 +67,15 @@
                   "text": "This article is being republished from the original:",
                   "textSize": "small"
                 }
-              ]
+              ],
+              "align": "center"
             },
             {
               "type": "paragraph",
               "children": [
                 {
-                  "textSize": "small",
-                  "text": "Flaherty, George & Nelson, Adele. (2022). Latin American Art by and for Whom?: Questioning and Unresolvability at the Austin Symposium (1975). Latin American and Latinx Visual Culture. 4. 64-75. 10.1525/lavc.2022.4.2.64."
+                  "text": "Flaherty, George & Nelson, Adele. (2022). Latin American Art by and for Whom?: Questioning and Unresolvability at the Austin Symposium (1975). Latin American and Latinx Visual Culture. 4. 64-75. 10.1525/lavc.2022.4.2.64.",
+                  "textSize": "small"
                 }
               ]
             }
@@ -176,25 +179,30 @@
                   "text": "  "
                 },
                 {
-                  "text": "These works were trumpeted by their publishers as highly original and formally inventive yet steeped in traditions of “universal” literature "
+                  "text": "These works were trumpeted by their publishers as highly original and formally inventive yet steeped in traditions of “universal” literature"
                 },
                 {
-                  "code": true,
-                  "text": "<a href=\"#fn1\" id=\"fnref1\" class=\"footnote-ref\">[1]</a>"
+                  "text": " ",
+                  "color": "#0085eb"
+                },
+                {
+                  "text": "[1]",
+                  "highlight": "#ffffff",
+                  "color": "#0087eb"
                 },
                 {
                   "text": ". Visual artists in Latin America appeared to be on the cusp of a similar breakthrough by the 1970s. This development involved not only the artists and artworks, but also critical, discursive, and institutional frameworks and commercial circuits "
                 },
                 {
-                  "code": true,
-                  "text": "<a href=\"#fn2\" id=\"fnref2\" class=\"footnote-ref\">[2]</a>"
+                  "text": "[2]",
+                  "color": "#0087eb"
                 },
                 {
-                  "text": ". The Austin Symposium, as it often referred to today, is remembered as a key moment in the emergence of modern and contemporary Latin American art as a field of scholarly and curatorial inquiry, distinct from the study of colonial and pre-Columbian art, architecture, and visual culture "
+                  "text": ". The Austin Symposium, as it often referred to today, is remembered as a key moment in the emergence of modern and contemporary Latin American art as a field of scholarly and curatorial inquiry, distinct from the study of colonial and pre-Columbian art, architecture, and visual culture"
                 },
                 {
-                  "code": true,
-                  "text": "<a href=\"#fn3\" id=\"fnref3\" class=\"footnote-ref\">[3]</a>"
+                  "text": " [3]",
+                  "color": "#0287eb"
                 },
                 {
                   "text": ". In revisiting the symposium, however, a complicated picture of the field emerges. Some conference participants considered whether a “boom” of Latin American art was actually happening, and whether this was a good thing (and for whom?). Other concerns also came to the foreground: the legacies of colonialism, imperialism, authoritarianism, and globalization (referred to as internationalism), which were rearranging not only social, political, and economic structures but also cultural formations. It is therefore not surprising that in addition to the stated theme of questioning, a parallel throughline emerged at the event: unresolvability. At the Austin Symposium, Latin American art was iterated as a field for continually and anxiously testing hypotheses and strategies for dwelling in this new “art world.”"
@@ -221,8 +229,8 @@
                   "text": "The questioning extended to a fundamental one: what is Latin American art—does such a thing even exist? Have we perhaps granted the formation of the field of modern and contemporary Latin American art too much coherence, presumed it to be more consolidated than it actually was or could become? Do we accept and perhaps even abet the putative hegemony of US academe (and US imperialism) if we understand Latin American art as a more or less settled field with resolved parameters and objects of inquiry? To be sure, it is a story entangled in the history of Cold War–era area studies in the United States and, before that, Pan Americanism articulated from Washington, DC, most prominently by Jose´ Gómez Sicre of the Pan American Union (later renamed the Organization of American States). But to focus exclusively on politics and propaganda would be too reductive. Such a collapse ignores the strategic regionalisms (and essentialisms) mobilized throughout the Americas, and elides the agency of countless thinkers and makers that brought a multitude of interests to the table that undermine a Cold War framing of the field "
                 },
                 {
-                  "code": true,
-                  "text": "<a href=\"#fn4\" id=\"fnref4\" class=\"footnote-ref\">[4]</a>"
+                  "text": "[4]",
+                  "color": "#0087eb"
                 },
                 {
                   "text": "."
@@ -237,7 +245,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "     The ideological and sociopolitical exigencies of the 1970s and their afterlives produced a field with marked blind spots. The emergent network of Latin American art consisted of largely light-skinned mestizo cosmopolitan elites who reproduced their individual and class interests, situating themselves as near-exclusive producers and consumers of high culture. The not accidental result of this process was the centering of whiteness and the marginalization of Black, Indigenous, and Latinx people and their artistic and critical repertoires and archives. As Tatiana Flores recently argued in this journal, “Latin America as a construct is Eurocentric to the degree that its conceptual boundaries perniciously exclude African diaspora spaces.”(5) As a field, we continue to suffer from and reckon with these exclusions and the material injustices of racism, sexism, and classism. "
+          "text": "     The ideological and sociopolitical exigencies of the 1970s and their afterlives produced a field with marked blind spots. The emergent network of Latin American art consisted of largely light-skinned mestizo cosmopolitan elites who reproduced their individual and class interests, situating themselves as near-exclusive producers and consumers of high culture. The not accidental result of this process was the centering of whiteness and the marginalization of Black, Indigenous, and Latinx people and their artistic and critical repertoires and archives. As Tatiana Flores recently argued in this journal, “Latin America as a construct is Eurocentric to the degree that its conceptual boundaries perniciously exclude African diaspora spaces.”"
+        },
+        {
+          "text": "[5]",
+          "color": "#0087eb"
+        },
+        {
+          "text": ". As a field, we continue to suffer from and reckon with these exclusions and the material injustices of racism, sexism, and classism. "
         }
       ]
     },
@@ -2321,7 +2336,7 @@
   "slug": "latin-american-art-by-and-for-whom",
   "created_at": "2026-03-04T16:51:52.975Z",
   "created_by": "luzgonz-glitch",
-  "updated_at": "2026-04-07T22:49:29.591Z",
+  "updated_at": "2026-04-08T14:58:20.388Z",
   "updated_by": "luzgonz-glitch",
   "parent": "30cee196-f789-4dda-8803-cbacf1eb1f5f"
 }
