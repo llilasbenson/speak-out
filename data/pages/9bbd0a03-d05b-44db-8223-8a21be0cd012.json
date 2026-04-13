@@ -176,36 +176,7 @@
               "children": [
                 {
                   "code": true,
-                  "text": "  "
-                },
-                {
-                  "text": "These works were trumpeted by their publishers as highly original and formally inventive yet steeped in traditions of “universal” literature"
-                },
-                {
-                  "text": " ",
-                  "color": "#0085eb"
-                },
-                {
-                  "text": "[1]",
-                  "highlight": "#ffffff",
-                  "color": "#0087eb"
-                },
-                {
-                  "text": ". Visual artists in Latin America appeared to be on the cusp of a similar breakthrough by the 1970s. This development involved not only the artists and artworks, but also critical, discursive, and institutional frameworks and commercial circuits "
-                },
-                {
-                  "text": "[2]",
-                  "color": "#0087eb"
-                },
-                {
-                  "text": ". The Austin Symposium, as it often referred to today, is remembered as a key moment in the emergence of modern and contemporary Latin American art as a field of scholarly and curatorial inquiry, distinct from the study of colonial and pre-Columbian art, architecture, and visual culture"
-                },
-                {
-                  "text": " [3]",
-                  "color": "#0287eb"
-                },
-                {
-                  "text": ". In revisiting the symposium, however, a complicated picture of the field emerges. Some conference participants considered whether a “boom” of Latin American art was actually happening, and whether this was a good thing (and for whom?). Other concerns also came to the foreground: the legacies of colonialism, imperialism, authoritarianism, and globalization (referred to as internationalism), which were rearranging not only social, political, and economic structures but also cultural formations. It is therefore not surprising that in addition to the stated theme of questioning, a parallel throughline emerged at the event: unresolvability. At the Austin Symposium, Latin American art was iterated as a field for continually and anxiously testing hypotheses and strategies for dwelling in this new “art world.”"
+                  "text": ""
                 }
               ]
             },
@@ -226,14 +197,51 @@
                   "text": "  "
                 },
                 {
-                  "text": "The questioning extended to a fundamental one: what is Latin American art—does such a thing even exist? Have we perhaps granted the formation of the field of modern and contemporary Latin American art too much coherence, presumed it to be more consolidated than it actually was or could become? Do we accept and perhaps even abet the putative hegemony of US academe (and US imperialism) if we understand Latin American art as a more or less settled field with resolved parameters and objects of inquiry? To be sure, it is a story entangled in the history of Cold War–era area studies in the United States and, before that, Pan Americanism articulated from Washington, DC, most prominently by Jose´ Gómez Sicre of the Pan American Union (later renamed the Organization of American States). But to focus exclusively on politics and propaganda would be too reductive. Such a collapse ignores the strategic regionalisms (and essentialisms) mobilized throughout the Americas, and elides the agency of countless thinkers and makers that brought a multitude of interests to the table that undermine a Cold War framing of the field "
+                  "text": "These works were trumpeted by their publishers as highly original and formally inventive yet steeped in traditions of “universal” literature. "
                 },
                 {
-                  "text": "[4]",
-                  "color": "#0087eb"
+                  "text": "[1]",
+                  "highlight": "#ffffff",
+                  "color": "#000000"
                 },
                 {
-                  "text": "."
+                  "text": " Visual artists in Latin America appeared to be on the cusp of a similar breakthrough by the 1970s. This development involved not only the artists and artworks, but also critical, discursive, and institutional frameworks and commercial circuits."
+                },
+                {
+                  "text": " [2] ",
+                  "color": "#000000"
+                },
+                {
+                  "text": "The Austin Symposium, as it often referred to today, is remembered as a key moment in the emergence of modern and contemporary Latin American art as a field of scholarly and curatorial inquiry, distinct from the study of colonial and pre-Columbian art, architecture, and visual culture."
+                },
+                {
+                  "text": " ",
+                  "color": "#0287eb"
+                },
+                {
+                  "color": "#000000",
+                  "text": "[3]"
+                },
+                {
+                  "text": " In revisiting the symposium, however, a complicated picture of the field emerges. Some conference participants considered whether a “boom” of Latin American art was actually happening, and whether this was a good thing (and for whom?). Other concerns also came to the foreground: the legacies of colonialism, imperialism, authoritarianism, and globalization (referred to as internationalism), which were rearranging not only social, political, and economic structures but also cultural formations. It is therefore not surprising that in addition to the stated theme of questioning, a parallel throughline emerged at the event: unresolvability. At the Austin Symposium, Latin American art was iterated as a field for continually and anxiously testing hypotheses and strategies for dwelling in this new “art world.”"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "code": true,
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "code": true,
+                  "text": "  "
                 }
               ]
             }
@@ -245,14 +253,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "     The ideological and sociopolitical exigencies of the 1970s and their afterlives produced a field with marked blind spots. The emergent network of Latin American art consisted of largely light-skinned mestizo cosmopolitan elites who reproduced their individual and class interests, situating themselves as near-exclusive producers and consumers of high culture. The not accidental result of this process was the centering of whiteness and the marginalization of Black, Indigenous, and Latinx people and their artistic and critical repertoires and archives. As Tatiana Flores recently argued in this journal, “Latin America as a construct is Eurocentric to the degree that its conceptual boundaries perniciously exclude African diaspora spaces.”"
-        },
-        {
-          "text": "[5]",
-          "color": "#0087eb"
-        },
-        {
-          "text": ". As a field, we continue to suffer from and reckon with these exclusions and the material injustices of racism, sexism, and classism. "
+          "text": "     The questioning extended to a fundamental one: what is Latin American art—does such a thing even exist? Have we perhaps granted the formation of the field of modern and contemporary Latin American art too much coherence, presumed it to be more consolidated than it actually was or could become? Do we accept and perhaps even abet the putative hegemony of US academe (and US imperialism) if we understand Latin American art as a more or less settled field with resolved parameters and objects of inquiry? To be sure, it is a story entangled in the history of Cold War–era area studies in the United States and, before that, Pan Americanism articulated from Washington, DC, most prominently by Jose´ Gómez Sicre of the Pan American Union (later renamed the Organization of American States). But to focus exclusively on politics and propaganda would be too reductive. Such a collapse ignores the strategic regionalisms (and essentialisms) mobilized throughout the Americas, and elides the agency of countless thinkers and makers that brought a multitude of interests to the table that undermine a Cold War framing of the field. [4]     "
         }
       ]
     },
@@ -268,14 +269,37 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "     Strictly speaking, the racial, ethnic, and cultural heterogeneity of the region—even within individual countries—makes the idea of a coherent regional art an impossibility. Yet as art critic Jorge Alberto Manrique argued in 1978, “This fiction has been created and maintained for so long that it has come to have the shape of reality.”(6) In the introduction to their anthology of writings on the categories of Latin America and Latinx, Héctor Olea, Mari Carmen Ramírez, and Tómas Ybarra Frausto write, “Going beyond issues of nomenclature or identity ... Latin American and Latino art constitute an"
+          "text": "     The ideological and sociopolitical exigencies of the 1970s and their afterlives produced a field with marked blind spots. The emergent network of Latin American art consisted of largely light-skinned mestizo cosmopolitan elites who reproduced their individual and class interests, situating themselves as near-exclusive producers and consumers of high culture. The not accidental result of this process was the centering of whiteness and the marginalization of Black, Indigenous, and Latinx people and their artistic and critical repertoires and archives. As Tatiana Flores recently argued in this journal, “Latin America as a construct is Eurocentric to the degree that its conceptual boundaries perniciously exclude African diaspora spaces.” "
+        },
+        {
+          "text": "[5]",
+          "color": "#000000"
+        },
+        {
+          "text": " As a field, we continue to suffer from and reckon with these exclusions and the material injustices of racism, sexism, and classism. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "     Strictly speaking, the racial, ethnic, and cultural heterogeneity of the region—even within individual countries—makes the idea of a coherent regional art an impossibility. Yet as art critic Jorge Alberto Manrique argued in 1978, “This fiction has been created and maintained for so long that it has come to have the shape of reality.” [6] In the introduction to their anthology of writings on the categories of Latin America and Latinx, Héctor Olea, Mari Carmen Ramírez, and Tómas Ybarra Frausto write, “Going beyond issues of nomenclature or identity ... Latin American and Latino art constitute an"
         },
         {
           "text": " intellectual field",
           "italic": true
         },
         {
-          "text": " ...with its own laws, agents, and intrinsic dynamics.”(7) Historian Mauricio Tenorio-Trillo, in his critical examination of the “enduring” idea of Latin America, argues that the concept can be useful in thinking beyond national frames.(8) The very concept of Latin America can compel important questions about art and art history that refuse to divorce the visual from the social. "
+          "text": " ...with its own laws, agents, and intrinsic dynamics.” [7] Historian Mauricio Tenorio-Trillo, in his critical examination of the “enduring” idea of Latin America, argues that the concept can be useful in thinking beyond national frames. [8] The very concept of Latin America can compel important questions about art and art history that refuse to divorce the visual from the social. "
         }
       ]
     },
@@ -325,7 +349,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "     The Austin Symposium was co-organized by Donald Goodall, director of UT’s University Art Museum (now the Blanton Museum of Art), and Rodolfo Cardona, chair of the Spanish and Portuguese department at UT and a scholar of peninsular literature and translation.(9) Damián Bayón, a visiting professor at UT starting in 1973 and a crucial voice in shaping the study of modern and contemporary Latin American art, also played a leading role. Bayón served as the intermediary between the university and the staff at"
+          "text": "     The Austin Symposium was co-organized by Donald Goodall, director of UT’s University Art Museum (now the Blanton Museum of Art), and Rodolfo Cardona, chair of the Spanish and Portuguese department at UT and a scholar of peninsular literature and translation. [9] Damián Bayón, a visiting professor at UT starting in 1973 and a crucial voice in shaping the study of modern and contemporary Latin American art, also played a leading role. Bayón served as the intermediary between the university and the staff at"
         },
         {
           "text": " Plural",
@@ -346,7 +370,7 @@
           "italic": true
         },
         {
-          "text": ". (The two other exhibitions were monographic, focusing on Édgar Negret and Alejandro Otero.) The group show featured artists from Latin America and those who migrated there— though only men, and only painters and sculptors working in conservative abstract and figurative styles relative to the contemporaneous conceptual and performance practices happening in the region and elsewhere.(10) Following the symposium, Bayón would go on to edit a widely circulated proceedings of the conference.(11) "
+          "text": ". (The two other exhibitions were monographic, focusing on Édgar Negret and Alejandro Otero.) The group show featured artists from Latin America and those who migrated there— though only men, and only painters and sculptors working in conservative abstract and figurative styles relative to the contemporaneous conceptual and performance practices happening in the region and elsewhere. [10] Following the symposium, Bayón would go on to edit a widely circulated proceedings of the conference. [11] "
         }
       ]
     },
@@ -362,7 +386,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "     An eclectic group of people attended the Austin Symposium: artists and writers, critics and historians, dealers and cultural brokers, diplomats and other government officials.(12) Invited speakers included Juan Acha, Aracy Amaral, Dore Ashton, Jose´ Luis Cuevas, Manuel Felguérez, Leonel Góngora, Jorge Alberto Manrique, Alejandro Otero, Carlos Rodríguez Saavedra, Fernando de Szyszlo, and Marta Traba. Although most of the speakers were from outside the United States, the majority came from places with established art scenes and cultural bureaucracies: Argentina, Brazil, Colombia, Mexico, Peru, and Venezuela. The speakers’ position papers and discussions excerpted in Bayón’s conference proceedings have served as the primary historical documentation of the conference. There were also attendees who did not deliver a paper but were invited to take part in the formal and informal discussions. They included Jacqueline Barnitz, Stanton Catlin, Barbara Duncan, Fernando Gamboa, Jacinto Quirarte, and Rufino Tamayo. There were also “observers” such as Rita Eder, an emerging scholar at the time. Attendees based at UT included faculty and students, including Terence Grieder and Rolando Briseño. Absent among those invited were the faculty and students of the University’s Center for Mexican American Studies, including Gilberto Cárdenas, an avid collector of Latinx art, who began teaching at UT in 1975. (13) Though it was established in 1970, the Center and Latin Americanists on campus had few formal collaborations—a widespread condition in the US academic system that continues to this day. "
+          "text": "     An eclectic group of people attended the Austin Symposium: artists and writers, critics and historians, dealers and cultural brokers, diplomats and other government officials. [12] Invited speakers included Juan Acha, Aracy Amaral, Dore Ashton, Jose´ Luis Cuevas, Manuel Felguérez, Leonel Góngora, Jorge Alberto Manrique, Alejandro Otero, Carlos Rodríguez Saavedra, Fernando de Szyszlo, and Marta Traba. Although most of the speakers were from outside the United States, the majority came from places with established art scenes and cultural bureaucracies: Argentina, Brazil, Colombia, Mexico, Peru, and Venezuela. The speakers’ position papers and discussions excerpted in Bayón’s conference proceedings have served as the primary historical documentation of the conference. There were also attendees who did not deliver a paper but were invited to take part in the formal and informal discussions. They included Jacqueline Barnitz, Stanton Catlin, Barbara Duncan, Fernando Gamboa, Jacinto Quirarte, and Rufino Tamayo. There were also “observers” such as Rita Eder, an emerging scholar at the time. Attendees based at UT included faculty and students, including Terence Grieder and Rolando Briseño. Absent among those invited were the faculty and students of the University’s Center for Mexican American Studies, including Gilberto Cárdenas, an avid collector of Latinx art, who began teaching at UT in 1975. [13] Though it was established in 1970, the Center and Latin Americanists on campus had few formal collaborations—a widespread condition in the US academic system that continues to this day. "
         }
       ]
     },
@@ -378,7 +402,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "     Before arriving in Austin, Bayón had organized major conferences for UNESCO. The first took place in Quito (1970) and the second in Mexico City (1974), with both emphasizing relations between artistic and regional cultural identity. The participant lists of these conferences overlapped with the Austin Symposium. (14) Even at this early moment, there was an emergent elite that could afford to attend such far-flung events. (15) The Austin Symposium can be understood as a continuation of conversations already taking place among a network of artists, critics, and other agents; what was new was the North American public university context and its particular matrix of cultural patronage and politics.(16)"
+          "text": "     Before arriving in Austin, Bayón had organized major conferences for UNESCO. The first took place in Quito (1970) and the second in Mexico City (1974), with both emphasizing relations between artistic and regional cultural identity. The participant lists of these conferences overlapped with the Austin Symposium. [14] Even at this early moment, there was an emergent elite that could afford to attend such far-flung events. [15] The Austin Symposium can be understood as a continuation of conversations already taking place among a network of artists, critics, and other agents; what was new was the North American public university context and its particular matrix of cultural patronage and politics. [16]"
         }
       ]
     },
@@ -423,9 +447,20 @@
                   "text": "\n"
                 },
                 {
-                  "text": "(18) Tape 1, 30:35–31:08 min",
+                  "text": "Recording 1",
                   "italic": true,
-                  "bold": true
+                  "bold": true,
+                  "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "italic": true,
+                  "bold": true,
+                  "text": ""
                 }
               ]
             },
@@ -511,14 +546,6 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "     "
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
                   "text": ""
                 }
               ]
@@ -530,7 +557,7 @@
                   "text": "     The organizers cast the Austin Symposium as the result of an extended intellectual process that was manifestly international and dialogical."
                 },
                 {
-                  "text": "(18)",
+                  "text": "[18, rec. 1]",
                   "bold": true
                 },
                 {
@@ -541,7 +568,7 @@
                   "bold": true
                 },
                 {
-                  "text": " As comparative literature scholar Lori Cole has shown, questionnaires—which can yield instability as much as consensus—were frequently deployed by modernist journals that had circulated between the Americas and Europe since the early twentieth century. They were instruments to assess the currency of ideas and categories, including Latin American art. (19) Goodall and Cardona asked the following: \n"
+                  "text": " As comparative literature scholar Lori Cole has shown, questionnaires—which can yield instability as much as consensus—were frequently deployed by modernist journals that had circulated between the Americas and Europe since the early twentieth century. They were instruments to assess the currency of ideas and categories, including Latin American art. [19] Goodall and Cardona asked the following: \n"
                 }
               ]
             },
@@ -588,11 +615,12 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\nThese can be thought of as the symposium’s research questions. As such, they reveal some of the organizers’ suppositions, biases, and objectives in hosting the event. \n     Goodall and Cardona (and Bayón and Sakai) were interested in the ways artists from Latin America navigated the world as cultural agents. Their cosmopolitan status was assumed, and this “world” was limited to Western Europe and the Americas. The first question, asking whether Latin American art exists, situates the Austin event among other international gatherings in the period that considered the contours of modern and contemporary Latin American art. The fact that the second, third, and fourth questions asked about artistic autonomy and cultural models suggests the organizers did not see these issues as devoid of power dynamics. The final question regarding criticism, its tone somewhat patronizing, spoke to a desire among some artists for a more robust reception of their work but also helped justify an international critical apparatus that could further validate the Latin American art concept."
+                  "text": "\nThese can be thought of as the symposium’s research questions. As such, they reveal some of the organizers’ suppositions, biases, and objectives in hosting the event. "
                 }
               ]
             }
-          ]
+          ],
+          "left": 5
         }
       ]
     },
@@ -610,7 +638,39 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "     Marta Traba offered one of the most polemical analyses at the Austin Symposium. The highly mobile Argentine critic, then living in Venezuela, answered the organizers’ first question in her written response partially capitalized and underlined: “The objective answer to the question, "
+                  "text": "     "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "     Goodall and Cardona (and Bayón and Sakai) were interested in the ways artists from Latin America navigated the world as cultural agents. Their cosmopolitan status was assumed, and this “world” was limited to Western Europe and the Americas. The first question, asking whether Latin American art exists, situates the Austin event among other international gatherings in the period that considered the contours of modern and contemporary Latin American art. The fact that the second, third, and fourth questions asked about artistic autonomy and cultural models suggests the organizers did not see these issues as devoid of power dynamics. The final question regarding criticism, its tone somewhat patronizing, spoke to a desire among some artists for a more robust reception of their work but also helped justify an international critical apparatus that could further validate the Latin American art concept."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Marta Traba offered one of the most polemical analyses at the Austin Symposium. The highly mobile Argentine critic, then living in Venezuela, answered the organizers’ first question in her written response partially capitalized and underlined: “The objective answer to the question, "
                 },
                 {
                   "text": "‘Does Latin American art exist as a distinct expression?",
@@ -631,22 +691,7 @@
                   "underline": true
                 },
                 {
-                  "text": " outside the limits of our continent.”(21) Much of her argument revolved around recognizing the cultural occupation of the hemisphere yet preserving artistic autonomy from the homogenizing forces of consumerism in global capitalism. Her notion of “culture of resistance,” which was committed to art as visual and political representation, if taken to its logical conclusion, proposed some bloc or solidarity, though not necessarily Latin America, and denounced Europe and the United States for masquerading as the universal culture. Traba’s enemy was avant-gardism, which she regarded as “terrorism” and saw creeping into Latin American artistic self-definition, reiterating and ratifying the centrality of Paris and New York. The context for Traba’s charged rhetoric was not only US-backed violence in the region, including in the authoritarian regimes in Brazil, Bolivia, Chile, and Uruguay, but also her 1973 book, "
-                },
-                {
-                  "text": "Dos décadas vulnerables en las artes plásticas latinoamericanas",
-                  "italic": true
-                },
-                {
-                  "text": ", 1950–1970, which was referenced several times during the symposium.(22) The book subverted the valorization of internationalism and proposed that artists in nations occupying so-called closed zones and less oriented to Europe and the United States were the most socially and artistically radical of the region. "
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "\n"
+                  "text": " outside the limits of our continent.”(21) Much of her argument revolved around recognizing the cultural occupation of the hemisphere yet preserving artistic autonomy from the homogenizing forces of consumerism in global capitalism. Her notion of “culture of resistance,” which was committed to art as visual and political representation, if taken to its logical conclusion, proposed some bloc or solidarity, though not necessarily Latin America, and denounced Europe and the United States for masquerading as the universal culture. Traba's enemy was"
                 }
               ]
             }
@@ -694,6 +739,21 @@
       "children": [
         {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "avant-gardism, which she regarded as “terrorism” and saw creeping into Latin American artistic self-definition, reiterating and ratifying the centrality of Paris and New York. The context for Traba’s charged rhetoric was not only US-backed violence in the region, including in the authoritarian regimes in Brazil, Bolivia, Chile, and Uruguay, but also her 1973 book, "
+        },
+        {
+          "text": "Dos décadas vulnerables en las artes plásticas latinoamericanas",
+          "italic": true
+        },
+        {
+          "text": ", 1950–1970, which was referenced several times during the symposium.(22) The book subverted the valorization of internationalism and proposed that artists in nations occupying so-called closed zones and less oriented to Europe and the United States were the most socially and artistically radical of the region. "
         }
       ]
     },
@@ -870,6 +930,14 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "grid",
       "layout": [
         3,
@@ -896,7 +964,8 @@
                 }
               ],
               "scale": 78,
-              "align": "center"
+              "align": "center",
+              "caption": "Figure 3. Photographs of the Austin Symposium, October 29, 1975. Visible: Juan Acha, Aracy Amaral, Damián Bayón, Rita Eder, Leonel Góngora, among others. Archives of the Blanton Museum of Art, The University of Texas at Austin (photographs by Mike Musson)"
             },
             {
               "type": "paragraph",
@@ -914,7 +983,8 @@
                 {
                   "bold": true,
                   "italic": true,
-                  "text": "(37) Tape 17; 24:00 - 25:15"
+                  "text": "Recording 2",
+                  "textSize": "heading-three"
                 }
               ]
             },
@@ -930,8 +1000,7 @@
               "uuid": "d6908b7b-e854-4349-a5a2-9c821126e135",
               "includes": [
                 "media",
-                "annotations",
-                "description"
+                "annotations"
               ],
               "start": 1440,
               "end": 1515,
@@ -979,7 +1048,21 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\n     Above all, the recordings reveal disagreements and other interpersonal dynamics stripped by Bayón out of the proceedings. US organizers, participants, audience members, and UT Austin students, some from varied Latin American national origins, repeatedly insisted on simplistic, essentialized framings of the subject matter that by the third and final day wear on several participants from Latin America and at least one from the United States. These expressions of irritation go only partially registered by Bayón. Certain comments by Duncan and Grieder smack of benevolent cultural imperialism, and Bayón records the sharp retorts to each.(36) By contrast, absent is Goodall imploring the panelists to get to it and explain what is Latin American about Latin American art, and entreating Rufino Tamayo to explain what is Mexican about him.(37) The trilingualism of the event is also put into question. One of the Brazilian speakers, Amaral, spoke in Spanish, and it is unclear how consistently the contributions in Portuguese by the other Brazilians, Affonso Romano de Sant’Anna and José Mindlin (speakers) and Frederico Morais (audience member) were translated. Other edits seem innocuous enough. Gone are introductory remarks on the first day that stretched for almost a half hour.(38) But these introductions, all by men, delineated a masculinist space, with florid welcomes to honored guests: Gamboa, Gómez Sicre, Paz (present via a representative), and Tamayo, along with Duncan. The discussions that followed focused on male artists and writers, with Jorge Luis Borges such a ubiquitous reference that it became a running joke among the speakers."
+                  "text": "\n     Above all, the recordings reveal disagreements and other interpersonal dynamics stripped by Bayón out of the proceedings. US organizers, participants, audience members, and UT Austin students, some from varied Latin American national origins, repeatedly insisted on simplistic, essentialized framings of the subject matter that by the third and final day wear on several participants from Latin America and at least one from the United States. These expressions of irritation go only partially registered by Bayón. Certain comments by Duncan and Grieder smack of benevolent cultural imperialism, and Bayón records the sharp retorts to each.(36) By contrast, absent is Goodall imploring the panelists to get to it and explain what is Latin American about Latin American art, and entreating Rufino Tamayo to explain what is Mexican about him."
+                },
+                {
+                  "text": " [37, rec. 2]",
+                  "bold": true
+                },
+                {
+                  "text": " The trilingualism of the event is also put into question. One of the Brazilian speakers, Amaral, spoke in Spanish, and it is unclear how consistently the contributions in Portuguese by the other Brazilians, Affonso Romano de Sant’Anna and José Mindlin (speakers) and Frederico Morais (audience member) were translated. Other edits seem innocuous enough. Gone are introductory remarks on the first day that stretched for almost a half hour."
+                },
+                {
+                  "text": "[38, rec. 3 and 4] ",
+                  "bold": true
+                },
+                {
+                  "text": "But these introductions, all by men, delineated a masculinist space, with florid welcomes to honored guests: Gamboa, Gómez Sicre, Paz (present via a representative), and Tamayo, along with Duncan. The discussions that followed focused on male artists and writers, with Jorge Luis Borges such a ubiquitous reference that it became a running joke among the speakers."
                 }
               ]
             }
@@ -991,19 +1074,9 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "",
-          "italic": true,
-          "bold": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "italic": true,
           "bold": true,
-          "text": "(38) Tape 1; 12:30 - 31:08 and Tape 2; 0:15 - 6:00"
+          "text": ""
         }
       ]
     },
@@ -1029,16 +1102,16 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
+                  "text": "Recording 3",
+                  "textSize": "heading-three",
+                  "italic": true
                 }
               ]
             },
             {
               "uuid": "9105d109-d6df-4e48-894f-8a17a1f7b235",
               "includes": [
-                "media",
-                "annotations",
-                "description"
+                "media"
               ],
               "start": 735,
               "end": 1868,
@@ -1067,16 +1140,16 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
+                  "text": "Recording 4",
+                  "textSize": "heading-three",
+                  "italic": true
                 }
               ]
             },
             {
               "uuid": "de4c94a8-6ba8-4efa-8cf6-61b3799d5e0a",
               "includes": [
-                "media",
-                "annotations",
-                "description"
+                "media"
               ],
               "start": 15,
               "end": 360,
@@ -1110,6 +1183,27 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Bayón also omitted the protests at being interrupted mounted by Amaral and Traba, two of the four female participants listed in the program among a total of seventeen in the art-focused sessions.(39) Both had pointed exchanges with Sakai, including a moment where Amaral cited the UN-designated International Women’s Year in 1975 as she spoke past her time limit. "
+        },
+        {
+          "text": "[40, rec. 5, 6, and 7] ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "grid",
       "layout": [
         3,
@@ -1123,25 +1217,10 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "     Bayón also omitted the protests at being interrupted mounted by Amaral and Traba, two of the four female participants listed in the program among a total of seventeen in the art-focused sessions.(39) Both had pointed exchanges with Sakai, including a moment where Amaral cited the UN-designated International Women’s Year in 1975 as she spoke past her time limit.(40) "
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "(40) Tape 16, 26:17–29:29 min",
+                  "text": "Recording 5",
                   "bold": true,
-                  "italic": true
+                  "italic": true,
+                  "textSize": "heading-three"
                 }
               ]
             },
@@ -1157,8 +1236,7 @@
               "uuid": "eb4bff37-9767-4661-bf97-5b66804cb34d",
               "includes": [
                 "media",
-                "annotations",
-                "description"
+                "annotations"
               ],
               "start": 1577,
               "end": 1769,
@@ -1182,11 +1260,14 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "On the final day, Traba targeted Goodall, calling him out in the audience, and stating that it took what she called a “miracle” for her to be able to attend the conference from Caracas, and yet her contributions had been severely limited. She concluded, “I ask, for my final intervention ... five minutes. If not, I prefer not to intervene.”(41)"
+                  "bold": true,
+                  "italic": true,
+                  "text": ""
                 }
               ]
             }
-          ]
+          ],
+          "right": 5
         },
         {
           "type": "column",
@@ -1195,8 +1276,8 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "(40) cont. Tape 17, 10:49–12:21 min; and Tape 18, 11:50–12:02 min",
-                  "bold": true,
+                  "text": "Recording 6",
+                  "textSize": "heading-three",
                   "italic": true
                 }
               ]
@@ -1213,8 +1294,7 @@
               "uuid": "d6908b7b-e854-4349-a5a2-9c821126e135",
               "includes": [
                 "media",
-                "annotations",
-                "description"
+                "annotations"
               ],
               "start": 649,
               "end": 741,
@@ -1230,44 +1310,13 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "uuid": "6d05aef4-0d3a-4d30-a18a-890292f60689",
-              "includes": [
-                "media",
-                "annotations",
-                "description"
-              ],
-              "start": 710,
-              "end": 722,
-              "file": "10711464-b60c-4dfc-9430-06c82f9ab630",
-              "type": "event",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
+                  "text": "",
+                  "textSize": "heading-three"
                 }
               ]
             }
-          ]
+          ],
+          "left": 5
         }
       ]
     },
@@ -1283,30 +1332,23 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "(41) Tape 22, 13:13–15:16 ",
-          "italic": true,
-          "bold": true
+          "text": "Recording 7",
+          "textSize": "heading-three",
+          "italic": true
         }
       ]
     },
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "uuid": "468443ac-bc89-4b85-afbf-2f1a498acfd7",
+      "uuid": "6d05aef4-0d3a-4d30-a18a-890292f60689",
       "includes": [
         "media",
         "annotations",
+        "label",
         "description"
       ],
-      "start": 793,
-      "end": 916,
-      "file": "23037cb4-5bc4-4530-80e8-f0ed9ea3bdc1",
+      "start": 710,
+      "end": 730,
+      "file": "10711464-b60c-4dfc-9430-06c82f9ab630",
       "type": "event",
       "children": [
         {
@@ -1324,6 +1366,56 @@
     },
     {
       "type": "paragraph",
+      "children": [
+        {
+          "text": "On the final day, Traba targeted Goodall, calling him out in the audience, and stating that it took what she called a “miracle” for her to be able to attend the conference from Caracas, and yet her contributions had been severely limited. She concluded, “I ask, for my final intervention ... five minutes. If not, I prefer not to intervene.” "
+        },
+        {
+          "text": "[41, rec. 8]",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Recording 8",
+          "italic": true,
+          "bold": true,
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "uuid": "468443ac-bc89-4b85-afbf-2f1a498acfd7",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "start": 793,
+      "end": 916,
+      "file": "23037cb4-5bc4-4530-80e8-f0ed9ea3bdc1",
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -1350,7 +1442,11 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "     Bayón reproduced the comments by two audience members, Jacinto Quirarte, an art history professor at UT San Antonio, and Rolando Briseño, then a UT Austin undergraduate student earning a studio degree after completing one in art history, who lamented the exclusion of Chicanos from the symposium.(43) Quirarte noted that many of the issues of ambiguity described by Latin American artists are shared by Mexican Americans. On the final day of the event, Briseño remarked: “I want to say to Donald Goodall and the other people who are the directors of this symposium that I deeply resent that the Chicanos were left out again, as usual, out [sic] of something that they have the right to be into because we are latinoamericanos also.”(44)"
+          "text": "     Bayón reproduced the comments by two audience members, Jacinto Quirarte, an art history professor at UT San Antonio, and Rolando Briseño, then a UT Austin undergraduate student earning a studio degree after completing one in art history, who lamented the exclusion of Chicanos from the symposium.(43) Quirarte noted that many of the issues of ambiguity described by Latin American artists are shared by Mexican Americans. On the final day of the event, Briseño remarked: “I want to say to Donald Goodall and the other people who are the directors of this symposium that I deeply resent that the Chicanos were left out again, as usual, out [sic] of something that they have the right to be into because we are latinoamericanos also.” "
+        },
+        {
+          "text": "[44, rec. 9]",
+          "bold": true
         }
       ]
     },
@@ -1366,16 +1462,9 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "(44) Tape 26, 23:40–24:00 min",
-          "italic": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
+          "text": "Recording 9",
+          "italic": true,
+          "textSize": "heading-three"
         }
       ]
     },
@@ -1408,6 +1497,18 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Though Goodall felt compelled to address at length and take responsibility for the conspicuous lack of any Cuban specialists at the event, no one took up the challenge issued by Quirarte and Briseño.(45) What the recordings do reveal is the applause in the room after each spoke, accompanied by a comment by someone near a microphone that Chicano art could be the focus of the next “mesa,” and Sakai foreclosing further discussion by saying that Chicano art falls outside the focus of the event. "
+        },
+        {
+          "text": "[46, rec. 10]",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -1416,24 +1517,9 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Though Goodall felt compelled to address at length and take responsibility for the conspicuous lack of any Cuban specialists at the event, no one took up the challenge issued by Quirarte and Briseño.(45) What the recordings do reveal is the applause in the room after each spoke, accompanied by a comment by someone near a microphone that Chicano art could be the focus of the next “mesa,” and Sakai foreclosing further discussion by saying that Chicano art falls outside the focus of the event.(46)"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "(46)Tape 18, 17:04–17:20 min",
-          "italic": true
+          "text": "Recording 10",
+          "italic": true,
+          "textSize": "heading-three"
         }
       ]
     },
@@ -1456,14 +1542,6 @@
       "end": 1040,
       "file": "10711464-b60c-4dfc-9430-06c82f9ab630",
       "type": "event",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -1696,195 +1774,6 @@
           "text": "Footnotes",
           "underline": true,
           "bold": true
-        }
-      ]
-    },
-    {
-      "type": "code-block",
-      "children": [
-        {
-          "text": "<hr>",
-          "code": true
-        }
-      ]
-    },
-    {
-      "type": "code-block",
-      "children": [
-        {
-          "code": true,
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "code-block",
-      "children": [
-        {
-          "code": true,
-          "text": "<ol class=\"footnotes\">"
-        }
-      ]
-    },
-    {
-      "type": "code-block",
-      "children": [
-        {
-          "code": true,
-          "text": "  <li id=\"fn1\">"
-        }
-      ]
-    },
-    {
-      "type": "code-block",
-      "children": [
-        {
-          "code": true,
-          "text": "    John King, “The Boom of the Latin American Novel,” in The Cambridge Companion to the Latin American Novel, ed. Efraín Kristal (Cambridge: Cambridge University Press, 2005), 59–80. "
-        }
-      ]
-    },
-    {
-      "type": "code-block",
-      "children": [
-        {
-          "code": true,
-          "text": "    <a href=\"#fnref1\" class=\"footnote-backref\">↩︎</a>"
-        }
-      ]
-    },
-    {
-      "type": "code-block",
-      "children": [
-        {
-          "code": true,
-          "text": "  </li>"
-        }
-      ]
-    },
-    {
-      "type": "code-block",
-      "children": [
-        {
-          "code": true,
-          "text": "  <li id=\"fn2\">"
-        }
-      ]
-    },
-    {
-      "type": "code-block",
-      "children": [
-        {
-          "code": true,
-          "text": "    See Taína B. Caragol-Barreto, “Boom and Dust: The Rise of Latin American and Latino Art in New York Exhibition Spaces and the Auction House Market, 1970s–1980s” (PhD diss., City University of New York, 2013)."
-        }
-      ]
-    },
-    {
-      "type": "code-block",
-      "children": [
-        {
-          "code": true,
-          "text": "    <a href=\"#fnref2\" class=\"footnote-backref\">↩︎</a>"
-        }
-      ]
-    },
-    {
-      "type": "code-block",
-      "children": [
-        {
-          "code": true,
-          "text": "  </li>"
-        }
-      ]
-    },
-    {
-      "type": "code-block",
-      "children": [
-        {
-          "code": true,
-          "text": "  <li id=\"fn3\">"
-        }
-      ]
-    },
-    {
-      "type": "code-block",
-      "children": [
-        {
-          "code": true,
-          "text": "    <!-- Footnote 3 text -->"
-        }
-      ]
-    },
-    {
-      "type": "code-block",
-      "children": [
-        {
-          "code": true,
-          "text": "    <a href=\"#fnref3\" class=\"footnote-backref\">↩︎</a>"
-        }
-      ]
-    },
-    {
-      "type": "code-block",
-      "children": [
-        {
-          "code": true,
-          "text": "  </li>"
-        }
-      ]
-    },
-    {
-      "type": "code-block",
-      "children": [
-        {
-          "code": true,
-          "text": "  <li id=\"fn4\">"
-        }
-      ]
-    },
-    {
-      "type": "code-block",
-      "children": [
-        {
-          "code": true,
-          "text": "    <!-- Footnote 4 text -->"
-        }
-      ]
-    },
-    {
-      "type": "code-block",
-      "children": [
-        {
-          "code": true,
-          "text": "    <a href=\"#fnref4\" class=\"footnote-backref\">↩︎</a>"
-        }
-      ]
-    },
-    {
-      "type": "code-block",
-      "children": [
-        {
-          "code": true,
-          "text": "  </li>"
-        }
-      ]
-    },
-    {
-      "type": "code-block",
-      "children": [
-        {
-          "code": true,
-          "text": "</ol>"
-        }
-      ]
-    },
-    {
-      "type": "code-block",
-      "children": [
-        {
-          "code": true,
-          "text": ""
         }
       ]
     },
@@ -2336,7 +2225,7 @@
   "slug": "latin-american-art-by-and-for-whom",
   "created_at": "2026-03-04T16:51:52.975Z",
   "created_by": "luzgonz-glitch",
-  "updated_at": "2026-04-08T14:58:20.388Z",
+  "updated_at": "2026-04-13T22:00:16.814Z",
   "updated_by": "luzgonz-glitch",
   "parent": "30cee196-f789-4dda-8803-cbacf1eb1f5f"
 }
