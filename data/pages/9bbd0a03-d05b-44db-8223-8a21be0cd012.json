@@ -49,8 +49,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "BY GEORGE FLAHERTY & ADELE NELSON",
-                  "textSize": "small"
+                  "text": "BY GEORGE FLAHERTY & ADELE NELSON"
                 }
               ]
             }
@@ -116,6 +115,14 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "grid",
       "layout": [
         3,
@@ -142,7 +149,7 @@
                   "text": ""
                 }
               ],
-              "scale": 76,
+              "scale": 70,
               "align": "center"
             },
             {
@@ -193,11 +200,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "code": true,
-                  "text": "  "
-                },
-                {
-                  "text": "These works were trumpeted by their publishers as highly original and formally inventive yet steeped in traditions of “universal” literature. "
+                  "text": "     These works were trumpeted by their publishers as highly original and formally inventive yet steeped in traditions of “universal” literature. "
                 },
                 {
                   "text": "[1]",
@@ -245,7 +248,16 @@
                 }
               ]
             }
-          ]
+          ],
+          "right": 5
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "     "
         }
       ]
     },
@@ -537,11 +549,21 @@
                 }
               ]
             }
-          ]
+          ],
+          "left": 7,
+          "right": 7
         },
         {
           "type": "column",
           "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
             {
               "type": "paragraph",
               "children": [
@@ -568,7 +590,25 @@
                   "bold": true
                 },
                 {
-                  "text": " As comparative literature scholar Lori Cole has shown, questionnaires—which can yield instability as much as consensus—were frequently deployed by modernist journals that had circulated between the Americas and Europe since the early twentieth century. They were instruments to assess the currency of ideas and categories, including Latin American art. [19] Goodall and Cardona asked the following: \n"
+                  "text": " As comparative literature scholar Lori Cole has shown, questionnaires—which can yield instability as much as consensus—were frequently deployed by modernist journals that had circulated between the Americas and Europe since the early twentieth century. They were instruments to assess the currency of ideas and categories, including Latin American art. [19] Goodall and Cardona asked the following:"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "=====",
+                  "color": "#ffffff"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "=====",
+                  "color": "#ffffff"
                 }
               ]
             },
@@ -615,12 +655,26 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": "====",
+                  "color": "#ffffff"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "====",
+                  "color": "#ffffff"
+                },
+                {
                   "text": "\nThese can be thought of as the symposium’s research questions. As such, they reveal some of the organizers’ suppositions, biases, and objectives in hosting the event. "
                 }
               ]
             }
           ],
-          "left": 5
+          "left": 5,
+          "top": 10
         }
       ]
     },
@@ -670,7 +724,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Marta Traba offered one of the most polemical analyses at the Austin Symposium. The highly mobile Argentine critic, then living in Venezuela, answered the organizers’ first question in her written response partially capitalized and underlined: “The objective answer to the question, "
+                  "text": "     Marta Traba offered one of the most polemical analyses at the Austin Symposium. The highly mobile Argentine critic, then living in Venezuela, answered the organizers’ first question in her written response partially capitalized and underlined: “The objective answer to the question, "
                 },
                 {
                   "text": "‘Does Latin American art exist as a distinct expression?",
@@ -691,7 +745,14 @@
                   "underline": true
                 },
                 {
-                  "text": " outside the limits of our continent.”(21) Much of her argument revolved around recognizing the cultural occupation of the hemisphere yet preserving artistic autonomy from the homogenizing forces of consumerism in global capitalism. Her notion of “culture of resistance,” which was committed to art as visual and political representation, if taken to its logical conclusion, proposed some bloc or solidarity, though not necessarily Latin America, and denounced Europe and the United States for masquerading as the universal culture. Traba's enemy was"
+                  "text": " outside the limits of our continent.”(21) Much of her argument revolved around recognizing the cultural occupation of the hemisphere yet preserving artistic autonomy from the homogenizing forces of consumerism in global capitalism. Her notion of “culture of resistance,” which was committed to art as visual and political representation, if taken to its logical conclusion, proposed some bloc or solidarity, though not necessarily Latin America, and denounced Europe and the United States for masquerading as the universal culture. Traba's enemy was avant-gardism, which she regarded as “terrorism” and saw creeping into Latin American artistic self-definition, reiterating and ratifying the centrality of Paris and New York. The context for Traba’s charged rhetoric was not only US-backed violence in the region, including in the authoritarian regimes in Brazil, Bolivia, Chile, and Uruguay, but also her 1973 book, "
+                },
+                {
+                  "text": "Dos décadas vulnerables en las artes plásticas latinoamericanas",
+                  "italic": true
+                },
+                {
+                  "text": ", 1950–1970, which was referenced several times during the symposium.(22) The book subverted the valorization of internationalism and proposed that artists in nations occupying so-called closed zones and less oriented to Europe and the United States were the most socially and artistically radical of the region."
                 }
               ]
             }
@@ -731,29 +792,6 @@
           ],
           "right": 10,
           "left": 10
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "avant-gardism, which she regarded as “terrorism” and saw creeping into Latin American artistic self-definition, reiterating and ratifying the centrality of Paris and New York. The context for Traba’s charged rhetoric was not only US-backed violence in the region, including in the authoritarian regimes in Brazil, Bolivia, Chile, and Uruguay, but also her 1973 book, "
-        },
-        {
-          "text": "Dos décadas vulnerables en las artes plásticas latinoamericanas",
-          "italic": true
-        },
-        {
-          "text": ", 1950–1970, which was referenced several times during the symposium.(22) The book subverted the valorization of internationalism and proposed that artists in nations occupying so-called closed zones and less oriented to Europe and the United States were the most socially and artistically radical of the region. "
         }
       ]
     },
@@ -963,54 +1001,9 @@
                   "text": ""
                 }
               ],
-              "scale": 78,
+              "scale": 70,
               "align": "center",
               "caption": "Figure 3. Photographs of the Austin Symposium, October 29, 1975. Visible: Juan Acha, Aracy Amaral, Damián Bayón, Rita Eder, Leonel Góngora, among others. Archives of the Blanton Museum of Art, The University of Texas at Austin (photographs by Mike Musson)"
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "",
-                  "bold": true,
-                  "italic": true
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "bold": true,
-                  "italic": true,
-                  "text": "Recording 2",
-                  "textSize": "heading-three"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "uuid": "d6908b7b-e854-4349-a5a2-9c821126e135",
-              "includes": [
-                "media",
-                "annotations"
-              ],
-              "start": 1440,
-              "end": 1515,
-              "file": "31b5e7a5-489a-491b-99cd-a533117d6fc8",
-              "type": "event",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
             },
             {
               "type": "paragraph",
@@ -1033,6 +1026,14 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
                   "text": "\n     More than two years into the COVID-19 pandemic, the recordings of the symposium preserve the still familiar, but now distant sonic experience of an academic conference. The rise and fall of a muddle of voices before and after sessions, the whoosh of papers shuffling, whispers of moderators to speak more slowly or to shift closer to the microphone, the creak of chairs as sessions stretch on, and modulations of applause and laughter—and in one case, hissing—give some indication of what speaker or idea had swayed the audience. The black-and-white photographs of the symposium, some published in the student newspaper and by Amaral and Bayón, show the large, wood-paneled auditorium equipped with an audio system that allowed for simultaneous translation and a seeming endless number of microphones "
                 },
                 {
@@ -1041,6 +1042,14 @@
                 },
                 {
                   "text": "(35) The speakers, in groups and singularly, appear to be confident—mostly happy, sometimes annoyed—intellectual and artistic pioneers with headphones worn or casually held up over one ear, occasionally with a cigarette in hand. Also vivid in the recordings are the distinct accents and cadences of the participants and the performative, aggrandizing habits of academe, with the most lavish praise reserved for the “maestros” and senior men in attendance as well as patrons of the event."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 }
               ]
             },
@@ -1074,9 +1083,183 @@
       "type": "paragraph",
       "children": [
         {
-          "italic": true,
-          "bold": true,
+          "text": "Recording 2",
+          "textSize": "heading-three",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "uuid": "d6908b7b-e854-4349-a5a2-9c821126e135",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "start": 1440,
+      "end": 1515,
+      "file": "31b5e7a5-489a-491b-99cd-a533117d6fc8",
+      "type": "event",
+      "children": [
+        {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        2,
+        4
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "uuid": "d6908b7b-e854-4349-a5a2-9c821126e135",
+              "includes": [
+                "media",
+                "annotations"
+              ],
+              "start": 1440,
+              "end": 1515,
+              "file": "31b5e7a5-489a-491b-99cd-a533117d6fc8",
+              "type": "event",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "grid",
+              "layout": [
+                3,
+                3
+              ],
+              "children": [
+                {
+                  "type": "column",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    },
+                    {
+                      "uuid": "9105d109-d6df-4e48-894f-8a17a1f7b235",
+                      "includes": [
+                        "media",
+                        "annotations"
+                      ],
+                      "start": 735,
+                      "end": 1868,
+                      "file": "ea0a7b90-6266-4b2a-a4b5-8460cadbb0f5",
+                      "type": "event",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "column",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    },
+                    {
+                      "uuid": "de4c94a8-6ba8-4efa-8cf6-61b3799d5e0a",
+                      "includes": [
+                        "media",
+                        "annotations"
+                      ],
+                      "start": 15,
+                      "end": 360,
+                      "file": "fc3fcb15-a040-4d5b-ac96-7591d6160df2",
+                      "type": "event",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -1111,7 +1294,8 @@
             {
               "uuid": "9105d109-d6df-4e48-894f-8a17a1f7b235",
               "includes": [
-                "media"
+                "media",
+                "annotations"
               ],
               "start": 735,
               "end": 1868,
@@ -1131,7 +1315,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "right": 10
         },
         {
           "type": "column",
@@ -1149,7 +1334,8 @@
             {
               "uuid": "de4c94a8-6ba8-4efa-8cf6-61b3799d5e0a",
               "includes": [
-                "media"
+                "media",
+                "annotations"
               ],
               "start": 15,
               "end": 360,
@@ -1169,7 +1355,9 @@
                 }
               ]
             }
-          ]
+          ],
+          "right": 1,
+          "left": 10
         }
       ]
     },
@@ -2225,7 +2413,7 @@
   "slug": "latin-american-art-by-and-for-whom",
   "created_at": "2026-03-04T16:51:52.975Z",
   "created_by": "luzgonz-glitch",
-  "updated_at": "2026-04-13T22:00:16.814Z",
+  "updated_at": "2026-04-15T15:22:03.071Z",
   "updated_by": "luzgonz-glitch",
   "parent": "30cee196-f789-4dda-8803-cbacf1eb1f5f"
 }
