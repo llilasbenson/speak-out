@@ -67,7 +67,7 @@
                   "textSize": "small"
                 }
               ],
-              "align": "center"
+              "align": "left"
             },
             {
               "type": "paragraph",
@@ -176,7 +176,7 @@
               ]
             }
           ],
-          "top": 0,
+          "top": 7,
           "right": 10,
           "bottom": 0,
           "left": 1
@@ -184,24 +184,6 @@
         {
           "type": "column",
           "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "",
-                  "code": true
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "code": true,
-                  "text": ""
-                }
-              ]
-            },
             {
               "type": "paragraph",
               "children": [
@@ -250,38 +232,13 @@
               "children": [
                 {
                   "code": true,
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "code": true,
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "The questioning extended to a fundamental one: what is Latin American art—does such a thing even exist? Have we perhaps granted the formation of the field of modern and contemporary Latin American art too much coherence, presumed it to be more consolidated than it actually was or could become? Do we accept and perhaps even abet the putative hegemony of US academe (and US imperialism) if we understand Latin American art as a more or less settled field with resolved parameters and objects of inquiry? To be sure, it is a story entangled in the history of Cold War–era area studies in the United States and, before that, Pan Americanism articulated from Washington, DC, most prominently by Jose´ Gómez Sicre of the Pan American Union (later renamed the Organization of American States). But to focus exclusively on politics and propaganda would be too reductive. Such a collapse ignores the strategic regionalisms (and essentialisms) mobilized throughout the Americas, and elides the agency of countless thinkers and makers that brought a multitude of interests to the table that undermine a Cold War framing of the field. [4]     "
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "code": true,
                   "text": "  "
                 }
               ]
             }
           ],
-          "right": 5
+          "right": 5,
+          "bottom": 5
         }
       ]
     },
@@ -289,7 +246,23 @@
       "type": "paragraph",
       "children": [
         {
-          "text": " "
+          "text": "     "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "     The questioning extended to a fundamental one: what is Latin American art—does such a thing even exist? Have we perhaps granted the formation of the field of modern and contemporary Latin American art too much coherence, presumed it to be more consolidated than it actually was or could become? Do we accept and perhaps even abet the putative hegemony of US academe (and US imperialism) if we understand Latin American art as a more or less settled field with resolved parameters and objects of inquiry? To be sure, it is a story entangled in the history of Cold War–era area studies in the United States and, before that, Pan Americanism articulated from Washington, DC, most prominently by Jose´ Gómez Sicre of the Pan American Union (later renamed the Organization of American States). But to focus exclusively on politics and propaganda would be too reductive. Such a collapse ignores the strategic regionalisms (and essentialisms) mobilized throughout the Americas, and elides the agency of countless thinkers and makers that brought a multitude of interests to the table that undermine a Cold War framing of the field. [4] "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "  "
         }
       ]
     },
@@ -320,7 +293,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "     Strictly speaking, the racial, ethnic, and cultural heterogeneity of the region—even within individual countries—makes the idea of a coherent regional art an impossibility. Yet as art critic Jorge Alberto Manrique argued in 1978, “This fiction has been created and maintained for so long that it has come to have the shape of reality.” [6] In the introduction to their anthology of writings on the categories of Latin America and Latinx, Héctor Olea, Mari Carmen Ramírez, and Tómas Ybarra Frausto write, “Going beyond issues of nomenclature or identity ... Latin American and Latino art constitute an"
+          "text": "     Strictly speaking, the racial, ethnic, and cultural heterogeneity of the region—even within individual countries—makes the idea of a coherent regional art an impossibility. Yet as art critic Jorge Alberto Manrique argued in 1978, “This fiction has been created and maintained for so long that it has come to have the shape of reality.”[6] In the introduction to their anthology of writings on the categories of Latin America and Latinx, Héctor Olea, Mari Carmen Ramírez, and Tómas Ybarra Frausto write, “Going beyond issues of nomenclature or identity ... Latin American and Latino art constitute an"
         },
         {
           "text": " intellectual field",
@@ -592,14 +565,14 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "     The organizers cast the Austin Symposium as the result of an extended intellectual process that was manifestly international and dialogical."
+                  "text": "     The organizers cast the Austin Symposium as the result of an extended intellectual process that was manifestly international and dialogical "
                 },
                 {
                   "text": "[18, rec. 1]",
                   "bold": true
                 },
                 {
-                  "text": " Most crucially, Goodall and Cardona sent a questionnaire to all the invited speakers in advance and their written responses were circulated to the audience"
+                  "text": ". Most crucially, Goodall and Cardona sent a questionnaire to all the invited speakers in advance and their written responses were circulated to the audience"
                 },
                 {
                   "text": " (fig. 2).",
@@ -671,7 +644,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "====",
+                  "text": "==",
                   "color": "#ffffff"
                 }
               ]
@@ -680,17 +653,13 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "====",
-                  "color": "#ffffff"
-                },
-                {
-                  "text": "\nThese can be thought of as the symposium’s research questions. As such, they reveal some of the organizers’ suppositions, biases, and objectives in hosting the event. "
+                  "text": "These can be thought of as the symposium’s research questions. As such, they reveal some of the organizers’ suppositions, biases, and objectives in hosting the event. "
                 }
               ]
             }
           ],
           "left": 5,
-          "top": 10
+          "top": 5
         }
       ]
     },
@@ -761,14 +730,7 @@
                   "underline": true
                 },
                 {
-                  "text": " outside the limits of our continent.”(21) Much of her argument revolved around recognizing the cultural occupation of the hemisphere yet preserving artistic autonomy from the homogenizing forces of consumerism in global capitalism. Her notion of “culture of resistance,” which was committed to art as visual and political representation, if taken to its logical conclusion, proposed some bloc or solidarity, though not necessarily Latin America, and denounced Europe and the United States for masquerading as the universal culture. Traba's enemy was avant-gardism, which she regarded as “terrorism” and saw creeping into Latin American artistic self-definition, reiterating and ratifying the centrality of Paris and New York. The context for Traba’s charged rhetoric was not only US-backed violence in the region, including in the authoritarian regimes in Brazil, Bolivia, Chile, and Uruguay, but also her 1973 book, "
-                },
-                {
-                  "text": "Dos décadas vulnerables en las artes plásticas latinoamericanas",
-                  "italic": true
-                },
-                {
-                  "text": ", 1950–1970, which was referenced several times during the symposium.(22) The book subverted the valorization of internationalism and proposed that artists in nations occupying so-called closed zones and less oriented to Europe and the United States were the most socially and artistically radical of the region."
+                  "text": " outside the limits of our continent.”(21) Much of her argument revolved around recognizing the cultural occupation of the hemisphere yet preserving artistic autonomy from the homogenizing forces of consumerism in global capitalism. Her notion of “culture of resistance,” which was committed to art as visual and political representation, if taken to its logical conclusion, proposed some bloc or solidarity, though not necessarily Latin America, and denounced Europe and the United States for masquerading as the universal culture. "
                 }
               ]
             }
@@ -781,7 +743,9 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
+                  "text": "Figure 2",
+                  "bold": true,
+                  "textSize": "heading-three"
                 }
               ]
             },
@@ -794,7 +758,7 @@
                   "text": ""
                 }
               ],
-              "scale": 90,
+              "scale": 100,
               "align": "center"
             },
             {
@@ -815,7 +779,30 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "     "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Traba's enemy was avant-gardism, which she regarded as “terrorism” and saw creeping into Latin American artistic self-definition, reiterating and ratifying the centrality of Paris and New York. The context for Traba’s charged rhetoric was not only US-backed violence in the region, including in the authoritarian regimes in Brazil, Bolivia, Chile, and Uruguay, but also her 1973 book, "
+        },
+        {
+          "text": "Dos décadas vulnerables en las artes plásticas latinoamericanas",
+          "italic": true
+        },
+        {
+          "text": ", 1950–1970, which was referenced several times during the symposium.(22) The book subverted the valorization of internationalism and proposed that artists in nations occupying so-called closed zones and less oriented to Europe and the United States were the most socially and artistically radical of the region."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -1017,7 +1004,7 @@
                   "text": ""
                 }
               ],
-              "scale": 70,
+              "scale": 85,
               "align": "center",
               "caption": "Figure 3. Photographs of the Austin Symposium, October 29, 1975. Visible: Juan Acha, Aracy Amaral, Damián Bayón, Rita Eder, Leonel Góngora, among others. Archives of the Blanton Museum of Art, The University of Texas at Austin (photographs by Mike Musson)"
             },
@@ -1080,14 +1067,7 @@
                   "bold": true
                 },
                 {
-                  "text": " The trilingualism of the event is also put into question. One of the Brazilian speakers, Amaral, spoke in Spanish, and it is unclear how consistently the contributions in Portuguese by the other Brazilians, Affonso Romano de Sant’Anna and José Mindlin (speakers) and Frederico Morais (audience member) were translated. Other edits seem innocuous enough. Gone are introductory remarks on the first day that stretched for almost a half hour."
-                },
-                {
-                  "text": "[38, rec. 3 and 4] ",
-                  "bold": true
-                },
-                {
-                  "text": "But these introductions, all by men, delineated a masculinist space, with florid welcomes to honored guests: Gamboa, Gómez Sicre, Paz (present via a representative), and Tamayo, along with Duncan. The discussions that followed focused on male artists and writers, with Jorge Luis Borges such a ubiquitous reference that it became a running joke among the speakers."
+                  "text": " "
                 }
               ]
             }
@@ -1125,162 +1105,22 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "The trilingualism of the event is also put into question. One of the Brazilian speakers, Amaral, spoke in Spanish, and it is unclear how consistently the contributions in Portuguese by the other Brazilians, Affonso Romano de Sant’Anna and José Mindlin (speakers) and Frederico Morais (audience member) were translated. Other edits seem innocuous enough. Gone are introductory remarks on the first day that stretched for almost a half hour."
+        },
+        {
+          "text": "[38, rec. 3 and 4] ",
+          "bold": true
+        },
+        {
+          "text": "But these introductions, all by men, delineated a masculinist space, with florid welcomes to honored guests: Gamboa, Gómez Sicre, Paz (present via a representative), and Tamayo, along with Duncan. The discussions that followed focused on male artists and writers, with Jorge Luis Borges such a ubiquitous reference that it became a running joke among the speakers."
         }
       ]
     },
     {
       "type": "grid",
       "layout": [
-        2,
-        4
+        6
       ],
-      "children": [
-        {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "uuid": "d6908b7b-e854-4349-a5a2-9c821126e135",
-              "includes": [
-                "media",
-                "annotations"
-              ],
-              "start": 1440,
-              "end": 1515,
-              "file": "31b5e7a5-489a-491b-99cd-a533117d6fc8",
-              "type": "event",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "grid",
-              "layout": [
-                3,
-                3
-              ],
-              "children": [
-                {
-                  "type": "column",
-                  "children": [
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
-                        }
-                      ]
-                    },
-                    {
-                      "uuid": "9105d109-d6df-4e48-894f-8a17a1f7b235",
-                      "includes": [
-                        "media",
-                        "annotations"
-                      ],
-                      "start": 735,
-                      "end": 1868,
-                      "file": "ea0a7b90-6266-4b2a-a4b5-8460cadbb0f5",
-                      "type": "event",
-                      "children": [
-                        {
-                          "text": ""
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "column",
-                  "children": [
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
-                        }
-                      ]
-                    },
-                    {
-                      "uuid": "de4c94a8-6ba8-4efa-8cf6-61b3799d5e0a",
-                      "includes": [
-                        "media",
-                        "annotations"
-                      ],
-                      "start": 15,
-                      "end": 360,
-                      "file": "fc3fcb15-a040-4d5b-ac96-7591d6160df2",
-                      "type": "event",
-                      "children": [
-                        {
-                          "text": ""
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "children": [
-                        {
-                          "text": ""
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -1546,9 +1386,7 @@
       "uuid": "6d05aef4-0d3a-4d30-a18a-890292f60689",
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "annotations"
       ],
       "start": 710,
       "end": 730,
@@ -1630,7 +1468,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "      Bayón did include what followed: alongside her compliments to Amaral, Cuevas, and others, Traba issued a full-voiced critique of the conference as a whole, including for its exclusions, namely of Gómez Sicre, who was not given a speaking role. Moreover, she drilled down on the ideological gaslighting underway in the event: rather than a frank acknowledgment of the neocolonial conditions of contemporary society—in which Europe and the United States force dependency on Latin America—the symposium organizers chose to “camouflage” this reality. Instead, they proposed the premise that Latin America is a region “economically underdeveloped, but culturally developed (which is the equivalent of saying that we have people blighted by hunger and ignorance while our intellectuals are ‘enlightened’ by French trends and North American pragmatism).”(42)"
+          "text": "      "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "     Bayón did include what followed: alongside her compliments to Amaral, Cuevas, and others, Traba issued a full-voiced critique of the conference as a whole, including for its exclusions, namely of Gómez Sicre, who was not given a speaking role. Moreover, she drilled down on the ideological gaslighting underway in the event: rather than a frank acknowledgment of the neocolonial conditions of contemporary society—in which Europe and the United States force dependency on Latin America—the symposium organizers chose to “camouflage” this reality. Instead, they proposed the premise that Latin America is a region “economically underdeveloped, but culturally developed (which is the equivalent of saying that we have people blighted by hunger and ignorance while our intellectuals are ‘enlightened’ by French trends and North American pragmatism).”(42)"
         }
       ]
     },
@@ -1676,8 +1522,7 @@
       "uuid": "f293c293-8b24-45d0-bc2d-0609abb69e69",
       "includes": [
         "media",
-        "annotations",
-        "description"
+        "annotations"
       ],
       "start": 1420,
       "end": 1447,
@@ -1739,8 +1584,7 @@
       "uuid": "6d05aef4-0d3a-4d30-a18a-890292f60689",
       "includes": [
         "media",
-        "annotations",
-        "description"
+        "annotations"
       ],
       "start": 1024,
       "end": 1040,
@@ -1780,7 +1624,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "     When identification with a racialized community did occur at the symposium, it did not guarantee that an attendee’s assessment corresponded with social justice and cultural autonomy aims. Tamayo, who claimed Zapotec heritage, drew criticism, including from Peruvian scholar Rodríguez Saavedra, for his assertion that Mexico, with its official championing of the Indigenous, was the one true Latin American country, while the others were populated by European transplants.(48) "
+          "text": "     When identification with a racialized community did occur at the symposium, it did not guarantee that an attendee’s assessment corresponded with social justice and cultural autonomy aims. Tamayo, who claimed Zapotec heritage, drew criticism, including from Peruvian scholar Rodríguez Saavedra, for his assertion that Mexico, with its official championing of the Indigenous, was the one true Latin American country, while the others were populated by European transplants. "
+        },
+        {
+          "text": "[48, rec. 11]",
+          "bold": true
+        },
+        {
+          "text": " "
         },
         {
           "text": "Mestizaje",
@@ -1810,7 +1661,9 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "(48) Tape 18, 17:33–23:10 min"
+          "text": "Recording 11",
+          "textSize": "heading-three",
+          "italic": true
         }
       ]
     },
@@ -1826,8 +1679,7 @@
       "uuid": "6d05aef4-0d3a-4d30-a18a-890292f60689",
       "includes": [
         "media",
-        "annotations",
-        "description"
+        "annotations"
       ],
       "start": 1053,
       "end": 1390,
@@ -1836,15 +1688,6 @@
       "children": [
         {
           "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "",
-          "italic": true
         }
       ]
     },
@@ -1947,14 +1790,6 @@
       ]
     },
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "code-block",
       "children": [
         {
@@ -1985,8 +1820,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "1. John King, “The Boom of the Latin American Novel,” in The Cambridge Companion to the Latin American Novel, ed. Efraín Kristal (Cambridge: Cambridge University Press, 2005), 59–80. ",
-          "textSize": "small"
+          "text": "1. John King, “The Boom of the Latin American Novel,” in The Cambridge Companion to the Latin American Novel, ed. Efraín Kristal (Cambridge: Cambridge University Press, 2005), 59–80. "
         }
       ]
     },
@@ -1994,8 +1828,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "2. See Taína B. Caragol-Barreto, “Boom and Dust: The Rise of Latin American and Latino Art in New York Exhibition Spaces and the Auction House Market, 1970s–1980s” (PhD diss., City University of New York, 2013). ",
-          "textSize": "small"
+          "text": "2. See Taína B. Caragol-Barreto, “Boom and Dust: The Rise of Latin American and Latino Art in New York Exhibition Spaces and the Auction House Market, 1970s–1980s” (PhD diss., City University of New York, 2013). "
         }
       ]
     },
@@ -2003,8 +1836,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "3. While the Austin Symposium is frequently mentioned in the literature, closer readings are more limited. For the latter, see Jose´ Luis de la Nuez Santana, “Un momento relevante en la historia de la crítica artística latinoamericana de la segunda mitad del siglo XX: el simposio de Austin (1975),” Revista de historiografía 33 (2020): 83–107; Fabiana Serviddio, Arte y crítica en Latinoamérica durante los años setenta (Buenos Aires: Miño y Dávila, 2012); Camila Maroja, “Framing Latin American Art: Artists, Critics, Institutions, and the Configuration of a Regional Identity” (PhD diss., Duke University, 2015), 55–68; Héctor Olea, Mari Carmen Ramírez, and Tomás Ybarra-Frausto, Resisting Categories: Latin American and/or Latino? (Houston: International Center for the Arts of the Americas; New Haven, CT: Yale University Press, 2012), 595–97, 740–41; and Andrea Giunta, “América Latina en disputa: apuntes para una historiografía del arte latinoamericano,” paper presented at Art Studies from Latin America, Instituto de Investigaciones Estéticas, Universidad Nacional Autónoma de México, Oaxaca, February 1–5, 1996, www.esteticas.unam.mx/edartedal/ PDF/Oaxaca/complets/giunta_oaxaca96.pdf.",
-          "textSize": "small"
+          "text": "3. While the Austin Symposium is frequently mentioned in the literature, closer readings are more limited. For the latter, see Jose´ Luis de la Nuez Santana, “Un momento relevante en la historia de la crítica artística latinoamericana de la segunda mitad del siglo XX: el simposio de Austin (1975),” Revista de historiografía 33 (2020): 83–107; Fabiana Serviddio, Arte y crítica en Latinoamérica durante los años setenta (Buenos Aires: Miño y Dávila, 2012); Camila Maroja, “Framing Latin American Art: Artists, Critics, Institutions, and the Configuration of a Regional Identity” (PhD diss., Duke University, 2015), 55–68; Héctor Olea, Mari Carmen Ramírez, and Tomás Ybarra-Frausto, Resisting Categories: Latin American and/or Latino? (Houston: International Center for the Arts of the Americas; New Haven, CT: Yale University Press, 2012), 595–97, 740–41; and Andrea Giunta, “América Latina en disputa: apuntes para una historiografía del arte latinoamericano,” paper presented at Art Studies from Latin America, Instituto de Investigaciones Estéticas, Universidad Nacional Autónoma de México, Oaxaca, February 1–5, 1996, www.esteticas.unam.mx/edartedal/ PDF/Oaxaca/complets/giunta_oaxaca96.pdf."
         }
       ]
     },
@@ -2012,8 +1844,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": " 4. While Latin American studies was significantly shaped by the US government (and private organizations such as the Ford and Carnegie Foundations), the post–World War II traffic in the idea of Latin America was a transnational affair. See Claire Fox, Making Art Panamerican: Cultural Policy and the Cold War (Minneapolis: University of Minnesota Press, 2013); Ronald H. Chilcote, “The Cold War and the Transformation of Latin American Studies in the United States,” Latin American Perspectives 45, no. 4 (2018): 6–41.  ",
-          "textSize": "small"
+          "text": " 4. While Latin American studies was significantly shaped by the US government (and private organizations such as the Ford and Carnegie Foundations), the post–World War II traffic in the idea of Latin America was a transnational affair. See Claire Fox, Making Art Panamerican: Cultural Policy and the Cold War (Minneapolis: University of Minnesota Press, 2013); Ronald H. Chilcote, “The Cold War and the Transformation of Latin American Studies in the United States,” Latin American Perspectives 45, no. 4 (2018): 6–41.  "
         }
       ]
     },
@@ -2021,8 +1852,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "5. Tatiana Flores, “‘Latinidad Is Cancelled’: Confronting an Anti-Black Construct,” Latin American and Latinx Visual Culture 3, no. 3 (2021): 59. See also Arlene Dávila, Latinx Art: Artists, Markets, Politics (Durham, NC: Duke University Press, 2020). ",
-          "textSize": "small"
+          "text": "5. Tatiana Flores, “‘Latinidad Is Cancelled’: Confronting an Anti-Black Construct,” Latin American and Latinx Visual Culture 3, no. 3 (2021): 59. See also Arlene Dávila, Latinx Art: Artists, Markets, Politics (Durham, NC: Duke University Press, 2020). "
         }
       ]
     },
@@ -2030,8 +1860,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "6. “Pero una ficción y sostenida tanto, que ha llegado a tener una forma de realidad.” Jorge Alberto Manrique, “Invención del arte latinoamericano,” paper presented at the Primer Encuentro Iberoamericano de Críticos del Arte y Artistas Plásticos, Caracas, June 18–27, 1978, reproduced in Documents of Latin American and Latino Art, International Center for the Arts of the Americas, Museum of Fine Arts, Houston (hereafter ICAA Documents), https://icaa.mfah.org/s/en/item/815432. Unless otherwise noted, translations are by the authors. ",
-          "textSize": "small"
+          "text": "6. “Pero una ficción y sostenida tanto, que ha llegado a tener una forma de realidad.” Jorge Alberto Manrique, “Invención del arte latinoamericano,” paper presented at the Primer Encuentro Iberoamericano de Críticos del Arte y Artistas Plásticos, Caracas, June 18–27, 1978, reproduced in Documents of Latin American and Latino Art, International Center for the Arts of the Americas, Museum of Fine Arts, Houston (hereafter ICAA Documents), https://icaa.mfah.org/s/en/item/815432. Unless otherwise noted, translations are by the authors. "
         }
       ]
     },
@@ -2039,8 +1868,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "7. Héctor Olea, Mari Carmen Ramírez, and Toma´s Ybarra-Frausto, “Resisting Categories,” in Olea, Ramírez, and Ybarra-Frausto, Resisting Categories, 43. Emphasis in the original. ",
-          "textSize": "small"
+          "text": "7. Héctor Olea, Mari Carmen Ramírez, and Toma´s Ybarra-Frausto, “Resisting Categories,” in Olea, Ramírez, and Ybarra-Frausto, Resisting Categories, 43. Emphasis in the original. "
         }
       ]
     },
@@ -2048,8 +1876,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "8. Mauricio Tenorio-Trillo, Latin America: The Allure and Power of an Idea (Chicago: University of Chicago Press, 2017), 168. ",
-          "textSize": "small"
+          "text": "8. Mauricio Tenorio-Trillo, Latin America: The Allure and Power of an Idea (Chicago: University of Chicago Press, 2017), 168. "
         }
       ]
     },
@@ -2057,8 +1884,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "9. The symposium was part of an annual arts festival at UT. Its primary sponsors were the Institute of Latin American Studies, led by economist William Glade, the College of the Humanities, and the College of the Fine Arts. Glade increased the original budget to pay for invitees from South America. Letter from Donald Goodall to Barbara Duncan, July 25, 1975, Box 22, Folder 3, Barbara Doyle Duncan Papers, Benson Latin American Collection, University of Texas at Austin (hereafter Benson Collection). ",
-          "textSize": "small"
+          "text": "9. The symposium was part of an annual arts festival at UT. Its primary sponsors were the Institute of Latin American Studies, led by economist William Glade, the College of the Humanities, and the College of the Fine Arts. Glade increased the original budget to pay for invitees from South America. Letter from Donald Goodall to Barbara Duncan, July 25, 1975, Box 22, Folder 3, Barbara Doyle Duncan Papers, Benson Latin American Collection, University of Texas at Austin (hereafter Benson Collection). "
         }
       ]
     },
@@ -2066,8 +1892,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "10. Florencia Bazzano, “Latin American Art at the University of Texas at Austin: The University Art Museum,” in Art Museums of Latin America: Structuring Representation, ed. Michelle Greet and Gina McDaniel Tarver (New York: Routledge, 2018), 187–88. ",
-          "textSize": "small"
+          "text": "10. Florencia Bazzano, “Latin American Art at the University of Texas at Austin: The University Art Museum,” in Art Museums of Latin America: Structuring Representation, ed. Michelle Greet and Gina McDaniel Tarver (New York: Routledge, 2018), 187–88. "
         }
       ]
     },
@@ -2075,8 +1900,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "11. Damián Bayón, ed., El artista latinoamericano y su identidad (Caracas: Monte A´ vila Editores, 1977). ",
-          "textSize": "small"
+          "text": "11. Damián Bayón, ed., El artista latinoamericano y su identidad (Caracas: Monte A´ vila Editores, 1977). "
         }
       ]
     },
@@ -2084,8 +1908,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "12. Out-of-town Participants list, Box 88, Folder 11, Stanton Loomis Catlin Papers, Benson Collection. ",
-          "textSize": "small"
+          "text": "12. Out-of-town Participants list, Box 88, Folder 11, Stanton Loomis Catlin Papers, Benson Collection. "
         }
       ]
     },
@@ -2093,8 +1916,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "13. Invitees: Panelists, Discussants, Observers list, Box 88, Folder 11, Catlin Papers, Benson Collection. ",
-          "textSize": "small"
+          "text": "13. Invitees: Panelists, Discussants, Observers list, Box 88, Folder 11, Catlin Papers, Benson Collection. "
         }
       ]
     },
@@ -2102,8 +1924,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "14. Namely Acha, Amaral, Barnitz, Manrique, Rodríguez Saavedra, and Traba. ",
-          "textSize": "small"
+          "text": "14. Namely Acha, Amaral, Barnitz, Manrique, Rodríguez Saavedra, and Traba. "
         }
       ]
     },
@@ -2111,8 +1932,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "15. Fabiana Serviddio emphasizes that to theorize art in this period depended on the ability to travel to exhibitions and colloquia beyond one’s immediate scene, both to stay informed and to influence. Serviddio, Arte y crítica. ",
-          "textSize": "small"
+          "text": "15. Fabiana Serviddio emphasizes that to theorize art in this period depended on the ability to travel to exhibitions and colloquia beyond one’s immediate scene, both to stay informed and to influence. Serviddio, Arte y crítica. "
         }
       ]
     },
@@ -2120,8 +1940,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "16. The most recent major academic conference in the United States with a focus on Latin American art had been organized in 1966 on the occasion of the exhibition Art of Latin America since Independence, - 1800–1965, organized by the Yale University Art Gallery and the University of Texas Art Museum, and cocurated by Stanton Catlin and Terence Greider. ",
-          "textSize": "small"
+          "text": "16. The most recent major academic conference in the United States with a focus on Latin American art had been organized in 1966 on the occasion of the exhibition Art of Latin America since Independence, - 1800–1965, organized by the Yale University Art Gallery and the University of Texas Art Museum, and cocurated by Stanton Catlin and Terence Greider. "
         }
       ]
     },
@@ -2129,8 +1948,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "17. Bazzano, “Latin American Art,” 188. ",
-          "textSize": "small"
+          "text": "17. Bazzano, “Latin American Art,” 188. "
         }
       ]
     },
@@ -2138,8 +1956,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "18. In his introductory remarks, Goodall stated that the questions were arrived at after a year and a half of discussion, including during trips to five Latin American countries, and that Bayón and Sakai synthesized the questions into the “skeleton” inserted in the program. Tape 1, 30:35–31:08 min, PHNTAPE 694, Benson Collection. ",
-          "textSize": "small"
+          "text": "18. In his introductory remarks, Goodall stated that the questions were arrived at after a year and a half of discussion, including during trips to five Latin American countries, and that Bayón and Sakai synthesized the questions into the “skeleton” inserted in the program. Tape 1, 30:35–31:08 min, PHNTAPE 694, Benson Collection. "
         }
       ]
     },
@@ -2147,8 +1964,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "19. Lori Cole, Surveying the Avant-Garde: Questions on Modernism, Art, and the Americas in Transatlantic Magazines (University Park: Pennsylvania State University Press, 2018). ",
-          "textSize": "small"
+          "text": "19. Lori Cole, Surveying the Avant-Garde: Questions on Modernism, Art, and the Americas in Transatlantic Magazines (University Park: Pennsylvania State University Press, 2018). "
         }
       ]
     },
@@ -2156,8 +1972,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "20. Flyer, Box 88, Folder 11, Catlin Papers, Benson Collection. ",
-          "textSize": "small"
+          "text": "20. Flyer, Box 88, Folder 11, Catlin Papers, Benson Collection. "
         }
       ]
     },
@@ -2165,8 +1980,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "21. Marta Traba, position paper, p. 1, Box 88, Folder 11, Catlin Papers, Benson Collection. ",
-          "textSize": "small"
+          "text": "21. Marta Traba, position paper, p. 1, Box 88, Folder 11, Catlin Papers, Benson Collection. "
         }
       ]
     },
@@ -2174,8 +1988,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "22. Marta Traba, Dos de´cadas vulnerables en las artes plásticas latinoamericanas, 1950–1970 (Mexico City: Siglo Veintiuno Editores, 1973). ",
-          "textSize": "small"
+          "text": "22. Marta Traba, Dos de´cadas vulnerables en las artes plásticas latinoamericanas, 1950–1970 (Mexico City: Siglo Veintiuno Editores, 1973). "
         }
       ]
     },
@@ -2183,8 +1996,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "23. Juan Acha, position paper, Box 22, Folder 3, Duncan Papers, Benson Collection, n.p. 24. “Hay otro aspecto que desearı´amos enfocar en esta ocasión, no obstante ser manido y viejo: las constantes que presentan los expositores los diferencian de las otras latitudes y, por ende, pueden tipoficarlos como latinoamericanos.” Juan Acha, “Comentarios sobre la exposición ‘Plural’ en Austin,” Plural 52, no. 1 (January 1976): 80. 25. “En buena cuenta, muchas de nuestras creaciones artísticas actuales no poseen rasgos latinoamericanos, sino sintaxis, semánticas y pragmáticas nuevas que – por nuevas – son latinoamericanizables.” Acha, “Comentarios,” 81. ",
-          "textSize": "small"
+          "text": "23. Juan Acha, position paper, Box 22, Folder 3, Duncan Papers, Benson Collection, n.p. 24. “Hay otro aspecto que desearı´amos enfocar en esta ocasión, no obstante ser manido y viejo: las constantes que presentan los expositores los diferencian de las otras latitudes y, por ende, pueden tipoficarlos como latinoamericanos.” Juan Acha, “Comentarios sobre la exposición ‘Plural’ en Austin,” Plural 52, no. 1 (January 1976): 80. 25. “En buena cuenta, muchas de nuestras creaciones artísticas actuales no poseen rasgos latinoamericanos, sino sintaxis, semánticas y pragmáticas nuevas que – por nuevas – son latinoamericanizables.” Acha, “Comentarios,” 81. "
         }
       ]
     },
@@ -2192,8 +2004,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "26. Aracy Amaral, position paper, pp. 1–2, Box 22, Folder 3, Duncan Papers, Benson Collection. ",
-          "textSize": "small"
+          "text": "26. Aracy Amaral, position paper, pp. 1–2, Box 22, Folder 3, Duncan Papers, Benson Collection. "
         }
       ]
     },
@@ -2201,8 +2012,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "27. Amaral, position paper, 1. ",
-          "textSize": "small"
+          "text": "27. Amaral, position paper, 1. "
         }
       ]
     },
@@ -2210,8 +2020,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "28. “Mas nesse simpósio o que deve ser ressaltado e´ que se tratou de encontro latino-americano, no qual os especialistas norte-americanos parecem ter operado mais como observadores da efervesceˆncia da problemática de um continente em expansão.” Aracy Amaral, “Do simpósio de Austin,” Vida das artes 2, no. 1 (January–February 1976): 11. ",
-          "textSize": "small"
+          "text": "28. “Mas nesse simpósio o que deve ser ressaltado e´ que se tratou de encontro latino-americano, no qual os especialistas norte-americanos parecem ter operado mais como observadores da efervesceˆncia da problemática de um continente em expansão.” Aracy Amaral, “Do simpósio de Austin,” Vida das artes 2, no. 1 (January–February 1976): 11. "
         }
       ]
     },
@@ -2219,8 +2028,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "29. Rita Eder, “Why a Latin American Art?” Journal: Southern California Art Magazine 25 (December 1979): 62–65, ICAA Documents, https://icaa.mfah.org/s/en/item/1061782. ",
-          "textSize": "small"
+          "text": "29. Rita Eder, “Why a Latin American Art?” Journal: Southern California Art Magazine 25 (December 1979): 62–65, ICAA Documents, https://icaa.mfah.org/s/en/item/1061782. "
         }
       ]
     },
@@ -2228,8 +2036,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "30. Lori Cole, “‘How Do You Imagine Latin America?’: Questioning Latin American Art and Identity in Print,” The Global South 7, no. 2 (2014): III.",
-          "textSize": "small"
+          "text": "30. Lori Cole, “‘How Do You Imagine Latin America?’: Questioning Latin American Art and Identity in Print,” The Global South 7, no. 2 (2014): III."
         }
       ]
     },
@@ -2237,8 +2044,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "31. Bayón, El artista latinoamericano y su identidad.",
-          "textSize": "small"
+          "text": "31. Bayón, El artista latinoamericano y su identidad."
         }
       ]
     },
@@ -2246,8 +2052,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "32. Juan Acha, Ensayos y ponencias latinoamericanistas (Caracas: Ediciones GAN, 1984), 155–58; Emma Araújo de Vallejo, ed., Marta Traba (Bogotá´: Planeta Colombiana Editorial, 1984), 331–33; Aracy Amaral, Arte e meio artístico: entre a feijoada e o x-burguer, 1961–1981 (Sao Paulo: Nobel, 1982), 226–31; Artes visuales, no. 10 (April–June 1976). As noted by the editors, Resisting Categories includes edited versions of texts by Acha, Amaral, and Traba that combine their spoken remarks (in the Bayón proceedings) and their position papers (which circulated in English translation). Olea, Ramírez, and Ybarra-Frausto, Resisting Categories, 740–53. ",
-          "textSize": "small"
+          "text": "32. Juan Acha, Ensayos y ponencias latinoamericanistas (Caracas: Ediciones GAN, 1984), 155–58; Emma Araújo de Vallejo, ed., Marta Traba (Bogotá´: Planeta Colombiana Editorial, 1984), 331–33; Aracy Amaral, Arte e meio artístico: entre a feijoada e o x-burguer, 1961–1981 (Sao Paulo: Nobel, 1982), 226–31; Artes visuales, no. 10 (April–June 1976). As noted by the editors, Resisting Categories includes edited versions of texts by Acha, Amaral, and Traba that combine their spoken remarks (in the Bayón proceedings) and their position papers (which circulated in English translation). Olea, Ramírez, and Ybarra-Frausto, Resisting Categories, 740–53. "
         }
       ]
     },
@@ -2255,8 +2060,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "33. Mari Carmen Ramírez, “Longing and Belonging,” in Olea, Ramírez, and Ybarra-Frausto, Resisting Categories, 595. ",
-          "textSize": "small"
+          "text": "33. Mari Carmen Ramírez, “Longing and Belonging,” in Olea, Ramírez, and Ybarra-Frausto, Resisting Categories, 595. "
         }
       ]
     },
@@ -2264,8 +2068,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "34. Bayón, El artista latinoamericano y su identidad, 47–50. ",
-          "textSize": "small"
+          "text": "34. Bayón, El artista latinoamericano y su identidad, 47–50. "
         }
       ]
     },
@@ -2273,8 +2076,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "35. “Panel on Latin Criticism Opens Arts Symposium,” The Daily Texan, October 28, 1975. ",
-          "textSize": "small"
+          "text": "35. “Panel on Latin Criticism Opens Arts Symposium,” The Daily Texan, October 28, 1975. "
         }
       ]
     },
@@ -2282,8 +2084,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "36. Bayón, El artista latinoamericano y su identidad, 99–102, 104–5, 114, 117–20, 129, 134, 139–40, 144–45. ",
-          "textSize": "small"
+          "text": "36. Bayón, El artista latinoamericano y su identidad, 99–102, 104–5, 114, 117–20, 129, 134, 139–40, 144–45. "
         }
       ]
     },
@@ -2291,8 +2092,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "37. Tape 17, 24:00–25:15 min, PHNTAPE 694, Benson Collection. ",
-          "textSize": "small"
+          "text": "37. Tape 17, 24:00–25:15 min, PHNTAPE 694, Benson Collection. "
         }
       ]
     },
@@ -2300,8 +2100,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "38. Tape 1, 12:30–31:08 min and Tape 2, 0:15–6:00 min, PHNTAPE 694, Benson Collection. ",
-          "textSize": "small"
+          "text": "38. Tape 1, 12:30–31:08 min and Tape 2, 0:15–6:00 min, PHNTAPE 694, Benson Collection. "
         }
       ]
     },
@@ -2309,8 +2108,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "39. On the literature side, the sole female participant, Argentine scholar Sylvia Molloy, was included in the program but did not attend the symposium. ",
-          "textSize": "small"
+          "text": "39. On the literature side, the sole female participant, Argentine scholar Sylvia Molloy, was included in the program but did not attend the symposium. "
         }
       ]
     },
@@ -2318,8 +2116,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "40. Tape 16, 26:17–29:29 min; Tape 17, 10:49–12:21 min; Tape 18, 11:50–12:02 min, PHNTAPE 694, Benson Collection. ",
-          "textSize": "small"
+          "text": "40. Tape 16, 26:17–29:29 min; Tape 17, 10:49–12:21 min; Tape 18, 11:50–12:02 min, PHNTAPE 694, Benson Collection. "
         }
       ]
     },
@@ -2327,8 +2124,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "41. “En atención al milagro que pudo ser usted consiguiendo que las autoridades de su país me dejaran entrar en Estados Unidos, exactamente catorce días, desde el 26 de octubre hasta el 10 de noviembre, y en atención a que vine de desde Caracas y que he a podido tener cuatro intervenciones, una de tres minutos, y tres de dos minutos. Lo que quiero pedirle, para dar como punto final mis intervenciones, es que usted me concede, así excepcionalmente, cinco minutos. Si no, prefiero no intervenir.” Tape 22, 13:13–15:16 min, PHNTAPE 694, Benson Collection. 42. “Somos un continente subdesarrollado económicamente, pero desarrollado culturalmente (lo que equivale a decir que tenemos pueblos idiotizados por el hambre y la ignorancia e intelectuales esclarecidos por las corrientes francesas y el pragmatismo norteamericano).” Bayón, El artista latinoamericano y su identidad, 105–6. ",
-          "textSize": "small"
+          "text": "41. “En atención al milagro que pudo ser usted consiguiendo que las autoridades de su país me dejaran entrar en Estados Unidos, exactamente catorce días, desde el 26 de octubre hasta el 10 de noviembre, y en atención a que vine de desde Caracas y que he a podido tener cuatro intervenciones, una de tres minutos, y tres de dos minutos. Lo que quiero pedirle, para dar como punto final mis intervenciones, es que usted me concede, así excepcionalmente, cinco minutos. Si no, prefiero no intervenir.” Tape 22, 13:13–15:16 min, PHNTAPE 694, Benson Collection. 42. “Somos un continente subdesarrollado económicamente, pero desarrollado culturalmente (lo que equivale a decir que tenemos pueblos idiotizados por el hambre y la ignorancia e intelectuales esclarecidos por las corrientes francesas y el pragmatismo norteamericano).” Bayón, El artista latinoamericano y su identidad, 105–6. "
         }
       ]
     },
@@ -2336,8 +2132,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "43. Bayón, 91, 144–45. ",
-          "textSize": "small"
+          "text": "43. Bayón, 91, 144–45. "
         }
       ]
     },
@@ -2345,8 +2140,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "44. Tape 26, 23:40–24:00 min, PHNTAPE 694, Benson Collection. Bayón alters Briseño’s word choices when translating his words into Spanish, most significantly shifting “deeply resent” to “lamento profundamente,” in the proceedings. Bayón, El artista latinoamericano y su identidad, 145. Also see Cary Cordova, “Oral History Interview with Rolando Brisen˜o,” March 16–26, 2004, Archives of American Art, www.aaa.si.edu/collections/ interviews/oral-history-interview-rolando-briseo-12193#transcript. ",
-          "textSize": "small"
+          "text": "44. Tape 26, 23:40–24:00 min, PHNTAPE 694, Benson Collection. Bayón alters Briseño’s word choices when translating his words into Spanish, most significantly shifting “deeply resent” to “lamento profundamente,” in the proceedings. Bayón, El artista latinoamericano y su identidad, 145. Also see Cary Cordova, “Oral History Interview with Rolando Briseño,” March 16–26, 2004, Archives of American Art, www.aaa.si.edu/collections/ interviews/oral-history-interview-rolando-briseo-12193#transcript. "
         }
       ]
     },
@@ -2354,8 +2148,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "45. Bayón, El artista latinoamericano y su identidad, 87.",
-          "textSize": "small"
+          "text": "45. Bayón, El artista latinoamericano y su identidad, 87."
         }
       ]
     },
@@ -2363,8 +2156,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "46. Tape 18, 17:04–17:20 min, PHNTAPE 694, Benson Collection. ",
-          "textSize": "small"
+          "text": "46. Tape 18, 17:04–17:20 min, PHNTAPE 694, Benson Collection. "
         }
       ]
     },
@@ -2372,8 +2164,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "47. Traba, position paper, 5. ",
-          "textSize": "small"
+          "text": "47. Traba, position paper, 5. "
         }
       ]
     },
@@ -2381,8 +2172,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "48. Bayón, El artista latinoamericano y su identidad, 91–94; Tape 18, 17:33–23:10 min, PHNTAPE 694, Benson Collection. We thank Mary K. Coffey for her insights on Tamayo’s comments. ",
-          "textSize": "small"
+          "text": "48. Bayón, El artista latinoamericano y su identidad, 91–94; Tape 18, 17:33–23:10 min, PHNTAPE 694, Benson Collection. We thank Mary K. Coffey for her insights on Tamayo’s comments. "
         }
       ]
     },
@@ -2390,8 +2180,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "49. For an insightful analysis of UT, which was founded in 1883, as a neoconfederate university via its built environments, see Edmund T. Gordon’s “Racial Geography Tour” (http://racialgeographytour.org/). ",
-          "textSize": "small"
+          "text": "49. For an insightful analysis of UT, which was founded in 1883, as a neoconfederate university via its built environments, see Edmund T. Gordon’s “Racial Geography Tour” (http://racialgeographytour.org/). "
         }
       ]
     },
@@ -2399,8 +2188,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "50. Night Entertainment list, Box 88, Folder 11, Catlin Papers, Benson Collection.",
-          "textSize": "small"
+          "text": "50. Night Entertainment list, Box 88, Folder 11, Catlin Papers, Benson Collection."
         }
       ]
     },
@@ -2429,7 +2217,7 @@
   "slug": "latin-american-art-by-and-for-whom",
   "created_at": "2026-03-04T16:51:52.975Z",
   "created_by": "luzgonz-glitch",
-  "updated_at": "2026-05-07T22:07:16.532Z",
+  "updated_at": "2026-06-11T16:20:45.605Z",
   "updated_by": "luzgonz-glitch",
   "parent": "30cee196-f789-4dda-8803-cbacf1eb1f5f"
 }
